@@ -1,0 +1,57 @@
+[
+    {
+        "url": "https://habr.com/ru/companies/express/articles/910694/",
+        "title": "Ролевая модель в мессенджере: как одновременно работать с открытой и конфиденциальной информацией",
+        "author": "papushata",
+        "date": "2025-05-19",
+        "time": "13:21",
+        "votes": "+8",
+        "comments": "0",
+        "bookmarks": "8",
+        "views": "1042"
+    },
+    {
+        "url": "https://habr.com/ru/companies/express/articles/901342/",
+        "title": "Применяем метод Getting Things Done (GTD) в рабочем мессенджере с помощью тегов",
+        "author": "Dshugaley",
+        "date": "2025-04-17",
+        "time": "13:53",
+        "votes": "+3",
+        "comments": "0",
+        "bookmarks": "17",
+        "views": "2051"
+    },
+    {
+        "url": "https://habr.com/ru/companies/express/articles/858488/",
+        "title": "Сертификация ФСТЭК: самый подробный гайд. Часть вторая – процесс сертификации",
+        "author": "maxislive77",
+        "date": "2024-11-14",
+        "time": "10:41",
+        "votes": "+7",
+        "comments": "0",
+        "bookmarks": "26",
+        "views": "5372"
+    },
+    {
+        "url": "https://habr.com/ru/companies/express/articles/856192/",
+        "title": "Сертификация ФСТЭК: самый подробный гайд. Часть первая – подготовка",
+        "author": "maxislive77",
+        "date": "2024-11-05",
+        "time": "12:32",
+        "votes": "+7",
+        "comments": "10",
+        "bookmarks": "52",
+        "views": "13075"
+    },
+    {
+        "url": "https://habr.com/ru/companies/express/articles/852268/",
+        "title": "Как в eXpress достигали мгновенного рендера отправки сообщения: оптимизация локальной базы данных",
+        "author": "seal_android",
+        "date": "2024-10-22",
+        "time": "08:42",
+        "votes": "+12",
+        "comments": "16",
+        "bookmarks": "15",
+        "views": "4482"
+    }
+]

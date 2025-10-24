@@ -1,0 +1,178 @@
+[
+    {
+        "url": "https://habr.com/ru/articles/952004/",
+        "title": "Рынок эйчара",
+        "author": "Ioanna",
+        "date": "2025-09-30",
+        "time": "09:31",
+        "votes": "+295",
+        "comments": "342",
+        "bookmarks": "60",
+        "views": "36199"
+    },
+    {
+        "url": "https://habr.com/ru/articles/940032/",
+        "title": "Тренажер французских числительных на Jetpack Compose",
+        "author": "Ioanna",
+        "date": "2025-08-23",
+        "time": "11:08",
+        "votes": "+4",
+        "comments": "12",
+        "bookmarks": "6",
+        "views": "1361"
+    },
+    {
+        "url": "https://habr.com/ru/articles/922962/",
+        "title": "Ныряем в холодные потоки Kotlin Flow",
+        "author": "Ioanna",
+        "date": "2025-06-29",
+        "time": "06:49",
+        "votes": "+5",
+        "comments": "12",
+        "bookmarks": "37",
+        "views": "4206"
+    },
+    {
+        "url": "https://habr.com/ru/articles/922316/",
+        "title": "Как ChatGPT удалил в нашем чате 555 спам-сообщений с точностью 98,38%",
+        "author": "Ioanna",
+        "date": "2025-06-27",
+        "time": "06:30",
+        "votes": "+32",
+        "comments": "45",
+        "bookmarks": "51",
+        "views": "12442"
+    },
+    {
+        "url": "https://habr.com/ru/articles/900046/",
+        "title": "Весеннее приложение для Android",
+        "author": "Ioanna",
+        "date": "2025-04-11",
+        "time": "12:41",
+        "votes": "+12",
+        "comments": "2",
+        "bookmarks": "5",
+        "views": "1161"
+    },
+    {
+        "url": "https://habr.com/ru/articles/895926/",
+        "title": "Офисы большого города",
+        "author": "Ioanna",
+        "date": "2025-03-31",
+        "time": "06:09",
+        "votes": "+16",
+        "comments": "24",
+        "bookmarks": "8",
+        "views": "2315"
+    },
+    {
+        "url": "https://habr.com/ru/articles/894892/",
+        "title": "Корутины Kotlin: быстрый старт",
+        "author": "Ioanna",
+        "date": "2025-03-27",
+        "time": "09:29",
+        "votes": "+8",
+        "comments": "4",
+        "bookmarks": "47",
+        "views": "3746"
+    },
+    {
+        "url": "https://habr.com/ru/articles/871418/",
+        "title": "Ключевание стоковых изображений с помощью Batch API от OpenAI",
+        "author": "Ioanna",
+        "date": "2025-01-03",
+        "time": "12:28",
+        "votes": "+6",
+        "comments": "21",
+        "bookmarks": "12",
+        "views": "2491"
+    },
+    {
+        "url": "https://habr.com/ru/articles/855824/",
+        "title": "Интеграция Telegram-бота с ЮKassa",
+        "author": "Ioanna",
+        "date": "2024-11-03",
+        "time": "19:20",
+        "votes": "+7",
+        "comments": "14",
+        "bookmarks": "56",
+        "views": "14618"
+    },
+    {
+        "url": "https://habr.com/ru/articles/853804/",
+        "title": "Мечта почемучки с GPT-4o и Telegram",
+        "author": "Ioanna",
+        "date": "2024-10-27",
+        "time": "12:17",
+        "votes": "+4",
+        "comments": "24",
+        "bookmarks": "28",
+        "views": "11447"
+    },
+    {
+        "url": "https://habr.com/ru/articles/809127/",
+        "title": "Тестирование UI в Compose Multiplatform",
+        "author": "Ioanna",
+        "date": "2024-04-20",
+        "time": "06:58",
+        "votes": "+4",
+        "comments": "2",
+        "bookmarks": "25",
+        "views": "2953"
+    },
+    {
+        "url": "https://habr.com/ru/articles/722676/",
+        "title": "Простейший полнотекстовый поиск на Python с поддержкой морфологии",
+        "author": "Ioanna",
+        "date": "2023-03-15",
+        "time": "20:27",
+        "votes": "+7",
+        "comments": "3",
+        "bookmarks": "87",
+        "views": "10626"
+    },
+    {
+        "url": "https://habr.com/ru/articles/706888/",
+        "title": "Как мы жили в эпоху dial-up",
+        "author": "Ioanna",
+        "date": "2022-12-21",
+        "time": "13:09",
+        "votes": "+26",
+        "comments": "82",
+        "bookmarks": "17",
+        "views": "8635"
+    },
+    {
+        "url": "https://habr.com/ru/articles/706224/",
+        "title": "Изучить словарь «Властелина Колец» при помощи кривой Эббингауза",
+        "author": "Ioanna",
+        "date": "2022-12-19",
+        "time": "09:04",
+        "votes": "+8",
+        "comments": "11",
+        "bookmarks": "29",
+        "views": "6213"
+    },
+    {
+        "url": "https://habr.com/ru/articles/686894/",
+        "title": "Почему аспирантура — зло",
+        "author": "Ioanna",
+        "date": "2022-09-07",
+        "time": "09:22",
+        "votes": "+191",
+        "comments": "484",
+        "bookmarks": "146",
+        "views": "100767"
+    },
+    {
+        "url": "https://habr.com/ru/articles/268363/",
+        "title": "Опыт разработки программы-тренажера для проведения практических работ студентов",
+        "author": "Ioanna",
+        "date": "2015-10-06",
+        "time": "16:52",
+        "votes": "+6",
+        "comments": "12",
+        "bookmarks": "56",
+        "views": "15755"
+    }
+]

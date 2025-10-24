@@ -1,0 +1,156 @@
+[
+    {
+        "url": "https://habr.com/ru/companies/idaproject/articles/903112/",
+        "title": "Разыскивается живым или мёртвым: легендарная история Себастьяна Рамиреса",
+        "author": "PyLounge",
+        "date": "2025-04-24",
+        "time": "08:49",
+        "votes": "+46",
+        "comments": "7",
+        "bookmarks": "54",
+        "views": "9641"
+    },
+    {
+        "url": "https://habr.com/ru/companies/idaproject/articles/896714/",
+        "title": "Наш зоопарк AI: Гендальф, Сэмуайз Гэмджи, Око Саурона и Midjourney",
+        "author": "djcrhk3chabr",
+        "date": "2025-04-03",
+        "time": "07:43",
+        "votes": "+21",
+        "comments": "1",
+        "bookmarks": "16",
+        "views": "1108"
+    },
+    {
+        "url": "https://habr.com/ru/companies/idaproject/articles/896116/",
+        "title": "Гори, но не сгорай: как справиться с выгоранием от работы",
+        "author": "aparkulab",
+        "date": "2025-04-01",
+        "time": "07:59",
+        "votes": "+26",
+        "comments": "7",
+        "bookmarks": "58",
+        "views": "10626"
+    },
+    {
+        "url": "https://habr.com/ru/companies/idaproject/articles/894552/",
+        "title": "Быстрее, выше, сильнее: сравнение подходов poetry, rye и uv",
+        "author": "djcrhk3chabr",
+        "date": "2025-03-27",
+        "time": "08:17",
+        "votes": "+18",
+        "comments": "10",
+        "bookmarks": "51",
+        "views": "3058"
+    },
+    {
+        "url": "https://habr.com/ru/companies/idaproject/articles/893900/",
+        "title": "Ситуативный подход: как договариваться с командой, клиентом и своей совестью",
+        "author": "Ksenia_Fedotova",
+        "date": "2025-03-25",
+        "time": "08:02",
+        "votes": "+26",
+        "comments": "3",
+        "bookmarks": "33",
+        "views": "1972"
+    },
+    {
+        "url": "https://habr.com/ru/companies/idaproject/articles/891810/",
+        "title": "До и после: оптимизация изображений для Lighthouse и не только",
+        "author": "nebykoff_anton",
+        "date": "2025-03-20",
+        "time": "08:03",
+        "votes": "+30",
+        "comments": "2",
+        "bookmarks": "32",
+        "views": "2388"
+    },
+    {
+        "url": "https://habr.com/ru/companies/idaproject/articles/891578/",
+        "title": "Делаем жизнь легче: быстрый поиск в django и postgresql с помощью search_vector",
+        "author": "tratatatanya",
+        "date": "2025-03-18",
+        "time": "08:19",
+        "votes": "+31",
+        "comments": "3",
+        "bookmarks": "87",
+        "views": "5937"
+    },
+    {
+        "url": "https://habr.com/ru/companies/idaproject/articles/889600/",
+        "title": "Offset Explorer: разбираемся в базе",
+        "author": "PyLounge",
+        "date": "2025-03-13",
+        "time": "08:43",
+        "votes": "+13",
+        "comments": "4",
+        "bookmarks": "37",
+        "views": "9033"
+    },
+    {
+        "url": "https://habr.com/ru/companies/idaproject/articles/889602/",
+        "title": "Welcome to the club, buddy: зеленые флаги работодателей",
+        "author": "PyLounge",
+        "date": "2025-03-11",
+        "time": "08:08",
+        "votes": "+44",
+        "comments": "14",
+        "bookmarks": "63",
+        "views": "6824"
+    },
+    {
+        "url": "https://habr.com/ru/companies/idaproject/articles/874994/",
+        "title": "Test Your Destiny, или как составить хорошее тестовое задание",
+        "author": "PyLounge",
+        "date": "2025-01-23",
+        "time": "07:59",
+        "votes": "+22",
+        "comments": "8",
+        "bookmarks": "26",
+        "views": "2305"
+    },
+    {
+        "url": "https://habr.com/ru/companies/idaproject/articles/869362/",
+        "title": "Битва двух якодзун: Grafana K6 vs Django DRF + Nginx",
+        "author": "djcrhk3chabr",
+        "date": "2025-01-10",
+        "time": "08:00",
+        "votes": "+27",
+        "comments": "9",
+        "bookmarks": "50",
+        "views": "5468"
+    },
+    {
+        "url": "https://habr.com/ru/companies/idaproject/articles/868060/",
+        "title": "Базовая настройка SAST и DAST для django в gitlab cicd: как быстро внедрить решения по безопасности",
+        "author": "djcrhk3chabr",
+        "date": "2024-12-26",
+        "time": "08:07",
+        "votes": "+16",
+        "comments": "2",
+        "bookmarks": "37",
+        "views": "3093"
+    },
+    {
+        "url": "https://habr.com/ru/companies/idaproject/articles/865036/",
+        "title": "Большой гайд по миграциям в Django: полезные советы и обход типичных подводных камней",
+        "author": "PyLounge",
+        "date": "2024-12-12",
+        "time": "08:17",
+        "votes": "+24",
+        "comments": "5",
+        "bookmarks": "79",
+        "views": "7858"
+    },
+    {
+        "url": "https://habr.com/ru/companies/idaproject/articles/861386/",
+        "title": "Большой гайд по миграциям в Django: готовимся к миграциям и избегаем конфликтов",
+        "author": "PyLounge",
+        "date": "2024-11-28",
+        "time": "09:55",
+        "votes": "+38",
+        "comments": "22",
+        "bookmarks": "101",
+        "views": "10611"
+    }
+]

@@ -1,0 +1,211 @@
+[
+    {
+        "url": "https://habr.com/ru/companies/3rdman/articles/921130/",
+        "title": "Конструктор шины PCIe",
+        "author": "sdy",
+        "date": "2025-06-23",
+        "time": "17:48",
+        "votes": "+38",
+        "comments": "23",
+        "bookmarks": "45",
+        "views": "5968"
+    },
+    {
+        "url": "https://habr.com/ru/companies/3rdman/articles/918254/",
+        "title": "Разработка своего компактного TerraMaster на основе Twin Lake-N и PCIe Switch",
+        "author": "sdy",
+        "date": "2025-06-13",
+        "time": "20:09",
+        "votes": "+21",
+        "comments": "18",
+        "bookmarks": "29",
+        "views": "4857"
+    },
+    {
+        "url": "https://habr.com/ru/companies/3rdman/articles/820567/",
+        "title": "BananaNAS — портативный NAS из одноплатника",
+        "author": "sdy",
+        "date": "2024-06-10",
+        "time": "06:30",
+        "votes": "+16",
+        "comments": "45",
+        "bookmarks": "54",
+        "views": "17813"
+    },
+    {
+        "url": "https://habr.com/ru/companies/3rdman/articles/783882/",
+        "title": "Pet-проект «Наручные часы на светодиодах»",
+        "author": "sdy",
+        "date": "2023-12-28",
+        "time": "17:03",
+        "votes": "+155",
+        "comments": "83",
+        "bookmarks": "109",
+        "views": "18627"
+    },
+    {
+        "url": "https://habr.com/ru/companies/3rdman/articles/781206/",
+        "title": "PixelNAS — результат переделки мини компьютера в мобильный NAS",
+        "author": "sdy",
+        "date": "2023-12-18",
+        "time": "09:08",
+        "votes": "+23",
+        "comments": "100",
+        "bookmarks": "65",
+        "views": "16414"
+    },
+    {
+        "url": "https://habr.com/ru/companies/3rdman/articles/771894/",
+        "title": "Обзор безопасных микроконтроллеров Flagchip для автомобильной электроники",
+        "author": "sfsdart",
+        "date": "2023-11-09",
+        "time": "14:19",
+        "votes": "+19",
+        "comments": "102",
+        "bookmarks": "51",
+        "views": "13028"
+    },
+    {
+        "url": "https://habr.com/ru/companies/3rdman/articles/772056/",
+        "title": "Переделка мини компьютера в мобильный NAS",
+        "author": "sdy",
+        "date": "2023-11-06",
+        "time": "18:04",
+        "votes": "+42",
+        "comments": "66",
+        "bookmarks": "123",
+        "views": "37974"
+    },
+    {
+        "url": "https://habr.com/ru/companies/3rdman/articles/751004/",
+        "title": "Тестирование собственного NAS. Часть 2. База",
+        "author": "innokenty_vyz",
+        "date": "2023-07-29",
+        "time": "09:27",
+        "votes": "+5",
+        "comments": "4",
+        "bookmarks": "30",
+        "views": "6196"
+    },
+    {
+        "url": "https://habr.com/ru/companies/3rdman/articles/746178/",
+        "title": "Тестирование собственного NAS. Какие тесты нужны?",
+        "author": "innokenty_vyz",
+        "date": "2023-07-06",
+        "time": "12:19",
+        "votes": "+15",
+        "comments": "24",
+        "bookmarks": "52",
+        "views": "11754"
+    },
+    {
+        "url": "https://habr.com/ru/companies/3rdman/articles/730606/",
+        "title": "Джойстик, тачпад, кнопки — делаем USB контроллер ввода на RP2040",
+        "author": "sdy",
+        "date": "2023-04-21",
+        "time": "04:50",
+        "votes": "+23",
+        "comments": "15",
+        "bookmarks": "41",
+        "views": "7633"
+    },
+    {
+        "url": "https://habr.com/ru/companies/3rdman/articles/729862/",
+        "title": "Steer-by-wire: как разработать безопасный руль по проводам и нужно ли это делать?",
+        "author": "innokenty_vyz",
+        "date": "2023-04-18",
+        "time": "15:00",
+        "votes": "+17",
+        "comments": "127",
+        "bookmarks": "22",
+        "views": "8832"
+    },
+    {
+        "url": "https://habr.com/ru/companies/3rdman/articles/727916/",
+        "title": "Цель есть, пришло время подумать о том, какой софт поставить на NAS",
+        "author": "innokenty_vyz",
+        "date": "2023-04-10",
+        "time": "12:49",
+        "votes": "+12",
+        "comments": "53",
+        "bookmarks": "67",
+        "views": "17005"
+    },
+    {
+        "url": "https://habr.com/ru/companies/3rdman/articles/724730/",
+        "title": "Разработка NAS — цели и этапы",
+        "author": "sdy",
+        "date": "2023-03-25",
+        "time": "15:24",
+        "votes": "+20",
+        "comments": "63",
+        "bookmarks": "57",
+        "views": "10905"
+    },
+    {
+        "url": "https://habr.com/ru/companies/3rdman/articles/723358/",
+        "title": "Концепт-кары. Пыль в глаза или производственная необходимость?",
+        "author": "Green_Hare",
+        "date": "2023-03-19",
+        "time": "15:00",
+        "votes": "+6",
+        "comments": "5",
+        "bookmarks": "10",
+        "views": "4350"
+    },
+    {
+        "url": "https://habr.com/ru/companies/3rdman/articles/720524/",
+        "title": "Как сделать простой UPS для NAS",
+        "author": "sdy",
+        "date": "2023-03-05",
+        "time": "14:14",
+        "votes": "+77",
+        "comments": "92",
+        "bookmarks": "195",
+        "views": "28927"
+    },
+    {
+        "url": "https://habr.com/ru/companies/3rdman/articles/713900/",
+        "title": "Что такое свой NAS и как его начать делать?",
+        "author": "innokenty_vyz",
+        "date": "2023-01-31",
+        "time": "14:28",
+        "votes": "+16",
+        "comments": "146",
+        "bookmarks": "151",
+        "views": "101359"
+    },
+    {
+        "url": "https://habr.com/ru/companies/3rdman/articles/712168/",
+        "title": "Автомобильный руль. За что мы будем держаться через 10 лет?",
+        "author": "innokenty_vyz",
+        "date": "2023-01-24",
+        "time": "14:00",
+        "votes": "+3",
+        "comments": "92",
+        "bookmarks": "16",
+        "views": "5945"
+    },
+    {
+        "url": "https://habr.com/ru/companies/3rdman/articles/706724/",
+        "title": "Телематическая система автомобиля",
+        "author": "innokenty_vyz",
+        "date": "2022-12-20",
+        "time": "19:22",
+        "votes": "+6",
+        "comments": "18",
+        "bookmarks": "15",
+        "views": "7844"
+    },
+    {
+        "url": "https://habr.com/ru/companies/3rdman/articles/703684/",
+        "title": "IVI системы в 2022: какие они сегодня и какими станут завтра",
+        "author": "innokenty_vyz",
+        "date": "2022-12-05",
+        "time": "17:37",
+        "votes": "+7",
+        "comments": "1",
+        "bookmarks": "10",
+        "views": "3916"
+    }
+]

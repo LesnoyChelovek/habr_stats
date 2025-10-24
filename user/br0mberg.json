@@ -1,0 +1,79 @@
+[
+    {
+        "url": "https://habr.com/ru/companies/ruvds/articles/957914/",
+        "title": "Паттерны ООП, так не издевались даже… Структурные шаблоны с примерами на Java",
+        "author": "br0mberg",
+        "date": "2025-10-22",
+        "time": "09:01",
+        "votes": "+52",
+        "comments": "7",
+        "bookmarks": "83",
+        "views": "7505"
+    },
+    {
+        "url": "https://habr.com/ru/companies/ruvds/articles/955604/",
+        "title": "Паттерны ООП c примерами на Java: порождающие шаблоны",
+        "author": "br0mberg",
+        "date": "2025-10-15",
+        "time": "09:01",
+        "votes": "+46",
+        "comments": "22",
+        "bookmarks": "110",
+        "views": "9876"
+    },
+    {
+        "url": "https://habr.com/ru/companies/ruvds/articles/949170/",
+        "title": "Дорожная карта Java backend-разработчика: c Junior до Middle",
+        "author": "br0mberg",
+        "date": "2025-10-08",
+        "time": "09:01",
+        "votes": "+58",
+        "comments": "18",
+        "bookmarks": "157",
+        "views": "15628"
+    },
+    {
+        "url": "https://habr.com/ru/companies/ruvds/articles/924100/",
+        "title": "RAG и векторные БД: НЕ Сизифов LLM на Java и Spring Ai",
+        "author": "br0mberg",
+        "date": "2025-08-28",
+        "time": "14:29",
+        "votes": "+84",
+        "comments": "25",
+        "bookmarks": "134",
+        "views": "12101"
+    },
+    {
+        "url": "https://habr.com/ru/companies/ruvds/articles/912502/",
+        "title": "Часть 2: Как я реализовал взаимодействие микросервисов — Kafka и gRpc",
+        "author": "br0mberg",
+        "date": "2025-06-10",
+        "time": "13:01",
+        "votes": "+80",
+        "comments": "7",
+        "bookmarks": "188",
+        "views": "14308"
+    },
+    {
+        "url": "https://habr.com/ru/articles/870640/",
+        "title": "Часть 1: Как я создал идеальный REST API — микросервис инцидентов на Java и Spring",
+        "author": "br0mberg",
+        "date": "2025-01-02",
+        "time": "17:02",
+        "votes": "+29",
+        "comments": "107",
+        "bookmarks": "226",
+        "views": "23649"
+    },
+    {
+        "url": "https://habr.com/ru/articles/866092/",
+        "title": "SLAM на Java с OpenCV: сравнение алгоритмов автономной навигации",
+        "author": "br0mberg",
+        "date": "2024-12-12",
+        "time": "12:54",
+        "votes": "+13",
+        "comments": "9",
+        "bookmarks": "38",
+        "views": "3529"
+    }
+]

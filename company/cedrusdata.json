@@ -1,0 +1,101 @@
+[
+    {
+        "url": "https://habr.com/ru/companies/cedrusdata/articles/955896/",
+        "title": "Бенчмарк lakehouse-движков, часть 1: StarRocks и Doris падают под нагрузкой, Presto аутсайдер, CedrusData быстрее всех",
+        "author": "devozerov",
+        "date": "2025-10-16",
+        "time": "13:52",
+        "votes": "+16",
+        "comments": "7",
+        "bookmarks": "18",
+        "views": "2728"
+    },
+    {
+        "url": "https://habr.com/ru/companies/lemana_tech/articles/909542/",
+        "title": "Заметки и материалы по итогам Lakehouse Meetup #3",
+        "author": "vonirug",
+        "date": "2025-05-21",
+        "time": "08:16",
+        "votes": "+5",
+        "comments": "0",
+        "bookmarks": "5",
+        "views": "1247"
+    },
+    {
+        "url": "https://habr.com/ru/companies/cedrusdata/articles/863600/",
+        "title": "Безграничная расширяемость: как экосистема плагинов помогает Trino работать в любом аналитическом ландшафте",
+        "author": "devozerov",
+        "date": "2024-12-04",
+        "time": "05:30",
+        "votes": "+1",
+        "comments": "2",
+        "bookmarks": "4",
+        "views": "876"
+    },
+    {
+        "url": "https://habr.com/ru/companies/cedrusdata/articles/860356/",
+        "title": "CedrusData Catalog — новый технический каталог с поддержкой Iceberg REST API",
+        "author": "devozerov",
+        "date": "2024-11-21",
+        "time": "14:11",
+        "votes": "+5",
+        "comments": "5",
+        "bookmarks": "4",
+        "views": "1017"
+    },
+    {
+        "url": "https://habr.com/ru/companies/cedrusdata/articles/843882/",
+        "title": "Как мы ускорили Trino, научив оптимизатор удалять ненужные Join",
+        "author": "devozerov",
+        "date": "2024-09-17",
+        "time": "05:30",
+        "votes": "+9",
+        "comments": "5",
+        "bookmarks": "8",
+        "views": "3174"
+    },
+    {
+        "url": "https://habr.com/ru/companies/cedrusdata/articles/744934/",
+        "title": "Почему Trino такой быстрый: архитектура оптимизатора SQL-запросов",
+        "author": "devozerov",
+        "date": "2023-06-29",
+        "time": "20:17",
+        "votes": "+14",
+        "comments": "2",
+        "bookmarks": "107",
+        "views": "41898"
+    },
+    {
+        "url": "https://habr.com/ru/companies/cedrusdata/articles/740274/",
+        "title": "Почему Trino такой быстрый: динамические фильтры",
+        "author": "devozerov",
+        "date": "2023-06-06",
+        "time": "18:26",
+        "votes": "+7",
+        "comments": "2",
+        "bookmarks": "17",
+        "views": "4858"
+    },
+    {
+        "url": "https://habr.com/ru/companies/cedrusdata/articles/729004/",
+        "title": "Как устроен massively parallel processing (MPP) в Trino",
+        "author": "devozerov",
+        "date": "2023-04-13",
+        "time": "17:38",
+        "votes": "+2",
+        "comments": "7",
+        "bookmarks": "17",
+        "views": "7641"
+    },
+    {
+        "url": "https://habr.com/ru/companies/cedrusdata/articles/578842/",
+        "title": "Rule-based оптимизация SQL-запросов",
+        "author": "devozerov",
+        "date": "2021-10-04",
+        "time": "05:30",
+        "votes": "+3",
+        "comments": "0",
+        "bookmarks": "33",
+        "views": "6130"
+    }
+]

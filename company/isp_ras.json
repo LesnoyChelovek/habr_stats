@@ -1,0 +1,123 @@
+[
+    {
+        "url": "https://habr.com/ru/companies/isp_ras/articles/920346/",
+        "title": "Генератор синтетических документов для обучения моделей ИИ",
+        "author": "Travvy",
+        "date": "2025-06-20",
+        "time": "13:55",
+        "votes": "+6",
+        "comments": "0",
+        "bookmarks": "17",
+        "views": "1429"
+    },
+    {
+        "url": "https://habr.com/ru/companies/isp_ras/articles/892548/",
+        "title": "Разглядываем CodeScoring с помощью Natch",
+        "author": "Dovgaluk",
+        "date": "2025-04-08",
+        "time": "05:38",
+        "votes": "+5",
+        "comments": "2",
+        "bookmarks": "4",
+        "views": "1973"
+    },
+    {
+        "url": "https://habr.com/ru/companies/isp_ras/articles/827830/",
+        "title": "Как надёжно стереть секретную информацию из базы данных",
+        "author": "Dovgaluk",
+        "date": "2024-12-06",
+        "time": "05:26",
+        "votes": "+4",
+        "comments": "26",
+        "bookmarks": "38",
+        "views": "4347"
+    },
+    {
+        "url": "https://habr.com/ru/companies/isp_ras/articles/829506/",
+        "title": "Я больше не верю публичным датасетам",
+        "author": "fisher85",
+        "date": "2024-08-13",
+        "time": "07:44",
+        "votes": "+31",
+        "comments": "14",
+        "bookmarks": "39",
+        "views": "12799"
+    },
+    {
+        "url": "https://habr.com/ru/companies/isp_ras/articles/831550/",
+        "title": "Уязвимость к атакам российских больших языковых моделей с открытым исходным кодом",
+        "author": "Alirina",
+        "date": "2024-07-25",
+        "time": "17:13",
+        "votes": "+10",
+        "comments": "5",
+        "bookmarks": "17",
+        "views": "3993"
+    },
+    {
+        "url": "https://habr.com/ru/companies/isp_ras/articles/801459/",
+        "title": "Зачем искать поверхность атаки для своего проекта",
+        "author": "Dovgaluk",
+        "date": "2024-07-09",
+        "time": "05:45",
+        "votes": "+8",
+        "comments": "4",
+        "bookmarks": "18",
+        "views": "2562"
+    },
+    {
+        "url": "https://habr.com/ru/companies/isp_ras/articles/800751/",
+        "title": "Мы так и не смогли защитить свою модель машинного обучения от состязательных атак. Пока",
+        "author": "fisher85",
+        "date": "2024-04-02",
+        "time": "17:42",
+        "votes": "+21",
+        "comments": "8",
+        "bookmarks": "26",
+        "views": "4595"
+    },
+    {
+        "url": "https://habr.com/ru/companies/isp_ras/articles/788490/",
+        "title": "Как найти поверхность атаки незнакомых приложений с помощью Natch",
+        "author": "Dovgaluk",
+        "date": "2024-02-19",
+        "time": "05:53",
+        "votes": "+6",
+        "comments": "0",
+        "bookmarks": "24",
+        "views": "3147"
+    },
+    {
+        "url": "https://habr.com/ru/companies/isp_ras/articles/788618/",
+        "title": "Как загружать классы в Java 8 и Java 9+?",
+        "author": "temikfart",
+        "date": "2024-01-24",
+        "time": "11:50",
+        "votes": "+23",
+        "comments": "0",
+        "bookmarks": "79",
+        "views": "7954"
+    },
+    {
+        "url": "https://habr.com/ru/companies/isp_ras/articles/779390/",
+        "title": "Dedoc: как автоматически извлечь из текстового документа всё и даже немного больше",
+        "author": "DedocTeam",
+        "date": "2023-12-08",
+        "time": "14:28",
+        "votes": "+11",
+        "comments": "6",
+        "bookmarks": "48",
+        "views": "7750"
+    },
+    {
+        "url": "https://habr.com/ru/companies/isp_ras/articles/772402/",
+        "title": "Cotea: программный контроль исполнения Ansible",
+        "author": "davidbadd",
+        "date": "2023-11-07",
+        "time": "15:36",
+        "votes": "+12",
+        "comments": "7",
+        "bookmarks": "43",
+        "views": "6490"
+    }
+]

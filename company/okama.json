@@ -1,0 +1,35 @@
+[
+    {
+        "url": "https://habr.com/ru/companies/okama/articles/922384/",
+        "title": "Ребалансировка инвестиционного портфеля с помощью Python и библиотеки okama",
+        "author": "Chilango",
+        "date": "2025-07-02",
+        "time": "07:17",
+        "votes": "0",
+        "comments": "3",
+        "bookmarks": "20",
+        "views": "2101"
+    },
+    {
+        "url": "https://habr.com/ru/companies/okama/articles/912096/",
+        "title": "Дивидендная доходность Индекса Мосбиржи: как рассчитать за 5 минут с помощью Python",
+        "author": "Chilango",
+        "date": "2025-05-23",
+        "time": "07:43",
+        "votes": "+7",
+        "comments": "7",
+        "bookmarks": "31",
+        "views": "3257"
+    },
+    {
+        "url": "https://habr.com/ru/companies/okama/articles/798007/",
+        "title": "Open Source в финансах. Проект Okama",
+        "author": "Chilango",
+        "date": "2024-03-06",
+        "time": "07:29",
+        "votes": "+20",
+        "comments": "8",
+        "bookmarks": "57",
+        "views": "4952"
+    }
+]

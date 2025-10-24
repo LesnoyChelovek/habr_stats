@@ -1,0 +1,90 @@
+[
+    {
+        "url": "https://habr.com/ru/companies/kozhindev/articles/954402/",
+        "title": "Борьба с дисбалансом классов. Undersampling",
+        "author": "All_Pri",
+        "date": "2025-10-10",
+        "time": "11:48",
+        "votes": "+3",
+        "comments": "0",
+        "bookmarks": "17",
+        "views": "1220"
+    },
+    {
+        "url": "https://habr.com/ru/companies/kozhindev/articles/953158/",
+        "title": "Борьба с дисбалансом классов. Стандартные методы",
+        "author": "All_Pri",
+        "date": "2025-10-03",
+        "time": "12:19",
+        "votes": "+5",
+        "comments": "0",
+        "bookmarks": "15",
+        "views": "1625"
+    },
+    {
+        "url": "https://habr.com/ru/companies/kozhindev/articles/948468/",
+        "title": "Steroids Form — как создать собственный движок форм для React",
+        "author": "fogarea",
+        "date": "2025-09-19",
+        "time": "08:30",
+        "votes": "+8",
+        "comments": "8",
+        "bookmarks": "17",
+        "views": "2738"
+    },
+    {
+        "url": "https://habr.com/ru/companies/kozhindev/articles/937010/",
+        "title": "Про роль тимлида, а также несколько простых и полезных советов",
+        "author": "perlexed",
+        "date": "2025-08-14",
+        "time": "09:00",
+        "votes": "+2",
+        "comments": "0",
+        "bookmarks": "10",
+        "views": "954"
+    },
+    {
+        "url": "https://habr.com/ru/companies/kozhindev/articles/933732/",
+        "title": "Дизайнер х Аналитик: где заканчивается аналитика и начинается дизайн?",
+        "author": "YVW",
+        "date": "2025-08-07",
+        "time": "11:04",
+        "votes": "+9",
+        "comments": "0",
+        "bookmarks": "9",
+        "views": "661"
+    },
+    {
+        "url": "https://habr.com/ru/companies/kozhindev/articles/932176/",
+        "title": "Steroids UI Kit — разделение бизнес-логики и отображения React-компонентов",
+        "author": "fogarea",
+        "date": "2025-07-30",
+        "time": "10:35",
+        "votes": "+5",
+        "comments": "1",
+        "bookmarks": "10",
+        "views": "2135"
+    },
+    {
+        "url": "https://habr.com/ru/companies/kozhindev/articles/929272/",
+        "title": "Разработка с учетом паттернов WAI ARIA",
+        "author": "azyabon",
+        "date": "2025-07-23",
+        "time": "07:50",
+        "votes": "+10",
+        "comments": "3",
+        "bookmarks": "9",
+        "views": "1088"
+    },
+    {
+        "url": "https://habr.com/ru/companies/kozhindev/articles/927546/",
+        "title": "Steroids — ещё один фронтенд фреймворк на базе React?",
+        "author": "fogarea",
+        "date": "2025-07-15",
+        "time": "06:45",
+        "votes": "+14",
+        "comments": "30",
+        "bookmarks": "19",
+        "views": "5129"
+    }
+]

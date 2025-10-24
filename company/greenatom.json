@@ -1,0 +1,134 @@
+[
+    {
+        "url": "https://habr.com/ru/companies/greenatom/articles/955898/",
+        "title": "Как тушить пожары с помощью коммуникаций: живой опыт и истории из жизни",
+        "author": "VlMatveev",
+        "date": "2025-10-14",
+        "time": "07:00",
+        "votes": "+26",
+        "comments": "5",
+        "bookmarks": "17",
+        "views": "2978"
+    },
+    {
+        "url": "https://habr.com/ru/companies/greenatom/articles/929672/",
+        "title": "Что такое КИИ и при чем здесь IoT?",
+        "author": "greenatom_team",
+        "date": "2025-07-22",
+        "time": "07:00",
+        "votes": "+3",
+        "comments": "2",
+        "bookmarks": "6",
+        "views": "789"
+    },
+    {
+        "url": "https://habr.com/ru/companies/greenatom/articles/917546/",
+        "title": "Когда O(n) мешает отбирать резюме в Росатоме",
+        "author": "ksidorov",
+        "date": "2025-06-17",
+        "time": "07:02",
+        "votes": "+31",
+        "comments": "51",
+        "bookmarks": "45",
+        "views": "21131"
+    },
+    {
+        "url": "https://habr.com/ru/companies/greenatom/articles/901610/",
+        "title": "Мы даём реальную работу в ИТ Росатома студентам, пенсионерам и мамам в декрете",
+        "author": "Backhos",
+        "date": "2025-04-17",
+        "time": "07:00",
+        "votes": "+25",
+        "comments": "52",
+        "bookmarks": "39",
+        "views": "18648"
+    },
+    {
+        "url": "https://habr.com/ru/companies/greenatom/articles/892262/",
+        "title": "Машинное обучение в продуктовой разработке, где его не ожидают",
+        "author": "MoveSlowAttackFast",
+        "date": "2025-03-20",
+        "time": "11:46",
+        "votes": "+9",
+        "comments": "0",
+        "bookmarks": "19",
+        "views": "2729"
+    },
+    {
+        "url": "https://habr.com/ru/companies/greenatom/articles/869590/",
+        "title": "Фронт без бэка: как мы сумели собрать тысячу форм в одну систему и не потерять рассудок",
+        "author": "varsa",
+        "date": "2024-12-26",
+        "time": "07:00",
+        "votes": "+29",
+        "comments": "15",
+        "bookmarks": "45",
+        "views": "6737"
+    },
+    {
+        "url": "https://habr.com/ru/companies/greenatom/articles/860044/",
+        "title": "Какие айтишники будут востребованы в 2035г, а какие – нет?",
+        "author": "Zayana89",
+        "date": "2024-11-21",
+        "time": "07:01",
+        "votes": "+8",
+        "comments": "279",
+        "bookmarks": "87",
+        "views": "84842"
+    },
+    {
+        "url": "https://habr.com/ru/companies/greenatom/articles/853452/",
+        "title": "Гринатом — паровозик, который смог: внедрили RPA в госкорпорации",
+        "author": "NKomrakov",
+        "date": "2024-10-28",
+        "time": "07:00",
+        "votes": "+18",
+        "comments": "14",
+        "bookmarks": "25",
+        "views": "5220"
+    },
+    {
+        "url": "https://habr.com/ru/companies/greenatom/articles/840454/",
+        "title": "Как мы выстроили экосистему разработки на 1С в Росатоме и победили техдолг",
+        "author": "Zayana89",
+        "date": "2024-09-05",
+        "time": "08:30",
+        "votes": "+34",
+        "comments": "16",
+        "bookmarks": "43",
+        "views": "19243"
+    },
+    {
+        "url": "https://habr.com/ru/companies/oleg-bunin/articles/826672/",
+        "title": "Чем живёт айтишник в атомной отрасли",
+        "author": "Rombneromb",
+        "date": "2024-07-05",
+        "time": "08:01",
+        "votes": "+12",
+        "comments": "16",
+        "bookmarks": "30",
+        "views": "11179"
+    },
+    {
+        "url": "https://habr.com/ru/companies/greenatom/articles/819747/",
+        "title": "Шина для Росатома: собрали ядро из опенсорса и прошли сертификацию ФСТЭК",
+        "author": "IlVlaSmirnov",
+        "date": "2024-06-06",
+        "time": "07:01",
+        "votes": "+22",
+        "comments": "28",
+        "bookmarks": "34",
+        "views": "14618"
+    },
+    {
+        "url": "https://habr.com/ru/companies/greenatom/articles/814589/",
+        "title": "Весь Росатом работал на Джире — и что случилось в день Х",
+        "author": "ChrisVechkanova",
+        "date": "2024-05-16",
+        "time": "07:01",
+        "votes": "+277",
+        "comments": "328",
+        "bookmarks": "210",
+        "views": "132617"
+    }
+]

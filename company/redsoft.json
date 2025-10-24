@@ -1,0 +1,167 @@
+[
+    {
+        "url": "https://habr.com/ru/companies/redsoft/articles/946516/",
+        "title": "Станислав Петров: «Ключевые отличия РЕД ОС М от Android – вовсе не в интерфейсе»",
+        "author": "RED_OS_M",
+        "date": "2025-09-13",
+        "time": "08:23",
+        "votes": "+15",
+        "comments": "101",
+        "bookmarks": "21",
+        "views": "13585"
+    },
+    {
+        "url": "https://habr.com/ru/companies/redsoft/articles/943208/",
+        "title": "РЕД Платформа — знакомимся с low-code инструментом от РЕД СОФТ",
+        "author": "RED_BS",
+        "date": "2025-09-02",
+        "time": "13:33",
+        "votes": "+13",
+        "comments": "1",
+        "bookmarks": "9",
+        "views": "2382"
+    },
+    {
+        "url": "https://habr.com/ru/companies/redsoft/articles/939812/",
+        "title": "Как унифицировать интерфейс Linux-приложения в разных фреймворках. Опыт редизайна РЕД ОС 8",
+        "author": "RED_SOFT",
+        "date": "2025-08-22",
+        "time": "12:08",
+        "votes": "+15",
+        "comments": "9",
+        "bookmarks": "15",
+        "views": "3103"
+    },
+    {
+        "url": "https://habr.com/ru/companies/redsoft/articles/884690/",
+        "title": "Переходим с Microsoft Active Directory на РЕД АДМ. Два подхода к миграции ИТ-инфраструктуры",
+        "author": "RED_SOFT",
+        "date": "2025-02-21",
+        "time": "11:52",
+        "votes": "+3",
+        "comments": "13",
+        "bookmarks": "34",
+        "views": "9368"
+    },
+    {
+        "url": "https://habr.com/ru/companies/redsoft/articles/859726/",
+        "title": "Как использовать JSON в СУБД РЕД База Данных 5. Основные функции",
+        "author": "RED_SOFT",
+        "date": "2024-11-20",
+        "time": "09:00",
+        "votes": "+13",
+        "comments": "1",
+        "bookmarks": "7",
+        "views": "1399"
+    },
+    {
+        "url": "https://habr.com/ru/companies/redsoft/articles/840120/",
+        "title": "Как мы сделали курс по РЕД АДМ Промышленная редакция и для чего нужны контролируемые «диверсии» в рамках обучения",
+        "author": "RED_SOFT",
+        "date": "2024-09-01",
+        "time": "10:06",
+        "votes": "+6",
+        "comments": "1",
+        "bookmarks": "5",
+        "views": "2037"
+    },
+    {
+        "url": "https://habr.com/ru/companies/redsoft/articles/836956/",
+        "title": "Реальный кейс для РЕД АДМ и никаких сферических конфигураций в вакууме",
+        "author": "RED_SOFT",
+        "date": "2024-08-19",
+        "time": "09:58",
+        "votes": "+8",
+        "comments": "2",
+        "bookmarks": "6",
+        "views": "2695"
+    },
+    {
+        "url": "https://habr.com/ru/companies/redsoft/articles/831496/",
+        "title": "Управление контроллером домена с помощью графического интерфейса в РЕД АДМ Промышленная редакция",
+        "author": "RED_SOFT",
+        "date": "2024-07-26",
+        "time": "09:00",
+        "votes": "+15",
+        "comments": "6",
+        "bookmarks": "17",
+        "views": "8490"
+    },
+    {
+        "url": "https://habr.com/ru/companies/redsoft/articles/785278/",
+        "title": "Распределённые системы на службе ФССП России. Часть 2. Суперсервис «Цифровое исполнительное производство»",
+        "author": "RED_SOFT",
+        "date": "2024-01-09",
+        "time": "13:23",
+        "votes": "+6",
+        "comments": "7",
+        "bookmarks": "9",
+        "views": "6600"
+    },
+    {
+        "url": "https://habr.com/ru/companies/redsoft/articles/719152/",
+        "title": "Распределённые системы на службе ФССП России. Часть 1. МВВ",
+        "author": "RED_SOFT",
+        "date": "2023-02-27",
+        "time": "10:20",
+        "votes": "+2",
+        "comments": "28",
+        "bookmarks": "12",
+        "views": "7877"
+    },
+    {
+        "url": "https://habr.com/ru/companies/redsoft/articles/701350/",
+        "title": "Система автоматизации тестирования и доставки обновлений в РЕД ОС",
+        "author": "RED_SOFT",
+        "date": "2022-11-24",
+        "time": "12:23",
+        "votes": "+7",
+        "comments": "0",
+        "bookmarks": "17",
+        "views": "3933"
+    },
+    {
+        "url": "https://habr.com/ru/companies/redsoft/articles/699732/",
+        "title": "Хранимые процедуры, функции и триггеры на Java",
+        "author": "RED_SOFT",
+        "date": "2022-11-16",
+        "time": "13:43",
+        "votes": "+8",
+        "comments": "13",
+        "bookmarks": "21",
+        "views": "8929"
+    },
+    {
+        "url": "https://habr.com/ru/companies/redsoft/articles/697102/",
+        "title": "Уменьшение размера файла в СУБД Ред База Данных / Firebird без операции backup & restore",
+        "author": "RED_SOFT",
+        "date": "2022-11-02",
+        "time": "13:59",
+        "votes": "+8",
+        "comments": "4",
+        "bookmarks": "13",
+        "views": "3407"
+    },
+    {
+        "url": "https://habr.com/ru/companies/redsoft/articles/687130/",
+        "title": "Многопоточный бекап и рестор в СУБД Ред База Данных",
+        "author": "RED_SOFT",
+        "date": "2022-09-08",
+        "time": "10:02",
+        "votes": "+5",
+        "comments": "0",
+        "bookmarks": "16",
+        "views": "3626"
+    },
+    {
+        "url": "https://habr.com/ru/companies/redsoft/articles/678788/",
+        "title": "Что делать, если нужно срочно вывести государственную услугу на портал Госуслуги",
+        "author": "RED_SOFT",
+        "date": "2022-07-25",
+        "time": "08:44",
+        "votes": "+5",
+        "comments": "4",
+        "bookmarks": "13",
+        "views": "11579"
+    }
+]

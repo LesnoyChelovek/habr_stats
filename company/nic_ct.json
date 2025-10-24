@@ -1,0 +1,68 @@
+[
+    {
+        "url": "https://habr.com/ru/companies/nic_ct/articles/946486/",
+        "title": "День программиста: готовимся к празднику и составляем список антиподарков для кодеров",
+        "author": "NIC-CT",
+        "date": "2025-09-12",
+        "time": "15:53",
+        "votes": "+1",
+        "comments": "13",
+        "bookmarks": "4",
+        "views": "19635"
+    },
+    {
+        "url": "https://habr.com/ru/companies/nic_ct/articles/942890/",
+        "title": "От сессии до релиза: как совмещать учебу и работу в IT-компании",
+        "author": "NIC-CT",
+        "date": "2025-09-01",
+        "time": "16:32",
+        "votes": "+16",
+        "comments": "9",
+        "bookmarks": "21",
+        "views": "4463"
+    },
+    {
+        "url": "https://habr.com/ru/companies/nic_ct/articles/921676/",
+        "title": "Портирование фреймворка ROOT на архитектуру e2k",
+        "author": "zubankov",
+        "date": "2025-06-27",
+        "time": "11:14",
+        "votes": "+14",
+        "comments": "5",
+        "bookmarks": "10",
+        "views": "1601"
+    },
+    {
+        "url": "https://habr.com/ru/companies/nic_ct/articles/917490/",
+        "title": "Кто быстрее? Тестируем скорость языков программирования на Эльбрусе",
+        "author": "KGScorp3",
+        "date": "2025-06-11",
+        "time": "18:46",
+        "votes": "+37",
+        "comments": "100",
+        "bookmarks": "26",
+        "views": "15388"
+    },
+    {
+        "url": "https://habr.com/ru/companies/nic_ct/articles/915902/",
+        "title": "Как манул единорога в горы водил: запускаем PVS-Studio на российских процессорах Эльбрус",
+        "author": "phprus",
+        "date": "2025-06-07",
+        "time": "09:36",
+        "votes": "+37",
+        "comments": "9",
+        "bookmarks": "8",
+        "views": "2926"
+    },
+    {
+        "url": "https://habr.com/ru/companies/nic_ct/articles/894136/",
+        "title": "Закрытие уязвимости Spectre в режиме безопасных вычислений на Эльбрусе",
+        "author": "NIC-CT",
+        "date": "2025-03-25",
+        "time": "11:32",
+        "votes": "+17",
+        "comments": "17",
+        "bookmarks": "13",
+        "views": "2687"
+    }
+]

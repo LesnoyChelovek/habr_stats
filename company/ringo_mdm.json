@@ -1,0 +1,145 @@
+[
+    {
+        "url": "https://habr.com/ru/companies/ringo_mdm/articles/950246/",
+        "title": "О пакетах в экосистеме Apple (часть 1)",
+        "author": "erikguru",
+        "date": "2025-09-25",
+        "time": "09:05",
+        "votes": "+10",
+        "comments": "0",
+        "bookmarks": "16",
+        "views": "1330"
+    },
+    {
+        "url": "https://habr.com/ru/companies/ringo_mdm/articles/941236/",
+        "title": "Как работают обновления macOS",
+        "author": "erikguru",
+        "date": "2025-08-28",
+        "time": "10:50",
+        "votes": "+6",
+        "comments": "2",
+        "bookmarks": "22",
+        "views": "3201"
+    },
+    {
+        "url": "https://habr.com/ru/companies/ringo_mdm/articles/932370/",
+        "title": "FileVault: как Apple превратила шифрование диска в незаметную магию",
+        "author": "erikguru",
+        "date": "2025-07-31",
+        "time": "09:26",
+        "votes": "+10",
+        "comments": "8",
+        "bookmarks": "20",
+        "views": "4572"
+    },
+    {
+        "url": "https://habr.com/ru/companies/ringo_mdm/articles/921822/",
+        "title": "WWDC 2025: управление корпоративными устройствами. Краткий разбор для системных администраторов",
+        "author": "RingoMDM",
+        "date": "2025-06-26",
+        "time": "09:05",
+        "votes": "0",
+        "comments": "0",
+        "bookmarks": "8",
+        "views": "956"
+    },
+    {
+        "url": "https://habr.com/ru/companies/ringo_mdm/articles/913930/",
+        "title": "Activation Lock на Mac в корпоративной среде: инструкция по выживанию",
+        "author": "erikguru",
+        "date": "2025-05-30",
+        "time": "09:33",
+        "votes": "+4",
+        "comments": "1",
+        "bookmarks": "7",
+        "views": "4245"
+    },
+    {
+        "url": "https://habr.com/ru/companies/ringo_mdm/articles/899198/",
+        "title": "Как снизить нагрузку на техническую поддержку на 30%. Кейс Ринго и группы «Самолет»",
+        "author": "RingoMDM",
+        "date": "2025-04-10",
+        "time": "10:21",
+        "votes": "+4",
+        "comments": "0",
+        "bookmarks": "9",
+        "views": "1262"
+    },
+    {
+        "url": "https://habr.com/ru/companies/ringo_mdm/articles/896772/",
+        "title": "Краткая история Activity Monitor (утилиты «Мониторинг системы»)",
+        "author": "RingoMDM",
+        "date": "2025-04-03",
+        "time": "09:32",
+        "votes": "+1",
+        "comments": "0",
+        "bookmarks": "7",
+        "views": "1295"
+    },
+    {
+        "url": "https://habr.com/ru/companies/ringo_mdm/articles/891982/",
+        "title": "300 устройств и 500 курсов: как упростить управление техникой в образовательных проектах",
+        "author": "RingoMDM",
+        "date": "2025-03-18",
+        "time": "13:14",
+        "votes": "+3",
+        "comments": "0",
+        "bookmarks": "7",
+        "views": "667"
+    },
+    {
+        "url": "https://habr.com/ru/companies/ringo_mdm/articles/883500/",
+        "title": "Логирование на Mac и команда log: руководство для администраторов Apple",
+        "author": "RingoMDM",
+        "date": "2025-02-19",
+        "time": "09:41",
+        "votes": "+4",
+        "comments": "0",
+        "bookmarks": "18",
+        "views": "2677"
+    },
+    {
+        "url": "https://habr.com/ru/companies/ringo_mdm/articles/869874/",
+        "title": "Делаем macOS безопаснее",
+        "author": "RingoMDM",
+        "date": "2025-01-06",
+        "time": "09:22",
+        "votes": "-1",
+        "comments": "7",
+        "bookmarks": "36",
+        "views": "4741"
+    },
+    {
+        "url": "https://habr.com/ru/companies/ringo_mdm/articles/863390/",
+        "title": "Краткая история защиты конфиденциальности на Mac",
+        "author": "RingoMDM",
+        "date": "2024-12-12",
+        "time": "10:34",
+        "votes": "+5",
+        "comments": "5",
+        "bookmarks": "7",
+        "views": "1333"
+    },
+    {
+        "url": "https://habr.com/ru/companies/ringo_mdm/articles/860546/",
+        "title": "Зачем нужна нотаризация приложений Apple?",
+        "author": "RingoMDM",
+        "date": "2024-11-22",
+        "time": "10:27",
+        "votes": "+2",
+        "comments": "0",
+        "bookmarks": "8",
+        "views": "1155"
+    },
+    {
+        "url": "https://habr.com/ru/companies/ringo_mdm/articles/851130/",
+        "title": "macOS Sequoia 15.0 — что нового для ИТ",
+        "author": "elbrus56",
+        "date": "2024-10-17",
+        "time": "07:47",
+        "votes": "+9",
+        "comments": "10",
+        "bookmarks": "18",
+        "views": "13660"
+    }
+]

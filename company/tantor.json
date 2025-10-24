@@ -1,0 +1,211 @@
+[
+    {
+        "url": "https://habr.com/ru/companies/tantor/articles/957790/",
+        "title": "Кластеры Patroni 4.0.7 и etcd 3.6.5 в docker-контейнерах",
+        "author": "OlegIct",
+        "date": "2025-10-18",
+        "time": "07:21",
+        "votes": "+7",
+        "comments": "0",
+        "bookmarks": "19",
+        "views": "1052"
+    },
+    {
+        "url": "https://habr.com/ru/companies/tantor/articles/953546/",
+        "title": "Хранение временных данных в PostgreSQL",
+        "author": "OlegIct",
+        "date": "2025-10-05",
+        "time": "07:28",
+        "votes": "+17",
+        "comments": "7",
+        "bookmarks": "94",
+        "views": "8957"
+    },
+    {
+        "url": "https://habr.com/ru/companies/tantor/articles/946916/",
+        "title": "Логирование (аудит) сессий в PostgreSQL",
+        "author": "OlegIct",
+        "date": "2025-09-15",
+        "time": "05:44",
+        "votes": "+10",
+        "comments": "0",
+        "bookmarks": "32",
+        "views": "3008"
+    },
+    {
+        "url": "https://habr.com/ru/companies/tantor/articles/940752/",
+        "title": "Как мониторить сотни инстансов PostgreSQL и не сойти с ума",
+        "author": "TantorLabs",
+        "date": "2025-09-02",
+        "time": "05:04",
+        "votes": "+10",
+        "comments": "12",
+        "bookmarks": "54",
+        "views": "6081"
+    },
+    {
+        "url": "https://habr.com/ru/companies/tantor/articles/942242/",
+        "title": "Сравнение транзакционных систем Oracle и PostgreSQL",
+        "author": "OlegIct",
+        "date": "2025-08-30",
+        "time": "06:25",
+        "votes": "+24",
+        "comments": "8",
+        "bookmarks": "67",
+        "views": "9317"
+    },
+    {
+        "url": "https://habr.com/ru/companies/tantor/articles/940066/",
+        "title": "Почему SELECT FOR UPDATE считается в PostgreSQL вредным",
+        "author": "OlegIct",
+        "date": "2025-08-23",
+        "time": "15:12",
+        "votes": "+50",
+        "comments": "34",
+        "bookmarks": "178",
+        "views": "27758"
+    },
+    {
+        "url": "https://habr.com/ru/companies/tantor/articles/937992/",
+        "title": "64-битный счётчик транзакций в PostgreSQL",
+        "author": "OlegIct",
+        "date": "2025-08-18",
+        "time": "05:23",
+        "votes": "+12",
+        "comments": "17",
+        "bookmarks": "26",
+        "views": "5847"
+    },
+    {
+        "url": "https://habr.com/ru/companies/tantor/articles/930602/",
+        "title": "Выбор индекса при соединении по нескольким столбцам",
+        "author": "TantorLabs",
+        "date": "2025-08-05",
+        "time": "10:52",
+        "votes": "+11",
+        "comments": "2",
+        "bookmarks": "24",
+        "views": "1355"
+    },
+    {
+        "url": "https://habr.com/ru/companies/tantor/articles/930038/",
+        "title": "Работа с временными таблицами в PostgreSQL",
+        "author": "TantorLabs",
+        "date": "2025-07-28",
+        "time": "14:11",
+        "votes": "+8",
+        "comments": "3",
+        "bookmarks": "29",
+        "views": "2339"
+    },
+    {
+        "url": "https://habr.com/ru/companies/tantor/articles/929980/",
+        "title": "pg_dphyp: учим PostgreSQL соединять таблицы по-другому",
+        "author": "AshBlade",
+        "date": "2025-07-22",
+        "time": "11:56",
+        "votes": "+25",
+        "comments": "2",
+        "bookmarks": "45",
+        "views": "3478"
+    },
+    {
+        "url": "https://habr.com/ru/companies/tantor/articles/926386/",
+        "title": "Пример создания патча для PostgreSQL",
+        "author": "OlegIct",
+        "date": "2025-07-10",
+        "time": "05:25",
+        "votes": "+9",
+        "comments": "1",
+        "bookmarks": "24",
+        "views": "1977"
+    },
+    {
+        "url": "https://habr.com/ru/companies/tantor/articles/924978/",
+        "title": "СУБД Tantor Postgres 17.5: обзор улучшений для 1С",
+        "author": "alex7six",
+        "date": "2025-07-04",
+        "time": "10:38",
+        "votes": "+9",
+        "comments": "5",
+        "bookmarks": "16",
+        "views": "3371"
+    },
+    {
+        "url": "https://habr.com/ru/companies/tantor/articles/923582/",
+        "title": "Авторизация OAuth 2.0 в PostgreSQL на примере Keycloak",
+        "author": "TantorLabs",
+        "date": "2025-07-01",
+        "time": "10:50",
+        "votes": "+10",
+        "comments": "5",
+        "bookmarks": "53",
+        "views": "6045"
+    },
+    {
+        "url": "https://habr.com/ru/companies/tantor/articles/919592/",
+        "title": "Избыточная статистика тормозит Postgres? Настраиваем сэмплирование в pg_stat_statements",
+        "author": "TantorLabs",
+        "date": "2025-06-24",
+        "time": "06:50",
+        "votes": "+9",
+        "comments": "0",
+        "bookmarks": "26",
+        "views": "2558"
+    },
+    {
+        "url": "https://habr.com/ru/companies/tantor/articles/916318/",
+        "title": "Внутристраничная очистка в индексах PostgreSQL",
+        "author": "TantorLabs",
+        "date": "2025-06-06",
+        "time": "13:46",
+        "votes": "+16",
+        "comments": "4",
+        "bookmarks": "54",
+        "views": "3097"
+    },
+    {
+        "url": "https://habr.com/ru/companies/tantor/articles/915256/",
+        "title": "Трассировка запросов в Postgres с расширением pg_trace",
+        "author": "TantorLabs",
+        "date": "2025-06-03",
+        "time": "13:49",
+        "votes": "+16",
+        "comments": "2",
+        "bookmarks": "58",
+        "views": "3848"
+    },
+    {
+        "url": "https://habr.com/ru/companies/tantor/articles/914320/",
+        "title": "Как провести нагрузочное тестирование БД PostgreSQL и ничего не забыть",
+        "author": "TantorLabs",
+        "date": "2025-05-30",
+        "time": "11:55",
+        "votes": "+6",
+        "comments": "1",
+        "bookmarks": "85",
+        "views": "5410"
+    },
+    {
+        "url": "https://habr.com/ru/companies/tantor/articles/913196/",
+        "title": "Быстрый старт в маскировании данных PostgreSQL с инструментом pg_anon",
+        "author": "dub0v",
+        "date": "2025-05-28",
+        "time": "07:18",
+        "votes": "+9",
+        "comments": "0",
+        "bookmarks": "36",
+        "views": "2872"
+    },
+    {
+        "url": "https://habr.com/ru/companies/tantor/articles/912288/",
+        "title": "Работа с длинными строками в PostgreSQL",
+        "author": "TantorLabs",
+        "date": "2025-05-23",
+        "time": "14:29",
+        "votes": "+18",
+        "comments": "10",
+        "bookmarks": "61",
+        "views": "6316"
+    }
+]

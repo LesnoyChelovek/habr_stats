@@ -1,0 +1,101 @@
+[
+    {
+        "url": "https://habr.com/ru/companies/datasapience/articles/959496/",
+        "title": "Тестирование движков массивно-параллельных вычислений: StarRocks, Trino, Spark. Spark – с DataFusion Comet и Impala",
+        "author": "EvgenyVilkov",
+        "date": "2025-10-23",
+        "time": "12:04",
+        "votes": "+7",
+        "comments": "2",
+        "bookmarks": "12",
+        "views": "592"
+    },
+    {
+        "url": "https://habr.com/ru/companies/datasapience/articles/941046/",
+        "title": "Проблема маленьких файлов. Оценка замедления S3 и проблем HDFS и Greenplum при работе c ними",
+        "author": "EvgenyVilkov",
+        "date": "2025-08-26",
+        "time": "19:30",
+        "votes": "+3",
+        "comments": "10",
+        "bookmarks": "20",
+        "views": "3972"
+    },
+    {
+        "url": "https://habr.com/ru/companies/datasapience/articles/938416/",
+        "title": "Java Agent как инструмент обхода лицензий: этичный анализ и защита",
+        "author": "BTRchik",
+        "date": "2025-08-19",
+        "time": "07:01",
+        "votes": "+7",
+        "comments": "12",
+        "bookmarks": "24",
+        "views": "3527"
+    },
+    {
+        "url": "https://habr.com/ru/companies/datasapience/articles/921882/",
+        "title": "Тестирование систем и движков массивно-параллельных вычислений. Часть II. TPC-DS",
+        "author": "EvgenyVilkov",
+        "date": "2025-06-25",
+        "time": "21:00",
+        "votes": "+4",
+        "comments": "8",
+        "bookmarks": "12",
+        "views": "2423"
+    },
+    {
+        "url": "https://habr.com/ru/companies/datasapience/articles/920306/",
+        "title": "Путь к современному MDM на примере клиентского домена данных",
+        "author": "elizaveta_roschina",
+        "date": "2025-06-20",
+        "time": "12:42",
+        "votes": "0",
+        "comments": "1",
+        "bookmarks": "9",
+        "views": "1276"
+    },
+    {
+        "url": "https://habr.com/ru/companies/datasapience/articles/908882/",
+        "title": "Пакетная репликация данных в аналитическом ландшафте ХД",
+        "author": "EvgenyVilkov",
+        "date": "2025-05-13",
+        "time": "06:29",
+        "votes": "0",
+        "comments": "0",
+        "bookmarks": "6",
+        "views": "920"
+    },
+    {
+        "url": "https://habr.com/ru/companies/datasapience/articles/866862/",
+        "title": "Тестирование систем и движков массивно-параллельных вычислений. Сравнение Impala, Trino и GreenPlum",
+        "author": "EvgenyVilkov",
+        "date": "2024-12-16",
+        "time": "07:40",
+        "votes": "+1",
+        "comments": "9",
+        "bookmarks": "10",
+        "views": "3875"
+    },
+    {
+        "url": "https://habr.com/ru/companies/datasapience/articles/847770/",
+        "title": "Современная Lakehouse-платформа данных Data Ocean Nova",
+        "author": "EvgenyVilkov",
+        "date": "2024-10-02",
+        "time": "20:24",
+        "votes": "+8",
+        "comments": "2",
+        "bookmarks": "19",
+        "views": "6680"
+    },
+    {
+        "url": "https://habr.com/ru/companies/glowbyte/articles/827794/",
+        "title": "Работа с информерами Java kubernetes client",
+        "author": "BTRchik",
+        "date": "2024-07-10",
+        "time": "07:05",
+        "votes": "+12",
+        "comments": "0",
+        "bookmarks": "25",
+        "views": "3709"
+    }
+]

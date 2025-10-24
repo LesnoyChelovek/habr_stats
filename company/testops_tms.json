@@ -1,0 +1,79 @@
+[
+    {
+        "url": "https://habr.com/ru/companies/testops_tms/articles/959842/",
+        "title": "Зеркало команды: Что «запахи» в тестах говорят о ваших процессах коммуникации",
+        "author": "mikhail-lankin",
+        "date": "2025-10-24",
+        "time": "10:04",
+        "votes": "+1",
+        "comments": "0",
+        "bookmarks": "3",
+        "views": "119"
+    },
+    {
+        "url": "https://habr.com/ru/companies/testops_tms/articles/954294/",
+        "title": "От запахов к стабильности: рефакторим unit-тесты на JUnit",
+        "author": "mikhail-lankin",
+        "date": "2025-10-07",
+        "time": "14:47",
+        "votes": "+1",
+        "comments": "2",
+        "bookmarks": "10",
+        "views": "1136"
+    },
+    {
+        "url": "https://habr.com/ru/companies/testops_tms/articles/950776/",
+        "title": "От запахов к стабильности: рефакторим тесты на JUnit + Selenide",
+        "author": "mikhail-lankin",
+        "date": "2025-09-25",
+        "time": "22:53",
+        "votes": "+2",
+        "comments": "4",
+        "bookmarks": "15",
+        "views": "1539"
+    },
+    {
+        "url": "https://habr.com/ru/companies/testops_tms/articles/944422/",
+        "title": "Типы и тесты",
+        "author": "mikhail-lankin",
+        "date": "2025-09-09",
+        "time": "09:44",
+        "votes": "+2",
+        "comments": "3",
+        "bookmarks": "7",
+        "views": "1601"
+    },
+    {
+        "url": "https://habr.com/ru/companies/testops_tms/articles/935476/",
+        "title": "Тесты не лгут — прислушивайтесь к ним. Часть 2",
+        "author": "mikhail-lankin",
+        "date": "2025-08-09",
+        "time": "11:17",
+        "votes": "+1",
+        "comments": "4",
+        "bookmarks": "15",
+        "views": "2247"
+    },
+    {
+        "url": "https://habr.com/ru/companies/testops_tms/articles/930742/",
+        "title": "Тесты не лгут — прислушивайтесь к ним. Часть 1",
+        "author": "mikhail-lankin",
+        "date": "2025-07-24",
+        "time": "12:23",
+        "votes": "+2",
+        "comments": "3",
+        "bookmarks": "20",
+        "views": "1684"
+    },
+    {
+        "url": "https://habr.com/ru/companies/testops_tms/articles/925900/",
+        "title": "Как написать понятный всем отчёт: под капотом Allure Report",
+        "author": "mikhail-lankin",
+        "date": "2025-07-08",
+        "time": "08:36",
+        "votes": "+6",
+        "comments": "2",
+        "bookmarks": "19",
+        "views": "1709"
+    }
+]

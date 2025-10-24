@@ -1,0 +1,200 @@
+[
+    {
+        "url": "https://habr.com/ru/companies/lentatech/articles/954964/",
+        "title": "Kafka без боли: 5 рецептов для удобной работы с брокером сообщений",
+        "author": "zakharovadaria",
+        "date": "2025-10-16",
+        "time": "07:30",
+        "votes": "+4",
+        "comments": "2",
+        "bookmarks": "48",
+        "views": "3694"
+    },
+    {
+        "url": "https://habr.com/ru/companies/lentatech/articles/952392/",
+        "title": "Исполнитель vs руководитель: как я перешла на сторону управления",
+        "author": "N_Goldman",
+        "date": "2025-10-01",
+        "time": "10:17",
+        "votes": "+2",
+        "comments": "4",
+        "bookmarks": "15",
+        "views": "5865"
+    },
+    {
+        "url": "https://habr.com/ru/companies/lentatech/articles/943756/",
+        "title": "«Таргетинг Портал»: как мы сделали рекламные кампании проще и эффективнее",
+        "author": "ESilantyeva",
+        "date": "2025-09-04",
+        "time": "10:31",
+        "votes": "+3",
+        "comments": "0",
+        "bookmarks": "3",
+        "views": "509"
+    },
+    {
+        "url": "https://habr.com/ru/companies/lentatech/articles/936266/",
+        "title": "Code review на автопилоте: наш путь к прозрачному процессу",
+        "author": "mihail-t",
+        "date": "2025-08-13",
+        "time": "07:33",
+        "votes": "+10",
+        "comments": "4",
+        "bookmarks": "27",
+        "views": "2695"
+    },
+    {
+        "url": "https://habr.com/ru/companies/lentatech/articles/931714/",
+        "title": "Магия вне Хогвартса: как опытного эйчара превратить в матёрого айтишника",
+        "author": "Polinsanity",
+        "date": "2025-07-28",
+        "time": "13:16",
+        "votes": "+4",
+        "comments": "2",
+        "bookmarks": "12",
+        "views": "2819"
+    },
+    {
+        "url": "https://habr.com/ru/companies/lentatech/articles/919480/",
+        "title": "Gismark: как в «Ленте» разработали систему маркировки",
+        "author": "VladMalkov",
+        "date": "2025-06-18",
+        "time": "10:41",
+        "votes": "+6",
+        "comments": "6",
+        "bookmarks": "9",
+        "views": "2070"
+    },
+    {
+        "url": "https://habr.com/ru/companies/lentatech/articles/914884/",
+        "title": "Spark on Kubernetes: наш путь к автоматизации через кастомный оператор Airflow",
+        "author": "tretiakov_dm",
+        "date": "2025-06-02",
+        "time": "11:40",
+        "votes": "+5",
+        "comments": "2",
+        "bookmarks": "23",
+        "views": "2396"
+    },
+    {
+        "url": "https://habr.com/ru/companies/lentatech/articles/909376/",
+        "title": "Четыре ошибки при работе с диаграммой Ганта и как их можно избежать",
+        "author": "ogudinaan",
+        "date": "2025-05-15",
+        "time": "07:02",
+        "votes": "+12",
+        "comments": "12",
+        "bookmarks": "43",
+        "views": "4999"
+    },
+    {
+        "url": "https://habr.com/ru/companies/lentatech/articles/894582/",
+        "title": "Применение ML Pricing в ритейле: хвост виляет собакой",
+        "author": "shirokova_ea",
+        "date": "2025-03-26",
+        "time": "13:51",
+        "votes": "+5",
+        "comments": "4",
+        "bookmarks": "17",
+        "views": "1729"
+    },
+    {
+        "url": "https://habr.com/ru/companies/lentatech/articles/888184/",
+        "title": "Как в «Ленте» автоматизировали приемку свежих овощей и фруктов",
+        "author": "Gipotalamus_87",
+        "date": "2025-03-05",
+        "time": "13:07",
+        "votes": "+11",
+        "comments": "16",
+        "bookmarks": "16",
+        "views": "2827"
+    },
+    {
+        "url": "https://habr.com/ru/companies/lentatech/articles/883902/",
+        "title": "Как прогнозировать рост выручки с помощью фреймворка",
+        "author": "moch_33",
+        "date": "2025-02-19",
+        "time": "12:52",
+        "votes": "+13",
+        "comments": "2",
+        "bookmarks": "24",
+        "views": "2267"
+    },
+    {
+        "url": "https://habr.com/ru/companies/lentatech/articles/880360/",
+        "title": "Как знание о покупателе становится центром управленческих решений: история инструмента BIRD в «Ленте»",
+        "author": "y_polibina",
+        "date": "2025-02-07",
+        "time": "17:50",
+        "votes": "+8",
+        "comments": "13",
+        "bookmarks": "17",
+        "views": "1592"
+    },
+    {
+        "url": "https://habr.com/ru/companies/lentatech/articles/858890/",
+        "title": "A/B тестирование в офлайне: как не потерять миллионы на масштабировании",
+        "author": "natalya_kim01",
+        "date": "2024-11-15",
+        "time": "12:17",
+        "votes": "+8",
+        "comments": "2",
+        "bookmarks": "33",
+        "views": "2545"
+    },
+    {
+        "url": "https://habr.com/ru/companies/lentatech/articles/855412/",
+        "title": "Как мы научились эффективно управлять ростом данных с переходом на BW/4HANA",
+        "author": "SergSV86",
+        "date": "2024-11-02",
+        "time": "13:12",
+        "votes": "+10",
+        "comments": "4",
+        "bookmarks": "15",
+        "views": "1842"
+    },
+    {
+        "url": "https://habr.com/ru/companies/lentatech/articles/851086/",
+        "title": "Как Лента формирует эффективный ассортимент на основе данных",
+        "author": "shirokova_ea",
+        "date": "2024-10-16",
+        "time": "12:06",
+        "votes": "+8",
+        "comments": "6",
+        "bookmarks": "24",
+        "views": "3001"
+    },
+    {
+        "url": "https://habr.com/ru/companies/lentatech/articles/843626/",
+        "title": "Новый инструмент рассылки BW-отчетов в «Ленте»: архитектура решения и сценарии применения",
+        "author": "Sergei2003",
+        "date": "2024-09-17",
+        "time": "10:10",
+        "votes": "+3",
+        "comments": "2",
+        "bookmarks": "6",
+        "views": "1289"
+    },
+    {
+        "url": "https://habr.com/ru/companies/lentatech/articles/837314/",
+        "title": "Мы роботизировали почти всё, но один процесс заставил нас полностью переосмыслить подход к RPA",
+        "author": "Adel_Davletshin",
+        "date": "2024-08-21",
+        "time": "09:14",
+        "votes": "+11",
+        "comments": "4",
+        "bookmarks": "23",
+        "views": "6993"
+    },
+    {
+        "url": "https://habr.com/ru/companies/lentatech/articles/833484/",
+        "title": "Новая автоматизация: как мы в Lenta Tech прокладывали рельсы импортозамещения и запускали МЧД по маршруту ФЗ-63",
+        "author": "NewMike",
+        "date": "2024-08-05",
+        "time": "10:07",
+        "votes": "+15",
+        "comments": "10",
+        "bookmarks": "14",
+        "views": "3409"
+    }
+]

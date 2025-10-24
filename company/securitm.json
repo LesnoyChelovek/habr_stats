@@ -1,0 +1,134 @@
+[
+    {
+        "url": "https://habr.com/ru/companies/securitm/articles/957180/",
+        "title": "От SGRC до Super App: как SECURITM строит систему  управления всей информационной безопасностью компании",
+        "author": "Nic_Kazantsev",
+        "date": "2025-10-16",
+        "time": "11:48",
+        "votes": "0",
+        "comments": "0",
+        "bookmarks": "4",
+        "views": "306"
+    },
+    {
+        "url": "https://habr.com/ru/companies/securitm/articles/954526/",
+        "title": "Проверка прокуратуры по КИИ: как справиться без бюджета и пройти её успешно",
+        "author": "Nic_Kazantsev",
+        "date": "2025-10-08",
+        "time": "12:00",
+        "votes": "+4",
+        "comments": "2",
+        "bookmarks": "11",
+        "views": "1340"
+    },
+    {
+        "url": "https://habr.com/ru/companies/securitm/articles/951040/",
+        "title": "Bug hunting, как новая этика ИБ: философия открытых дверей",
+        "author": "Nic_Kazantsev",
+        "date": "2025-09-30",
+        "time": "09:00",
+        "votes": "+4",
+        "comments": "7",
+        "bookmarks": "5",
+        "views": "1144"
+    },
+    {
+        "url": "https://habr.com/ru/companies/securitm/articles/949838/",
+        "title": "Непрерывный комплаенс: как создать эффективный цикл регулирования и соблюдения требований",
+        "author": "Nic_Kazantsev",
+        "date": "2025-09-24",
+        "time": "08:00",
+        "votes": "+3",
+        "comments": "0",
+        "bookmarks": "2",
+        "views": "408"
+    },
+    {
+        "url": "https://habr.com/ru/companies/securitm/articles/947652/",
+        "title": "Устарело за секунду: Ваша система оценки уязвимостей больше не соответствует ФСТЭК. Что делать?",
+        "author": "ChArt_51",
+        "date": "2025-09-17",
+        "time": "07:00",
+        "votes": "+1",
+        "comments": "5",
+        "bookmarks": "11",
+        "views": "3768"
+    },
+    {
+        "url": "https://habr.com/ru/companies/securitm/articles/946452/",
+        "title": "Из режима выживания к управляемой системе: трансформация ИБ в банке",
+        "author": "Nic_Kazantsev",
+        "date": "2025-09-16",
+        "time": "08:00",
+        "votes": "+3",
+        "comments": "7",
+        "bookmarks": "7",
+        "views": "633"
+    },
+    {
+        "url": "https://habr.com/ru/companies/securitm/articles/945012/",
+        "title": "SuperApp для информационной безопасности. Когда нужна система, а не набор разрозненных продуктов",
+        "author": "Nic_Kazantsev",
+        "date": "2025-09-09",
+        "time": "07:00",
+        "votes": "+1",
+        "comments": "0",
+        "bookmarks": "4",
+        "views": "418"
+    },
+    {
+        "url": "https://habr.com/ru/companies/securitm/articles/941124/",
+        "title": "ГОСТ 57580 без головной боли: инструкция по автоматической оценке и отчетности",
+        "author": "ChArt_51",
+        "date": "2025-08-27",
+        "time": "08:00",
+        "votes": "0",
+        "comments": "0",
+        "bookmarks": "4",
+        "views": "744"
+    },
+    {
+        "url": "https://habr.com/ru/companies/securitm/articles/936656/",
+        "title": "Новые штрафы за отсутствие сертификации средств защиты информации — как обойти риски",
+        "author": "ChArt_51",
+        "date": "2025-08-15",
+        "time": "06:00",
+        "votes": "+3",
+        "comments": "0",
+        "bookmarks": "10",
+        "views": "2406"
+    },
+    {
+        "url": "https://habr.com/ru/companies/securitm/articles/901480/",
+        "title": "Российские операторы столкнутся с огромными штрафами за утечки данных",
+        "author": "Nic_Kazantsev",
+        "date": "2025-04-21",
+        "time": "07:00",
+        "votes": "+1",
+        "comments": "5",
+        "bookmarks": "8",
+        "views": "1913"
+    },
+    {
+        "url": "https://habr.com/ru/companies/securitm/articles/835684/",
+        "title": "Легко и просто: как автоматизация упрощает работу с ГОСТ 57580.1",
+        "author": "Nic_Kazantsev",
+        "date": "2024-08-20",
+        "time": "09:16",
+        "votes": "+6",
+        "comments": "0",
+        "bookmarks": "16",
+        "views": "1559"
+    },
+    {
+        "url": "https://habr.com/ru/companies/securitm/articles/827178/",
+        "title": "Как можно и нужно пользоваться метриками информационной безопасности",
+        "author": "Nic_Kazantsev",
+        "date": "2024-07-15",
+        "time": "06:00",
+        "votes": "+11",
+        "comments": "0",
+        "bookmarks": "32",
+        "views": "3634"
+    }
+]

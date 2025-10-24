@@ -1,0 +1,178 @@
+[
+    {
+        "url": "https://habr.com/ru/companies/explyt/articles/957510/",
+        "title": "Explyt 5.0 на Joker: поддержка Rider и новый тестовый агент",
+        "author": "Trip-Hope",
+        "date": "2025-10-17",
+        "time": "09:59",
+        "votes": "+5",
+        "comments": "0",
+        "bookmarks": "4",
+        "views": "626"
+    },
+    {
+        "url": "https://habr.com/ru/companies/explyt/articles/944266/",
+        "title": "Нейросети в Spring-разработке: убираем рутину, а не интеллект",
+        "author": "grisha9",
+        "date": "2025-09-18",
+        "time": "10:38",
+        "votes": "+11",
+        "comments": "8",
+        "bookmarks": "41",
+        "views": "3988"
+    },
+    {
+        "url": "https://habr.com/ru/companies/explyt/articles/947856/",
+        "title": "Не LLM едиными: генерируем юнит-тесты из реального исполнения на лету",
+        "author": "mxprshn",
+        "date": "2025-09-17",
+        "time": "12:54",
+        "votes": "+11",
+        "comments": "0",
+        "bookmarks": "17",
+        "views": "2428"
+    },
+    {
+        "url": "https://habr.com/ru/companies/explyt/articles/943132/",
+        "title": "Explyt 4.1: поддержка Python и MCP, пользовательские Rules и Workflows",
+        "author": "Trip-Hope",
+        "date": "2025-09-02",
+        "time": "11:34",
+        "votes": "+5",
+        "comments": "4",
+        "bookmarks": "3",
+        "views": "901"
+    },
+    {
+        "url": "https://habr.com/ru/companies/explyt/articles/936992/",
+        "title": "Как мы сделали AI-агента и пользуемся им на практике",
+        "author": "mrga",
+        "date": "2025-08-14",
+        "time": "10:33",
+        "votes": "+10",
+        "comments": "11",
+        "bookmarks": "43",
+        "views": "5241"
+    },
+    {
+        "url": "https://habr.com/ru/companies/explyt/articles/933158/",
+        "title": "Explyt Spring Debugger",
+        "author": "grisha9",
+        "date": "2025-08-06",
+        "time": "10:25",
+        "votes": "+11",
+        "comments": "0",
+        "bookmarks": "9",
+        "views": "1406"
+    },
+    {
+        "url": "https://habr.com/ru/companies/explyt/articles/927556/",
+        "title": "Explyt 4.0: агентский режим и генерация тестов по исполнению",
+        "author": "Trip-Hope",
+        "date": "2025-07-14",
+        "time": "12:43",
+        "votes": "+4",
+        "comments": "7",
+        "bookmarks": "7",
+        "views": "1247"
+    },
+    {
+        "url": "https://habr.com/ru/companies/explyt/articles/926484/",
+        "title": "Explyt Spring Plugin: поддержка Quarkus",
+        "author": "grisha9",
+        "date": "2025-07-10",
+        "time": "07:47",
+        "votes": "+11",
+        "comments": "3",
+        "bookmarks": "4",
+        "views": "543"
+    },
+    {
+        "url": "https://habr.com/ru/companies/explyt/articles/917640/",
+        "title": "Кто сильнее в синтезе тестов? Сравниваем GPT-4.1, DeepSeek, Qwen на своем бенчмарке",
+        "author": "typing_cat13",
+        "date": "2025-06-17",
+        "time": "05:01",
+        "votes": "+2",
+        "comments": "2",
+        "bookmarks": "5",
+        "views": "2777"
+    },
+    {
+        "url": "https://habr.com/ru/companies/explyt/articles/912174/",
+        "title": "Опрос: тестовое покрытие — must-have или bullshit",
+        "author": "Trip-Hope",
+        "date": "2025-05-23",
+        "time": "10:02",
+        "votes": "+2",
+        "comments": "12",
+        "bookmarks": "4",
+        "views": "858"
+    },
+    {
+        "url": "https://habr.com/ru/companies/explyt/articles/909898/",
+        "title": "Что должен уметь AI-инструмент для генерации Java тестов",
+        "author": "Yurii_Kostyukov",
+        "date": "2025-05-19",
+        "time": "08:38",
+        "votes": "+9",
+        "comments": "4",
+        "bookmarks": "14",
+        "views": "1957"
+    },
+    {
+        "url": "https://habr.com/ru/companies/explyt/articles/892726/",
+        "title": "Explyt Spring Plugin. Патчим байткод Spring или как мы улучшили распознавание контекста приложений",
+        "author": "grisha9",
+        "date": "2025-03-28",
+        "time": "10:19",
+        "votes": "+14",
+        "comments": "0",
+        "bookmarks": "15",
+        "views": "1986"
+    },
+    {
+        "url": "https://habr.com/ru/companies/explyt/articles/884280/",
+        "title": "Explyt Spring plugin. Поддержка *.http файлов в IntelliJ IDEA Community",
+        "author": "grisha9",
+        "date": "2025-02-20",
+        "time": "11:24",
+        "votes": "+15",
+        "comments": "0",
+        "bookmarks": "8",
+        "views": "1104"
+    },
+    {
+        "url": "https://habr.com/ru/companies/explyt/articles/874236/",
+        "title": "Explyt Spring Plugin — наша версия HTTP-клиента для IntelliJ IDEA",
+        "author": "grisha9",
+        "date": "2025-01-17",
+        "time": "13:34",
+        "votes": "+13",
+        "comments": "4",
+        "bookmarks": "15",
+        "views": "2418"
+    },
+    {
+        "url": "https://habr.com/ru/companies/explyt/articles/869198/",
+        "title": "Автогенерация тестов для Java/Kotlin в IntelliJ IDEA: сравнение AI-инструментов",
+        "author": "mrga",
+        "date": "2024-12-24",
+        "time": "08:10",
+        "votes": "+12",
+        "comments": "10",
+        "bookmarks": "46",
+        "views": "8940"
+    },
+    {
+        "url": "https://habr.com/ru/companies/explyt/articles/854304/",
+        "title": "Не играй в догонялки со Spring — Explyt Spring plugin для IDEA Community",
+        "author": "grisha9",
+        "date": "2024-10-29",
+        "time": "17:12",
+        "votes": "+36",
+        "comments": "12",
+        "bookmarks": "36",
+        "views": "6741"
+    }
+]

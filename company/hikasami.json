@@ -1,0 +1,35 @@
+[
+    {
+        "url": "https://habr.com/ru/companies/hikasami/articles/886862/",
+        "title": "GO: Как и почему мы отказались от Nest.JS",
+        "author": "sergeyhc",
+        "date": "2025-02-28",
+        "time": "17:01",
+        "votes": "-4",
+        "comments": "57",
+        "bookmarks": "36",
+        "views": "10004"
+    },
+    {
+        "url": "https://habr.com/ru/companies/hikasami/articles/886220/",
+        "title": "Next.js 15 в Hikasami: Глубокая оптимизация рендеринга, загрузки данных и производительности",
+        "author": "knko",
+        "date": "2025-02-27",
+        "time": "02:09",
+        "votes": "+5",
+        "comments": "6",
+        "bookmarks": "15",
+        "views": "2909"
+    },
+    {
+        "url": "https://habr.com/ru/companies/hikasami/articles/884820/",
+        "title": "PostgreSQL Connection Pooling: Наш опыт и с чем его едят",
+        "author": "knko",
+        "date": "2025-02-22",
+        "time": "09:06",
+        "votes": "+4",
+        "comments": "15",
+        "bookmarks": "58",
+        "views": "9463"
+    }
+]

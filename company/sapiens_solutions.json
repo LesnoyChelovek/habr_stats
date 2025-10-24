@@ -1,0 +1,145 @@
+[
+    {
+        "url": "https://habr.com/ru/companies/sapiens_solutions/articles/955122/",
+        "title": "DBT Proplum: Расширяем возможности DBT для работы с Greenplum и Clickhouse",
+        "author": "AKoshelev_Sapiens",
+        "date": "2025-10-10",
+        "time": "08:43",
+        "votes": "+7",
+        "comments": "2",
+        "bookmarks": "15",
+        "views": "2235"
+    },
+    {
+        "url": "https://habr.com/ru/companies/sapiens_solutions/articles/946370/",
+        "title": "Умный аналитик для ритейла: ИИ на службе бизнеса",
+        "author": "Flemh",
+        "date": "2025-09-12",
+        "time": "11:16",
+        "votes": "+4",
+        "comments": "2",
+        "bookmarks": "10",
+        "views": "1944"
+    },
+    {
+        "url": "https://habr.com/ru/companies/sapiens_solutions/articles/935068/",
+        "title": "Мгновенный доступ к данным для 1 000 + директоров с помощью ИИ. Кейс ритейлера",
+        "author": "Sapienssolutions",
+        "date": "2025-08-07",
+        "time": "13:38",
+        "votes": "+4",
+        "comments": "0",
+        "bookmarks": "5",
+        "views": "488"
+    },
+    {
+        "url": "https://habr.com/ru/companies/sapiens_solutions/articles/932854/",
+        "title": "Ускоренная экстракция данных из SAP-систем в DWH и Lakehouse: наш опыт интеграции",
+        "author": "dmkan",
+        "date": "2025-07-31",
+        "time": "14:00",
+        "votes": "+6",
+        "comments": "6",
+        "bookmarks": "8",
+        "views": "1453"
+    },
+    {
+        "url": "https://habr.com/ru/companies/arenadata/articles/839516/",
+        "title": "Жизнь после SAP: импортозамещение платформы данных",
+        "author": "Yefar",
+        "date": "2024-08-29",
+        "time": "10:40",
+        "votes": "+7",
+        "comments": "3",
+        "bookmarks": "14",
+        "views": "7648"
+    },
+    {
+        "url": "https://habr.com/ru/companies/sapiens_solutions/articles/829540/",
+        "title": "Как сменить профессию и попасть на стажировку в IT: из музыканта в дата-инженеры",
+        "author": "viva_la_liberta",
+        "date": "2024-07-18",
+        "time": "05:01",
+        "votes": "+6",
+        "comments": "9",
+        "bookmarks": "31",
+        "views": "7955"
+    },
+    {
+        "url": "https://habr.com/ru/companies/sapiens_solutions/articles/801977/",
+        "title": "Сотни миллионов рублей: посчитали, сколько тратит бизнес на российские BI-решения",
+        "author": "RakitinK",
+        "date": "2024-03-22",
+        "time": "08:07",
+        "votes": "+1",
+        "comments": "5",
+        "bookmarks": "10",
+        "views": "2750"
+    },
+    {
+        "url": "https://habr.com/ru/companies/sapiens_solutions/articles/796303/",
+        "title": "Стажировки с обучением в IT. Как попасть и какие подводные камни вас ждут",
+        "author": "Skjat",
+        "date": "2024-02-26",
+        "time": "11:32",
+        "votes": "+6",
+        "comments": "5",
+        "bookmarks": "50",
+        "views": "15135"
+    },
+    {
+        "url": "https://habr.com/ru/companies/sapiens_solutions/articles/795239/",
+        "title": "На что стоит рассчитывать на первой работе: путь стажера (data engineer)",
+        "author": "VictorPM",
+        "date": "2024-02-21",
+        "time": "09:56",
+        "votes": "+6",
+        "comments": "5",
+        "bookmarks": "26",
+        "views": "4804"
+    },
+    {
+        "url": "https://habr.com/ru/companies/sapiens_solutions/articles/763068/",
+        "title": "Как оценить объем работ по миграции хранилища данных на Arenadata DB / Greenplum: методика и пример",
+        "author": "astoulov",
+        "date": "2023-09-25",
+        "time": "05:00",
+        "votes": "+2",
+        "comments": "1",
+        "bookmarks": "15",
+        "views": "2103"
+    },
+    {
+        "url": "https://habr.com/ru/companies/sapiens_solutions/articles/759828/",
+        "title": "Переходим на Greenplum быстро",
+        "author": "ismailovda",
+        "date": "2023-09-21",
+        "time": "07:15",
+        "votes": "+7",
+        "comments": "7",
+        "bookmarks": "25",
+        "views": "8130"
+    },
+    {
+        "url": "https://habr.com/ru/companies/sapiens_solutions/articles/750802/",
+        "title": "Как мы пришли к созданию своего BI решения на NLP для получения отчетов прямо в мессенджер",
+        "author": "Yefar",
+        "date": "2023-07-27",
+        "time": "11:16",
+        "votes": "+3",
+        "comments": "4",
+        "bookmarks": "24",
+        "views": "4393"
+    },
+    {
+        "url": "https://habr.com/ru/companies/sapiens_solutions/articles/747142/",
+        "title": "Как мы снизили нагрузку на SAP HANA незаметно для пользователей",
+        "author": "Sapienssolutions",
+        "date": "2023-07-21",
+        "time": "11:23",
+        "votes": "+6",
+        "comments": "3",
+        "bookmarks": "6",
+        "views": "2416"
+    }
+]

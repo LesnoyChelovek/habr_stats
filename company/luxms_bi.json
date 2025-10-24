@@ -1,0 +1,156 @@
+[
+    {
+        "url": "https://habr.com/ru/companies/luxms_bi/articles/951622/",
+        "title": "Больше, чем BI: 23 фичи Luxms BI, которыми мы гордимся. Часть 1: платформенные, архитектурные возможности",
+        "author": "Luxms",
+        "date": "2025-09-30",
+        "time": "07:57",
+        "votes": "+6",
+        "comments": "0",
+        "bookmarks": "4",
+        "views": "482"
+    },
+    {
+        "url": "https://habr.com/ru/companies/luxms_bi/articles/937508/",
+        "title": "Пример использования Адаптивной модели Luxms BI",
+        "author": "lux_nikpav",
+        "date": "2025-08-18",
+        "time": "09:17",
+        "votes": "+3",
+        "comments": "0",
+        "bookmarks": "3",
+        "views": "498"
+    },
+    {
+        "url": "https://habr.com/ru/companies/luxms_bi/articles/937490/",
+        "title": "Адаптивная модель данных в Luxms BI: когда BI сам понимает, что ты хочешь",
+        "author": "Luxms",
+        "date": "2025-08-18",
+        "time": "09:17",
+        "votes": "+2",
+        "comments": "0",
+        "bookmarks": "5",
+        "views": "473"
+    },
+    {
+        "url": "https://habr.com/ru/companies/luxms_bi/articles/912784/",
+        "title": "Как в Почтатех внедряли отчетность на Luxms BI: интервью тимлида",
+        "author": "Luxms",
+        "date": "2025-05-27",
+        "time": "09:35",
+        "votes": "+4",
+        "comments": "2",
+        "bookmarks": "4",
+        "views": "530"
+    },
+    {
+        "url": "https://habr.com/ru/companies/luxms_bi/articles/899662/",
+        "title": "Рефакторинг в BI-проектах: когда и зачем переписывать «рабочий» код",
+        "author": "Luxms",
+        "date": "2025-04-10",
+        "time": "13:44",
+        "votes": "+3",
+        "comments": "1",
+        "bookmarks": "9",
+        "views": "1200"
+    },
+    {
+        "url": "https://habr.com/ru/companies/luxms_bi/articles/890568/",
+        "title": "Чужое открытое ПО внутри BI-систем: проблемы лицензирования, о которых не все задумываются",
+        "author": "iamrozanov",
+        "date": "2025-03-13",
+        "time": "11:00",
+        "votes": "+5",
+        "comments": "1",
+        "bookmarks": "11",
+        "views": "1407"
+    },
+    {
+        "url": "https://habr.com/ru/companies/luxms_bi/articles/880082/",
+        "title": "Self service в действии: как Luxms BI помогает ускорить аналитику",
+        "author": "iamrozanov",
+        "date": "2025-02-06",
+        "time": "12:20",
+        "votes": "+6",
+        "comments": "6",
+        "bookmarks": "15",
+        "views": "1527"
+    },
+    {
+        "url": "https://habr.com/ru/companies/luxms_bi/articles/877238/",
+        "title": "Поддержка MDX в Luxms BI: комфортная миграция с Power BI",
+        "author": "iamrozanov",
+        "date": "2025-01-28",
+        "time": "10:17",
+        "votes": "+3",
+        "comments": "1",
+        "bookmarks": "5",
+        "views": "805"
+    },
+    {
+        "url": "https://habr.com/ru/companies/luxms_bi/articles/870684/",
+        "title": "Кастомизация в Luxms BI: программируем под свои желания",
+        "author": "IlyaGureshidze",
+        "date": "2024-12-28",
+        "time": "14:28",
+        "votes": "+3",
+        "comments": "0",
+        "bookmarks": "9",
+        "views": "1020"
+    },
+    {
+        "url": "https://habr.com/ru/companies/luxms_bi/articles/869382/",
+        "title": "Как выбрать вкусное вино на основе данных с помощью Luxms BI",
+        "author": "yzolotukhin",
+        "date": "2024-12-24",
+        "time": "11:54",
+        "votes": "+6",
+        "comments": "9",
+        "bookmarks": "16",
+        "views": "1891"
+    },
+    {
+        "url": "https://habr.com/ru/companies/luxms_bi/articles/867262/",
+        "title": "Плюсы и минусы Luxms BI: честный взгляд на платформу от вендора",
+        "author": "iamrozanov",
+        "date": "2024-12-17",
+        "time": "10:00",
+        "votes": "+4",
+        "comments": "0",
+        "bookmarks": "12",
+        "views": "2968"
+    },
+    {
+        "url": "https://habr.com/ru/companies/luxms_bi/articles/862364/",
+        "title": "В поисках потерянных данных: переход со StreamSets на Data Boring",
+        "author": "lux_nikpav",
+        "date": "2024-11-29",
+        "time": "09:29",
+        "votes": "+7",
+        "comments": "0",
+        "bookmarks": "4",
+        "views": "511"
+    },
+    {
+        "url": "https://habr.com/ru/companies/luxms_bi/articles/859944/",
+        "title": "Почему рейтинги лгут: разбираемся, как и почему рейтинги BI не говорят всей правды",
+        "author": "iamrozanov",
+        "date": "2024-11-20",
+        "time": "09:43",
+        "votes": "+1",
+        "comments": "4",
+        "bookmarks": "14",
+        "views": "1648"
+    },
+    {
+        "url": "https://habr.com/ru/companies/luxms_bi/articles/852772/",
+        "title": "Правильные слова для правильного результата: история внедрения сервиса GigaChat в Luxms BI",
+        "author": "iamrozanov",
+        "date": "2024-10-23",
+        "time": "09:34",
+        "votes": "+8",
+        "comments": "4",
+        "bookmarks": "12",
+        "views": "1696"
+    }
+]

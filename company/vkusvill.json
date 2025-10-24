@@ -1,0 +1,123 @@
+[
+    {
+        "url": "https://habr.com/ru/companies/vkusvill/articles/944202/",
+        "title": "Три сказа о построении RAG: От выбора модели до форматирования базы знаний",
+        "author": "AlexanderZolotykh",
+        "date": "2025-09-05",
+        "time": "10:06",
+        "votes": "+12",
+        "comments": "6",
+        "bookmarks": "72",
+        "views": "6936"
+    },
+    {
+        "url": "https://habr.com/ru/companies/vkusvill/articles/924636/",
+        "title": "ВкусВилл и фабрика A/B-тестов: как развивать сайт на основе бесконечных гипотез",
+        "author": "IrinaLisitsyna3",
+        "date": "2025-07-03",
+        "time": "11:45",
+        "votes": "+6",
+        "comments": "3",
+        "bookmarks": "14",
+        "views": "1781"
+    },
+    {
+        "url": "https://habr.com/ru/companies/vkusvill/articles/916208/",
+        "title": "Там, где метрики молчат: как расшифровка звонков помогла лучше понимать бизнес-клиентов",
+        "author": "denislialin",
+        "date": "2025-06-06",
+        "time": "09:32",
+        "votes": "+8",
+        "comments": "4",
+        "bookmarks": "13",
+        "views": "1655"
+    },
+    {
+        "url": "https://habr.com/ru/companies/vkusvill/articles/903224/",
+        "title": "Прикормка для микробиоты: как и зачем заботиться о бактериях кишечника",
+        "author": "Daria-dd",
+        "date": "2025-04-23",
+        "time": "06:01",
+        "votes": "+3",
+        "comments": "6",
+        "bookmarks": "20",
+        "views": "13160"
+    },
+    {
+        "url": "https://habr.com/ru/companies/vkusvill/articles/893842/",
+        "title": "Как вырасти внутри компании из продавца до управляющей: история карьеры во ВкусВилле",
+        "author": "marina-frolova",
+        "date": "2025-03-24",
+        "time": "12:30",
+        "votes": "+6",
+        "comments": "12",
+        "bookmarks": "8",
+        "views": "3676"
+    },
+    {
+        "url": "https://habr.com/ru/companies/automacon/articles/882212/",
+        "title": "На самом деле я айтишник, а доставка — это для души",
+        "author": "boryskyn",
+        "date": "2025-02-14",
+        "time": "07:39",
+        "votes": "+20",
+        "comments": "21",
+        "bookmarks": "36",
+        "views": "12526"
+    },
+    {
+        "url": "https://habr.com/ru/companies/automacon/articles/881120/",
+        "title": "Набрали «в штат» роботов и не жалеем: как ВкусВилл делегировал роботам погрузку, уборку и инвентаризацию складов",
+        "author": "for_mat_al",
+        "date": "2025-02-11",
+        "time": "12:54",
+        "votes": "+37",
+        "comments": "28",
+        "bookmarks": "42",
+        "views": "14491"
+    },
+    {
+        "url": "https://habr.com/ru/companies/vkusvill/articles/879612/",
+        "title": "Новый инструмент для обучающих программ: зачем мы превратили прогресс продуктовых команд в котировки на игровой бирже?",
+        "author": "Legenda-Kollaba",
+        "date": "2025-02-05",
+        "time": "08:12",
+        "votes": "+6",
+        "comments": "3",
+        "bookmarks": "11",
+        "views": "958"
+    },
+    {
+        "url": "https://habr.com/ru/companies/vkusvill/articles/864998/",
+        "title": "Каталог данных своими руками из PowerBi и небольшой БД",
+        "author": "Nikerik",
+        "date": "2024-12-09",
+        "time": "09:32",
+        "votes": "+7",
+        "comments": "4",
+        "bookmarks": "29",
+        "views": "4666"
+    },
+    {
+        "url": "https://habr.com/ru/companies/vkusvill/articles/851264/",
+        "title": "Как пакет с пакетами помог аналитику решить задачу для бизнеса, или keep calm and import statsmodels",
+        "author": "sabinasim",
+        "date": "2024-10-17",
+        "time": "09:00",
+        "votes": "+8",
+        "comments": "2",
+        "bookmarks": "17",
+        "views": "2038"
+    },
+    {
+        "url": "https://habr.com/ru/companies/vkusvill/articles/843744/",
+        "title": "Как не заблудиться в четырех соснах: выбираем способ найти причинно-следственную связь без экспериментов",
+        "author": "pbaboshkin",
+        "date": "2024-09-16",
+        "time": "12:39",
+        "votes": "+15",
+        "comments": "2",
+        "bookmarks": "49",
+        "views": "3543"
+    }
+]

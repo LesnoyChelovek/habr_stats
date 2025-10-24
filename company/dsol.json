@@ -1,0 +1,189 @@
+[
+    {
+        "url": "https://habr.com/ru/companies/dsol/articles/935072/",
+        "title": "Реальная безопасность корпоративной сети — роль брокеров сетевых пакетов в анализе угроз",
+        "author": "DSol",
+        "date": "2025-08-07",
+        "time": "13:37",
+        "votes": "+9",
+        "comments": "5",
+        "bookmarks": "28",
+        "views": "4273"
+    },
+    {
+        "url": "https://habr.com/ru/companies/dsol/articles/924540/",
+        "title": "Практический опыт построения надежной защиты российских веб-приложений",
+        "author": "DSol",
+        "date": "2025-07-03",
+        "time": "08:59",
+        "votes": "0",
+        "comments": "21",
+        "bookmarks": "16",
+        "views": "2865"
+    },
+    {
+        "url": "https://habr.com/ru/companies/dsol/articles/917224/",
+        "title": "Нужен ли внешний SSL-офлоадинг, если Intel уже встроила его прямо в CPU?",
+        "author": "DSol",
+        "date": "2025-06-10",
+        "time": "11:14",
+        "votes": "+3",
+        "comments": "5",
+        "bookmarks": "14",
+        "views": "1756"
+    },
+    {
+        "url": "https://habr.com/ru/companies/dsol/articles/899268/",
+        "title": "Первый российский аппаратный балансировщик нагрузки DS Proxima",
+        "author": "DSol",
+        "date": "2025-04-09",
+        "time": "14:11",
+        "votes": "+3",
+        "comments": "12",
+        "bookmarks": "7",
+        "views": "6040"
+    },
+    {
+        "url": "https://habr.com/ru/companies/dsol/articles/730124/",
+        "title": "Схемы использования брокера сетевых пакетов DS Integrity NG при балансировке трафика на кластер межсетевых экранов",
+        "author": "DSol",
+        "date": "2023-04-20",
+        "time": "04:00",
+        "votes": "+1",
+        "comments": "4",
+        "bookmarks": "15",
+        "views": "6162"
+    },
+    {
+        "url": "https://habr.com/ru/companies/dsol/articles/710970/",
+        "title": "Балансировка трафика на межсетевые экраны с помощью брокеров сетевых пакетов",
+        "author": "DSol",
+        "date": "2023-01-16",
+        "time": "17:24",
+        "votes": "+3",
+        "comments": "11",
+        "bookmarks": "34",
+        "views": "7572"
+    },
+    {
+        "url": "https://habr.com/ru/companies/dsol/articles/658671/",
+        "title": "USB-накопители корпоративного и индустриального класса. Отличия от потребительского сегмента",
+        "author": "DSol",
+        "date": "2022-04-01",
+        "time": "13:31",
+        "votes": "+6",
+        "comments": "29",
+        "bookmarks": "49",
+        "views": "21919"
+    },
+    {
+        "url": "https://habr.com/ru/companies/dsol/articles/655251/",
+        "title": "Защита от всплесков при агрегации трафика в пакетных брокерах",
+        "author": "DSol",
+        "date": "2022-03-11",
+        "time": "16:27",
+        "votes": "+2",
+        "comments": "2",
+        "bookmarks": "6",
+        "views": "2506"
+    },
+    {
+        "url": "https://habr.com/ru/companies/dsol/articles/590099/",
+        "title": "Выбор точек мониторинга трафика в локальной сети",
+        "author": "DSol",
+        "date": "2021-11-18",
+        "time": "16:00",
+        "votes": "+4",
+        "comments": "3",
+        "bookmarks": "62",
+        "views": "16728"
+    },
+    {
+        "url": "https://habr.com/ru/companies/dsol/articles/585014/",
+        "title": "Зачем мониторить трафик локальной сети?",
+        "author": "DSol",
+        "date": "2021-10-22",
+        "time": "12:58",
+        "votes": "0",
+        "comments": "6",
+        "bookmarks": "67",
+        "views": "25291"
+    },
+    {
+        "url": "https://habr.com/ru/companies/dsol/articles/579374/",
+        "title": "Проблемы использования SPAN для мониторинга в современной сети",
+        "author": "DSol",
+        "date": "2021-09-22",
+        "time": "12:17",
+        "votes": "0",
+        "comments": "7",
+        "bookmarks": "18",
+        "views": "8692"
+    },
+    {
+        "url": "https://habr.com/ru/companies/dsol/articles/568768/",
+        "title": "TAP или SPAN? Рекомендации по зеркалированию трафика для профессионалов",
+        "author": "DSol",
+        "date": "2021-07-20",
+        "time": "17:51",
+        "votes": "+1",
+        "comments": "15",
+        "bookmarks": "45",
+        "views": "43462"
+    },
+    {
+        "url": "https://habr.com/ru/companies/dsol/articles/551124/",
+        "title": "Обеспечение сетевой безопасности совместно с брокерами сетевых пакетов. Часть вторая. Активные средства безопасности",
+        "author": "DSol",
+        "date": "2021-04-13",
+        "time": "16:44",
+        "votes": "+3",
+        "comments": "0",
+        "bookmarks": "24",
+        "views": "12398"
+    },
+    {
+        "url": "https://habr.com/ru/companies/dsol/articles/541832/",
+        "title": "Обеспечение сетевой безопасности совместно с брокерами сетевых пакетов. Часть первая. Пассивные средства безопасности",
+        "author": "DSol",
+        "date": "2021-02-10",
+        "time": "13:10",
+        "votes": "+2",
+        "comments": "7",
+        "bookmarks": "43",
+        "views": "13335"
+    },
+    {
+        "url": "https://habr.com/ru/companies/dsol/articles/516574/",
+        "title": "Туннель под безопасностью и брокеры сетевых пакетов",
+        "author": "DSol",
+        "date": "2020-08-25",
+        "time": "16:21",
+        "votes": "+8",
+        "comments": "0",
+        "bookmarks": "20",
+        "views": "6548"
+    },
+    {
+        "url": "https://habr.com/ru/companies/dsol/articles/504380/",
+        "title": "Твердотельные накопители. Внутреннее устройство и принципы их построения",
+        "author": "DSol",
+        "date": "2020-05-31",
+        "time": "12:54",
+        "votes": "+7",
+        "comments": "24",
+        "bookmarks": "71",
+        "views": "22364"
+    },
+    {
+        "url": "https://habr.com/ru/companies/dsol/articles/490252/",
+        "title": "Современные решения для построения систем информационной безопасности — брокеры сетевых пакетов (Network Packet Broker)",
+        "author": "DSol",
+        "date": "2020-02-27",
+        "time": "14:45",
+        "votes": "+2",
+        "comments": "5",
+        "bookmarks": "55",
+        "views": "17319"
+    }
+]

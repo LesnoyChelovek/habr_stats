@@ -1,0 +1,68 @@
+[
+    {
+        "url": "https://habr.com/ru/companies/hstx/articles/959052/",
+        "title": "Облачный GITEX 2025",
+        "author": "stefania_hstx",
+        "date": "2025-10-22",
+        "time": "12:13",
+        "votes": "0",
+        "comments": "0",
+        "bookmarks": "0",
+        "views": "130"
+    },
+    {
+        "url": "https://habr.com/ru/companies/hstx/articles/952462/",
+        "title": "Почему бизнесу нужен не только бэкап, но и Disaster Recovery. Чек-лист выжившего",
+        "author": "hystax-team",
+        "date": "2025-10-01",
+        "time": "14:17",
+        "votes": "+5",
+        "comments": "3",
+        "bookmarks": "34",
+        "views": "6355"
+    },
+    {
+        "url": "https://habr.com/ru/companies/hstx/articles/949350/",
+        "title": "Шашечки или ехать? В бэкапе теперь можно и то, и другое",
+        "author": "hystax-team",
+        "date": "2025-09-22",
+        "time": "11:59",
+        "votes": "0",
+        "comments": "0",
+        "bookmarks": "7",
+        "views": "1793"
+    },
+    {
+        "url": "https://habr.com/ru/companies/hstx/articles/947190/",
+        "title": "Облачные вычисления в 2025 году: рост ИИ приводит к революции на рынке объемом $723 млрд",
+        "author": "hstx_team",
+        "date": "2025-09-15",
+        "time": "18:01",
+        "votes": "+4",
+        "comments": "5",
+        "bookmarks": "3",
+        "views": "1004"
+    },
+    {
+        "url": "https://habr.com/ru/companies/hstx/articles/943972/",
+        "title": "Душить, ломать и контролировать. Зачем айтишнику джиу-джитсу",
+        "author": "spaceintruder",
+        "date": "2025-09-04",
+        "time": "14:35",
+        "votes": "+4",
+        "comments": "1",
+        "bookmarks": "5",
+        "views": "1743"
+    },
+    {
+        "url": "https://habr.com/ru/companies/hstx/articles/940504/",
+        "title": "Никакого наития, только полный контроль. Как построить эффективную стратегию бэкапа с Хайстекс Акура и S3-хранилищем",
+        "author": "yvorobjeva",
+        "date": "2025-08-25",
+        "time": "10:59",
+        "votes": "+4",
+        "comments": "3",
+        "bookmarks": "11",
+        "views": "933"
+    }
+]

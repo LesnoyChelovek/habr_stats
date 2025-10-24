@@ -1,0 +1,35 @@
+[
+    {
+        "url": "https://habr.com/ru/companies/rosa/articles/958634/",
+        "title": "Как разработать дизайн мобильной операционной системы с нуля: кейс РОСА и 65apps",
+        "author": "ROSALinux",
+        "date": "2025-10-21",
+        "time": "12:29",
+        "votes": "+1",
+        "comments": "6",
+        "bookmarks": "7",
+        "views": "1290"
+    },
+    {
+        "url": "https://habr.com/ru/companies/rosa/articles/943424/",
+        "title": "Как мы заменили MS WSUS и SCCM в распределенной инфраструктуре: пилот РОСА Центр управления",
+        "author": "ROSALinux",
+        "date": "2025-09-03",
+        "time": "07:50",
+        "votes": "+4",
+        "comments": "6",
+        "bookmarks": "13",
+        "views": "3872"
+    },
+    {
+        "url": "https://habr.com/ru/companies/rosa/articles/934226/",
+        "title": "Как мы заменили MS Active Directory, WSUS и SCCM в распределенной инфраструктуре: пилот Dynamic Directory",
+        "author": "ROSALinux",
+        "date": "2025-08-05",
+        "time": "14:13",
+        "votes": "+13",
+        "comments": "6",
+        "bookmarks": "44",
+        "views": "10442"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "https://habr.com/ru/companies/electroconnect/articles/959270/",
+        "title": "Проводники спирального типа",
+        "author": "MarinaPro25",
+        "date": "2025-10-23",
+        "time": "05:01",
+        "votes": "+1",
+        "comments": "2",
+        "bookmarks": "13",
+        "views": "1854"
+    },
+    {
+        "url": "https://habr.com/ru/companies/electroconnect/articles/957434/",
+        "title": "Зависит ли скорость сигнала от длины проводника на печатной плате?",
+        "author": "MarinaPro25",
+        "date": "2025-10-17",
+        "time": "05:35",
+        "votes": "+11",
+        "comments": "18",
+        "bookmarks": "25",
+        "views": "7059"
+    },
+    {
+        "url": "https://habr.com/ru/companies/electroconnect/articles/957004/",
+        "title": "Ошибки в трассировке печатной платы",
+        "author": "MarinaPro25",
+        "date": "2025-10-16",
+        "time": "06:11",
+        "votes": "+3",
+        "comments": "7",
+        "bookmarks": "20",
+        "views": "4756"
+    },
+    {
+        "url": "https://habr.com/ru/companies/electroconnect/articles/956620/",
+        "title": "Важность DRC перед отправкой gerber-файлов печатных плат на производство",
+        "author": "MarinaPro25",
+        "date": "2025-10-15",
+        "time": "05:28",
+        "votes": "0",
+        "comments": "7",
+        "bookmarks": "22",
+        "views": "2045"
+    },
+    {
+        "url": "https://habr.com/ru/companies/electroconnect/articles/955976/",
+        "title": "Электромагнитная совместимость при проектировании печатных плат",
+        "author": "MarinaPro25",
+        "date": "2025-10-13",
+        "time": "09:46",
+        "votes": "+4",
+        "comments": "5",
+        "bookmarks": "34",
+        "views": "4335"
+    },
+    {
+        "url": "https://habr.com/ru/companies/electroconnect/articles/955248/",
+        "title": "Влияние защитной паяльной маски на параметры высокочастотных печатных плат",
+        "author": "MarinaPro25",
+        "date": "2025-10-10",
+        "time": "08:35",
+        "votes": "+11",
+        "comments": "2",
+        "bookmarks": "17",
+        "views": "1270"
+    }
+]

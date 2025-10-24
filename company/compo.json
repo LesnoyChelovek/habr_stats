@@ -1,0 +1,46 @@
+[
+    {
+        "url": "https://habr.com/ru/companies/compo/articles/958584/",
+        "title": "Интеграции без иллюзий: интервью с Владимиром Гантуриным, техническим директором Compo Soft",
+        "author": "IgorN",
+        "date": "2025-10-21",
+        "time": "08:14",
+        "votes": "+7",
+        "comments": "0",
+        "bookmarks": "4",
+        "views": "337"
+    },
+    {
+        "url": "https://habr.com/ru/companies/compo/articles/956106/",
+        "title": "Как мы за 1.5 года переобучили с PHP на Java всех разработчиков",
+        "author": "IgorN",
+        "date": "2025-10-14",
+        "time": "07:33",
+        "votes": "+7",
+        "comments": "43",
+        "bookmarks": "17",
+        "views": "3972"
+    },
+    {
+        "url": "https://habr.com/ru/companies/compo/articles/954138/",
+        "title": "В поисках идеального стека для Enterprise проектов: почему Java плюс MACH",
+        "author": "IgorN",
+        "date": "2025-10-07",
+        "time": "09:01",
+        "votes": "+19",
+        "comments": "38",
+        "bookmarks": "28",
+        "views": "3038"
+    },
+    {
+        "url": "https://habr.com/ru/companies/compo/articles/952670/",
+        "title": "Масштабируемость под нагрузкой: как 400 RPS раскрывают потенциал B2B системы",
+        "author": "IgorN",
+        "date": "2025-10-02",
+        "time": "07:23",
+        "votes": "+8",
+        "comments": "1",
+        "bookmarks": "14",
+        "views": "1059"
+    }
+]

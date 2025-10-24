@@ -1,0 +1,134 @@
+[
+    {
+        "url": "https://habr.com/ru/companies/whoosh/articles/937232/",
+        "title": "Как мы подружили 1C с внутренним сервисным приложением, чтобы не тратить лишнего при закупке запчастей",
+        "author": "Nikitasimakin",
+        "date": "2025-08-19",
+        "time": "09:01",
+        "votes": "+4",
+        "comments": "1",
+        "bookmarks": "4",
+        "views": "2503"
+    },
+    {
+        "url": "https://habr.com/ru/companies/whoosh/articles/867274/",
+        "title": "Сжатие графики при помощи алгоритма LZ4",
+        "author": "aleksandr_krestinin",
+        "date": "2024-12-18",
+        "time": "08:00",
+        "votes": "+12",
+        "comments": "21",
+        "bookmarks": "23",
+        "views": "4808"
+    },
+    {
+        "url": "https://habr.com/ru/companies/whoosh/articles/836132/",
+        "title": "IoT Geofencing: как мы сократили время определения функциональных зон, используя H3-индексы",
+        "author": "Katbert",
+        "date": "2024-08-26",
+        "time": "12:42",
+        "votes": "+10",
+        "comments": "4",
+        "bookmarks": "10",
+        "views": "1608"
+    },
+    {
+        "url": "https://habr.com/ru/companies/whoosh/articles/825330/",
+        "title": "Сборка и отладка прошивки IoT-модуля: Python, make, апельсины и чёрная магия",
+        "author": "faruk_yussuf",
+        "date": "2024-06-28",
+        "time": "11:19",
+        "votes": "+13",
+        "comments": "22",
+        "bookmarks": "23",
+        "views": "3995"
+    },
+    {
+        "url": "https://habr.com/ru/companies/whoosh/articles/781406/",
+        "title": "Как мы переезжали с PostgreSQL на Data Lake в AWS и какие грабли собрали по пути",
+        "author": "import_nickname_as_nick",
+        "date": "2023-12-19",
+        "time": "09:28",
+        "votes": "+18",
+        "comments": "8",
+        "bookmarks": "40",
+        "views": "7545"
+    },
+    {
+        "url": "https://habr.com/ru/companies/whoosh/articles/777800/",
+        "title": "Озвучка самокатов, часть 2: MIDI через пьезоизлучатель",
+        "author": "Electronshik",
+        "date": "2023-12-13",
+        "time": "08:01",
+        "votes": "+6",
+        "comments": "4",
+        "bookmarks": "18",
+        "views": "2619"
+    },
+    {
+        "url": "https://habr.com/ru/companies/whoosh/articles/765628/",
+        "title": "Калибровка магнитометра: через вращения к компасу",
+        "author": "faruk_yussuf",
+        "date": "2023-10-06",
+        "time": "08:58",
+        "votes": "+35",
+        "comments": "28",
+        "bookmarks": "52",
+        "views": "10820"
+    },
+    {
+        "url": "https://habr.com/ru/companies/whoosh/articles/734332/",
+        "title": "Озвучка самокатов, часть 1: зачем нам пьезокерамика и как ее готовить",
+        "author": "Katbert",
+        "date": "2023-06-29",
+        "time": "12:10",
+        "votes": "+8",
+        "comments": "16",
+        "bookmarks": "17",
+        "views": "4884"
+    },
+    {
+        "url": "https://habr.com/ru/companies/whoosh/articles/728926/",
+        "title": "Бекенд на AWS Lambda за 60 минут",
+        "author": "TeaDove",
+        "date": "2023-04-18",
+        "time": "10:20",
+        "votes": "+13",
+        "comments": "11",
+        "bookmarks": "33",
+        "views": "6112"
+    },
+    {
+        "url": "https://habr.com/ru/companies/whoosh/articles/720194/",
+        "title": "Как спрогнозировать спрос на самокаты и не захламить город, версия Whoosh",
+        "author": "avanmw",
+        "date": "2023-03-03",
+        "time": "11:55",
+        "votes": "+12",
+        "comments": "10",
+        "bookmarks": "28",
+        "views": "7144"
+    },
+    {
+        "url": "https://habr.com/ru/companies/whoosh/articles/707176/",
+        "title": "Двое на самокате, не считая кучи разных датчиков: как мы учились определять поездки вдвоем",
+        "author": "faruk_yussuf",
+        "date": "2022-12-26",
+        "time": "09:26",
+        "votes": "+124",
+        "comments": "312",
+        "bookmarks": "92",
+        "views": "58648"
+    },
+    {
+        "url": "https://habr.com/ru/companies/whoosh/articles/705708/",
+        "title": "Софт, хард и два колеса: как мы строили IT-инфраструктуру в Whoosh",
+        "author": "Katbert",
+        "date": "2022-12-20",
+        "time": "11:16",
+        "votes": "+14",
+        "comments": "19",
+        "bookmarks": "31",
+        "views": "8139"
+    }
+]

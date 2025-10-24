@@ -1,0 +1,57 @@
+[
+    {
+        "url": "https://habr.com/ru/companies/digital_solutions/articles/929584/",
+        "title": "Обновление Библиотеки стандартных подсистем с версии 1.1 до 3.1 в нетиповой конфигурации средней сложности",
+        "author": "ds_1C",
+        "date": "2025-08-22",
+        "time": "07:40",
+        "votes": "+1",
+        "comments": "2",
+        "bookmarks": "2",
+        "views": "1321"
+    },
+    {
+        "url": "https://habr.com/ru/companies/digital_solutions/articles/931618/",
+        "title": "Как не дать фундаменту треснуть: защита данных в 1С",
+        "author": "ds_1C",
+        "date": "2025-07-28",
+        "time": "09:24",
+        "votes": "+6",
+        "comments": "8",
+        "bookmarks": "12",
+        "views": "4914"
+    },
+    {
+        "url": "https://habr.com/ru/companies/digital_solutions/articles/926010/",
+        "title": "Цена промедления: почему важно обновлять 1С ERP вовремя",
+        "author": "ds_1C",
+        "date": "2025-07-08",
+        "time": "12:10",
+        "votes": "+2",
+        "comments": "22",
+        "bookmarks": "8",
+        "views": "4695"
+    },
+    {
+        "url": "https://habr.com/ru/companies/digital_solutions/articles/920558/",
+        "title": "Как мы ускорили разработку python-микросервисов с помощью шаблонизатора",
+        "author": "nazipovvt",
+        "date": "2025-06-21",
+        "time": "11:16",
+        "votes": "+8",
+        "comments": "13",
+        "bookmarks": "69",
+        "views": "7159"
+    },
+    {
+        "url": "https://habr.com/ru/companies/digital_solutions/articles/916666/",
+        "title": "Почему нужен Nexus, когда команда не помещается в рамки двух пицц",
+        "author": "SimplExample",
+        "date": "2025-06-09",
+        "time": "09:20",
+        "votes": "+7",
+        "comments": "4",
+        "bookmarks": "12",
+        "views": "4930"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "url": "https://habr.com/ru/companies/graviton/articles/959510/",
+        "title": "UEFI Shell: быстрый старт",
+        "author": "graviton_team",
+        "date": "2025-10-23",
+        "time": "12:35",
+        "votes": "+11",
+        "comments": "2",
+        "bookmarks": "42",
+        "views": "2449"
+    },
+    {
+        "url": "https://habr.com/ru/companies/graviton/articles/945984/",
+        "title": "Китайский многофазный DC/DC источник — двойник с сюрпризом",
+        "author": "graviton_team",
+        "date": "2025-09-11",
+        "time": "09:12",
+        "votes": "+32",
+        "comments": "9",
+        "bookmarks": "34",
+        "views": "8526"
+    },
+    {
+        "url": "https://habr.com/ru/companies/graviton/articles/932494/",
+        "title": "Без права на запись: как мы заперли содержимое SPI Flash в сейф и выбросили ключ",
+        "author": "graviton_team",
+        "date": "2025-07-30",
+        "time": "14:11",
+        "votes": "+22",
+        "comments": "13",
+        "bookmarks": "18",
+        "views": "4172"
+    }
+]

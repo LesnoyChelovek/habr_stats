@@ -1,0 +1,167 @@
+[
+    {
+        "url": "https://habr.com/ru/companies/habr_rutube/articles/957362/",
+        "title": "Как мы строим сеть RUTUBE",
+        "author": "oleg_ar",
+        "date": "2025-10-22",
+        "time": "09:14",
+        "votes": "+12",
+        "comments": "55",
+        "bookmarks": "38",
+        "views": "11551"
+    },
+    {
+        "url": "https://habr.com/ru/companies/habr_rutube/articles/953760/",
+        "title": "CX-долг продукта: что это такое и почему его нельзя прощать",
+        "author": "dariaborovik",
+        "date": "2025-10-07",
+        "time": "10:19",
+        "votes": "+5",
+        "comments": "5",
+        "bookmarks": "8",
+        "views": "713"
+    },
+    {
+        "url": "https://habr.com/ru/companies/habr_rutube/articles/953846/",
+        "title": "Когда стандартные подходы не работают: как разработать методологию под новые задачи",
+        "author": "nataliaalexandrova",
+        "date": "2025-10-06",
+        "time": "15:12",
+        "votes": "+9",
+        "comments": "0",
+        "bookmarks": "12",
+        "views": "1165"
+    },
+    {
+        "url": "https://habr.com/ru/companies/habr_rutube/articles/950518/",
+        "title": "Собственное файловое хранилище для 400 Пбайт видеоконтента",
+        "author": "e_finkel",
+        "date": "2025-09-30",
+        "time": "09:30",
+        "votes": "+32",
+        "comments": "40",
+        "bookmarks": "71",
+        "views": "20276"
+    },
+    {
+        "url": "https://habr.com/ru/companies/habr_rutube/articles/934130/",
+        "title": "Структуры данных для frontend-разработчиков с реальными примерами",
+        "author": "RuSaG0",
+        "date": "2025-08-14",
+        "time": "10:11",
+        "votes": "+16",
+        "comments": "14",
+        "bookmarks": "114",
+        "views": "14337"
+    },
+    {
+        "url": "https://habr.com/ru/companies/habr_rutube/articles/929636/",
+        "title": "Как создать новую роль в компании. Инструкция для тех, кто решился собрать команду с нуля",
+        "author": "dariaborovik",
+        "date": "2025-07-24",
+        "time": "09:11",
+        "votes": "+6",
+        "comments": "1",
+        "bookmarks": "18",
+        "views": "1845"
+    },
+    {
+        "url": "https://habr.com/ru/companies/habr_rutube/articles/922618/",
+        "title": "2D-скролл во Flutter",
+        "author": "feduke-nukem",
+        "date": "2025-07-03",
+        "time": "10:10",
+        "votes": "+16",
+        "comments": "0",
+        "bookmarks": "29",
+        "views": "2606"
+    },
+    {
+        "url": "https://habr.com/ru/companies/habr_rutube/articles/919360/",
+        "title": "Как устроен CDN RUTUBE: железо, сеть, ПО",
+        "author": "abvgd",
+        "date": "2025-06-18",
+        "time": "09:54",
+        "votes": "+33",
+        "comments": "22",
+        "bookmarks": "53",
+        "views": "8434"
+    },
+    {
+        "url": "https://habr.com/ru/companies/habr_rutube/articles/914942/",
+        "title": "Эволюция веб-приложения PREMIER: от legacy к современной архитектуре",
+        "author": "bortsov_it",
+        "date": "2025-06-05",
+        "time": "09:37",
+        "votes": "+9",
+        "comments": "3",
+        "bookmarks": "17",
+        "views": "1865"
+    },
+    {
+        "url": "https://habr.com/ru/companies/habr_rutube/articles/911876/",
+        "title": "Поддержка RUTUBE 2.0: как мы научили бота не ломаться на сложных вопросах",
+        "author": "vlenshin",
+        "date": "2025-05-22",
+        "time": "14:18",
+        "votes": "+10",
+        "comments": "5",
+        "bookmarks": "12",
+        "views": "2620"
+    },
+    {
+        "url": "https://habr.com/ru/companies/habr_rutube/articles/902306/",
+        "title": "Мастерство фокусов на Compose (часть 2): как работает запрос фокуса",
+        "author": "Ra5en",
+        "date": "2025-05-13",
+        "time": "10:10",
+        "votes": "+8",
+        "comments": "4",
+        "bookmarks": "18",
+        "views": "1937"
+    },
+    {
+        "url": "https://habr.com/ru/companies/habr_rutube/articles/902310/",
+        "title": "Мастерство фокусов на Compose",
+        "author": "Ra5en",
+        "date": "2025-04-29",
+        "time": "09:49",
+        "votes": "+13",
+        "comments": "5",
+        "bookmarks": "38",
+        "views": "5289"
+    },
+    {
+        "url": "https://habr.com/ru/companies/habr_rutube/articles/899954/",
+        "title": "Как CJE помогает команде улучшать пользовательский опыт: пример RUTUBE",
+        "author": "Styepasha",
+        "date": "2025-04-15",
+        "time": "10:17",
+        "votes": "+5",
+        "comments": "2",
+        "bookmarks": "6",
+        "views": "1377"
+    },
+    {
+        "url": "https://habr.com/ru/companies/habr_rutube/articles/895286/",
+        "title": "Отказоустойчивость в MinIO",
+        "author": "stratnevpy",
+        "date": "2025-04-02",
+        "time": "10:32",
+        "votes": "+17",
+        "comments": "11",
+        "bookmarks": "80",
+        "views": "7974"
+    },
+    {
+        "url": "https://habr.com/ru/companies/habr_rutube/articles/887748/",
+        "title": "Архитектура национального видеохостинга: путь RUTUBE к 10 Тбит/с с использованием своей CDN",
+        "author": "eldarni",
+        "date": "2025-03-05",
+        "time": "12:33",
+        "votes": "+35",
+        "comments": "61",
+        "bookmarks": "59",
+        "views": "13805"
+    }
+]

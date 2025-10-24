@@ -1,0 +1,145 @@
+[
+    {
+        "url": "https://habr.com/ru/companies/basis/articles/946418/",
+        "title": "Почему ваш тренинг не работает: педагогика vs андрагогика в IT",
+        "author": "Philipp451",
+        "date": "2025-09-15",
+        "time": "12:00",
+        "votes": "+7",
+        "comments": "7",
+        "bookmarks": "5",
+        "views": "869"
+    },
+    {
+        "url": "https://habr.com/ru/companies/basis/articles/941538/",
+        "title": "Как построить Professional Services, или Внедрение и техподдержка — смешать, но не взбалтывать",
+        "author": "RoDeniss",
+        "date": "2025-09-02",
+        "time": "09:01",
+        "votes": "+9",
+        "comments": "4",
+        "bookmarks": "13",
+        "views": "660"
+    },
+    {
+        "url": "https://habr.com/ru/companies/basis/articles/939496/",
+        "title": "Дрейф Terraform: как незаметно сломать инфраструктуру",
+        "author": "Basis_Habr",
+        "date": "2025-08-22",
+        "time": "09:55",
+        "votes": "+4",
+        "comments": "5",
+        "bookmarks": "21",
+        "views": "2372"
+    },
+    {
+        "url": "https://habr.com/ru/companies/basis/articles/934148/",
+        "title": "Как мы учили нейросеть отвечать на вопросы",
+        "author": "RoDeniss",
+        "date": "2025-08-05",
+        "time": "11:01",
+        "votes": "+11",
+        "comments": "11",
+        "bookmarks": "30",
+        "views": "2610"
+    },
+    {
+        "url": "https://habr.com/ru/companies/basis/articles/931724/",
+        "title": "Как построить Professional Services, или Разработчики должны заниматься разработкой",
+        "author": "RoDeniss",
+        "date": "2025-07-29",
+        "time": "10:32",
+        "votes": "+14",
+        "comments": "10",
+        "bookmarks": "19",
+        "views": "1303"
+    },
+    {
+        "url": "https://habr.com/ru/companies/basis/articles/899470/",
+        "title": "Сертификация ФСТЭК: как мы перестали бояться и полюбили процесс",
+        "author": "Basis_Habr",
+        "date": "2025-04-10",
+        "time": "10:11",
+        "votes": "+7",
+        "comments": "4",
+        "bookmarks": "37",
+        "views": "7058"
+    },
+    {
+        "url": "https://habr.com/ru/companies/basis/articles/897224/",
+        "title": "Что будет, если не использовать TCP или UDP?",
+        "author": "Basis_Habr",
+        "date": "2025-04-04",
+        "time": "14:52",
+        "votes": "+174",
+        "comments": "118",
+        "bookmarks": "304",
+        "views": "55934"
+    },
+    {
+        "url": "https://habr.com/ru/companies/basis/articles/890950/",
+        "title": "TATLIN и Basis Dynamix: интеграция нашей платформы виртуализации с отечественной СХД",
+        "author": "Basis_Habr",
+        "date": "2025-03-14",
+        "time": "12:49",
+        "votes": "+5",
+        "comments": "4",
+        "bookmarks": "1",
+        "views": "1768"
+    },
+    {
+        "url": "https://habr.com/ru/companies/basis/articles/888430/",
+        "title": "Доброе слово и скрипты: как мы автоматизировали внедрение платформы виртуализации",
+        "author": "SomovIV",
+        "date": "2025-03-06",
+        "time": "12:00",
+        "votes": "+5",
+        "comments": "5",
+        "bookmarks": "13",
+        "views": "2634"
+    },
+    {
+        "url": "https://habr.com/ru/companies/basis/articles/877866/",
+        "title": "Закат VMware: как технологический гигант утратил лидерство",
+        "author": "Basis_Habr",
+        "date": "2025-02-07",
+        "time": "08:25",
+        "votes": "+13",
+        "comments": "98",
+        "bookmarks": "43",
+        "views": "34143"
+    },
+    {
+        "url": "https://habr.com/ru/companies/basis/articles/875942/",
+        "title": "Docs-as-Code в технической документации: переход от reStructuredText к AsciiDoc",
+        "author": "Basis_Habr",
+        "date": "2025-01-23",
+        "time": "10:00",
+        "votes": "+6",
+        "comments": "13",
+        "bookmarks": "26",
+        "views": "4620"
+    },
+    {
+        "url": "https://habr.com/ru/companies/basis/articles/874156/",
+        "title": "Как (не)вырастить армию DevOps-инженеров",
+        "author": "Philipp451",
+        "date": "2025-01-16",
+        "time": "11:55",
+        "votes": "+10",
+        "comments": "24",
+        "bookmarks": "38",
+        "views": "11230"
+    },
+    {
+        "url": "https://habr.com/ru/companies/basis/articles/869648/",
+        "title": "Смешивать, но не взбалтывать. Как мы добавили Sec между Dev и Ops",
+        "author": "Basis_Habr",
+        "date": "2024-12-25",
+        "time": "11:00",
+        "votes": "+14",
+        "comments": "2",
+        "bookmarks": "26",
+        "views": "2415"
+    }
+]

@@ -1,0 +1,233 @@
+[
+    {
+        "url": "https://habr.com/ru/articles/958676/",
+        "title": "Ускоряем навигацию в 5 раз: CD-меню для частых папок",
+        "author": "eternaladm",
+        "date": "2025-10-21",
+        "time": "13:30",
+        "votes": "0",
+        "comments": "7",
+        "bookmarks": "28",
+        "views": "2322"
+    },
+    {
+        "url": "https://habr.com/ru/articles/955674/",
+        "title": "Система персональных шпаргалок прямо в терминале",
+        "author": "eternaladm",
+        "date": "2025-10-14",
+        "time": "13:30",
+        "votes": "+34",
+        "comments": "26",
+        "bookmarks": "154",
+        "views": "9798"
+    },
+    {
+        "url": "https://habr.com/ru/articles/953860/",
+        "title": "3 скрипта для диагностики Вашего Linux-сервера",
+        "author": "eternaladm",
+        "date": "2025-10-07",
+        "time": "13:31",
+        "votes": "+25",
+        "comments": "27",
+        "bookmarks": "198",
+        "views": "13437"
+    },
+    {
+        "url": "https://habr.com/ru/articles/951366/",
+        "title": "Тихий апокалипсис: я устал читать сгенерированные статьи",
+        "author": "eternaladm",
+        "date": "2025-09-30",
+        "time": "13:30",
+        "votes": "+215",
+        "comments": "280",
+        "bookmarks": "55",
+        "views": "25704"
+    },
+    {
+        "url": "https://habr.com/ru/articles/949402/",
+        "title": "Часть 3. Rsync — подробное руководство для админов",
+        "author": "eternaladm",
+        "date": "2025-09-23",
+        "time": "13:30",
+        "votes": "+12",
+        "comments": "5",
+        "bookmarks": "107",
+        "views": "6428"
+    },
+    {
+        "url": "https://habr.com/ru/articles/948104/",
+        "title": "Часть 2. Rsync — подробное руководство для админов",
+        "author": "eternaladm",
+        "date": "2025-09-19",
+        "time": "13:30",
+        "votes": "+13",
+        "comments": "6",
+        "bookmarks": "166",
+        "views": "9414"
+    },
+    {
+        "url": "https://habr.com/ru/articles/947630/",
+        "title": "Часть 1. Rsync: подробное руководство для админов",
+        "author": "eternaladm",
+        "date": "2025-09-17",
+        "time": "13:30",
+        "votes": "+44",
+        "comments": "13",
+        "bookmarks": "282",
+        "views": "18828"
+    },
+    {
+        "url": "https://habr.com/ru/articles/942760/",
+        "title": "Systemd: полное руководство для админов + примеры",
+        "author": "eternaladm",
+        "date": "2025-09-02",
+        "time": "13:00",
+        "votes": "+51",
+        "comments": "25",
+        "bookmarks": "280",
+        "views": "22863"
+    },
+    {
+        "url": "https://habr.com/ru/articles/940266/",
+        "title": "Тихий герой воскресного утра: как bash-скрипт спас нас от OOM Killer",
+        "author": "eternaladm",
+        "date": "2025-08-29",
+        "time": "13:00",
+        "votes": "+14",
+        "comments": "23",
+        "bookmarks": "70",
+        "views": "11566"
+    },
+    {
+        "url": "https://habr.com/ru/articles/940056/",
+        "title": "Генерация тестовых данных на Python: руководство по библиотеке Faker",
+        "author": "eternaladm",
+        "date": "2025-08-26",
+        "time": "13:30",
+        "votes": "+6",
+        "comments": "8",
+        "bookmarks": "91",
+        "views": "4707"
+    },
+    {
+        "url": "https://habr.com/ru/articles/939088/",
+        "title": "ChatGPT против моего скрипта для очистки системы: кто кого?",
+        "author": "eternaladm",
+        "date": "2025-08-20",
+        "time": "14:18",
+        "votes": "0",
+        "comments": "12",
+        "bookmarks": "13",
+        "views": "3232"
+    },
+    {
+        "url": "https://habr.com/ru/articles/935560/",
+        "title": "Автоматическая сортировка файлов на Python: из хаоса в порядок одной командой",
+        "author": "eternaladm",
+        "date": "2025-08-13",
+        "time": "13:30",
+        "votes": "+7",
+        "comments": "8",
+        "bookmarks": "69",
+        "views": "5269"
+    },
+    {
+        "url": "https://habr.com/ru/articles/933574/",
+        "title": "Cron в Linux: полное руководство для админов + скрытые проблемы",
+        "author": "eternaladm",
+        "date": "2025-08-05",
+        "time": "13:30",
+        "votes": "+26",
+        "comments": "6",
+        "bookmarks": "185",
+        "views": "19718"
+    },
+    {
+        "url": "https://habr.com/ru/articles/931364/",
+        "title": "Когда лень проверять порты вручную: магия Nmap",
+        "author": "eternaladm",
+        "date": "2025-07-29",
+        "time": "13:30",
+        "votes": "+21",
+        "comments": "1",
+        "bookmarks": "195",
+        "views": "16758"
+    },
+    {
+        "url": "https://habr.com/ru/articles/927406/",
+        "title": "Bash vs Python: битва, где нет проигравших",
+        "author": "eternaladm",
+        "date": "2025-07-18",
+        "time": "13:30",
+        "votes": "+1",
+        "comments": "42",
+        "bookmarks": "74",
+        "views": "8948"
+    },
+    {
+        "url": "https://habr.com/ru/articles/927234/",
+        "title": "Скрипт-реаниматор: автоматическое восстановление упавших SSH-сессий",
+        "author": "eternaladm",
+        "date": "2025-07-15",
+        "time": "13:30",
+        "votes": "+3",
+        "comments": "32",
+        "bookmarks": "57",
+        "views": "6644"
+    },
+    {
+        "url": "https://habr.com/ru/articles/926682/",
+        "title": "Автоматизация как образ мышления: как скрипты меняют не только работу, но и мозг",
+        "author": "eternaladm",
+        "date": "2025-07-11",
+        "time": "13:31",
+        "votes": "+10",
+        "comments": "17",
+        "bookmarks": "129",
+        "views": "14405"
+    },
+    {
+        "url": "https://habr.com/ru/articles/925962/",
+        "title": "Скрипт, который следит за тобой: автоматический аудит действий в Linux",
+        "author": "eternaladm",
+        "date": "2025-07-08",
+        "time": "13:30",
+        "votes": "+16",
+        "comments": "12",
+        "bookmarks": "165",
+        "views": "11804"
+    },
+    {
+        "url": "https://habr.com/ru/articles/924852/",
+        "title": "Автоматизация мониторинга: как заставить скрипты работать вместо вас",
+        "author": "eternaladm",
+        "date": "2025-07-04",
+        "time": "13:00",
+        "votes": "+3",
+        "comments": "19",
+        "bookmarks": "84",
+        "views": "8393"
+    },
+    {
+        "url": "https://habr.com/ru/articles/923744/",
+        "title": "Автоматизация инвентаризации парка ПК: PowerShell-скрипт для сбора системной информации",
+        "author": "eternaladm",
+        "date": "2025-07-01",
+        "time": "10:14",
+        "votes": "+11",
+        "comments": "20",
+        "bookmarks": "73",
+        "views": "6606"
+    },
+    {
+        "url": "https://habr.com/ru/articles/922164/",
+        "title": "Chocolatey + PowerShell: как развернуть софт на 100 ПК за час",
+        "author": "eternaladm",
+        "date": "2025-06-26",
+        "time": "11:22",
+        "votes": "+4",
+        "comments": "14",
+        "bookmarks": "54",
+        "views": "6052"
+    }
+]

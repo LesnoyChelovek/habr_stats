@@ -1,0 +1,35 @@
+[
+    {
+        "url": "https://habr.com/ru/companies/openyard/articles/940458/",
+        "title": "OYBoot: как мы написали свой UEFI-загрузчик под Xeon IceLake",
+        "author": "tohas1986",
+        "date": "2025-08-25",
+        "time": "09:37",
+        "votes": "+22",
+        "comments": "2",
+        "bookmarks": "16",
+        "views": "1862"
+    },
+    {
+        "url": "https://habr.com/ru/companies/openyard/articles/923454/",
+        "title": "GPU Server and AI Infrastructure: тренды архитектуры 2030",
+        "author": "Stanislav_ITE",
+        "date": "2025-06-30",
+        "time": "12:42",
+        "votes": "+10",
+        "comments": "4",
+        "bookmarks": "13",
+        "views": "1954"
+    },
+    {
+        "url": "https://habr.com/ru/companies/openyard/articles/885180/",
+        "title": "Клубничные поля и серверы: как работает серверный завод в Рязани",
+        "author": "gwynbleiddy",
+        "date": "2025-02-24",
+        "time": "08:59",
+        "votes": "+13",
+        "comments": "8",
+        "bookmarks": "16",
+        "views": "4927"
+    }
+]

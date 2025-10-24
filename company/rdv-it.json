@@ -1,0 +1,101 @@
+[
+    {
+        "url": "https://habr.com/ru/companies/rdv-it/articles/949644/",
+        "title": "Data Driven & Система показателей",
+        "author": "RDV-IT",
+        "date": "2025-09-23",
+        "time": "08:54",
+        "votes": "0",
+        "comments": "0",
+        "bookmarks": "4",
+        "views": "325"
+    },
+    {
+        "url": "https://habr.com/ru/companies/rdv-it/articles/944300/",
+        "title": "Что такое RabbitMQ и как мы его внедрили в интеграцию с 1С",
+        "author": "RDV-IT",
+        "date": "2025-09-05",
+        "time": "12:35",
+        "votes": "+5",
+        "comments": "13",
+        "bookmarks": "27",
+        "views": "5514"
+    },
+    {
+        "url": "https://habr.com/ru/companies/rdv-it/articles/939832/",
+        "title": "Важность качества данных при внедрении ERP",
+        "author": "RDV-IT",
+        "date": "2025-08-22",
+        "time": "12:40",
+        "votes": "+4",
+        "comments": "1",
+        "bookmarks": "3",
+        "views": "502"
+    },
+    {
+        "url": "https://habr.com/ru/companies/rdv-it/articles/564290/",
+        "title": "ERP-система против микросервисного подхода: в каком случае вы сможете запустить свой маркетплейс?",
+        "author": "RDV-IT",
+        "date": "2021-06-23",
+        "time": "12:19",
+        "votes": "+9",
+        "comments": "0",
+        "bookmarks": "19",
+        "views": "4385"
+    },
+    {
+        "url": "https://habr.com/ru/companies/rdv-it/articles/557036/",
+        "title": "Готовое решение для 3х кейсов по работе с карточками товаров на маркетплейсах",
+        "author": "RDV-IT",
+        "date": "2021-05-14",
+        "time": "10:33",
+        "votes": "+6",
+        "comments": "0",
+        "bookmarks": "9",
+        "views": "7088"
+    },
+    {
+        "url": "https://habr.com/ru/companies/rdv-it/articles/557268/",
+        "title": "Учет спецодежды и спецоснастки в 1С:ERP: как обойти ограничения типового функционала",
+        "author": "RDV-IT",
+        "date": "2021-05-13",
+        "time": "14:05",
+        "votes": "+5",
+        "comments": "2",
+        "bookmarks": "7",
+        "views": "10136"
+    },
+    {
+        "url": "https://habr.com/ru/companies/rdv-it/articles/548364/",
+        "title": "Ликвидность дебиторской задолженности: разбираем по полочкам",
+        "author": "RDV-IT",
+        "date": "2021-03-22",
+        "time": "14:30",
+        "votes": "+7",
+        "comments": "0",
+        "bookmarks": "14",
+        "views": "2726"
+    },
+    {
+        "url": "https://habr.com/ru/companies/rdv-it/articles/546320/",
+        "title": "Управленческий учет: как распределить расходы по направлениям деятельности, чтобы правильно оценить их прибыльность",
+        "author": "RDV-IT",
+        "date": "2021-03-10",
+        "time": "10:02",
+        "votes": "0",
+        "comments": "0",
+        "bookmarks": "4",
+        "views": "2822"
+    },
+    {
+        "url": "https://habr.com/ru/companies/rdv-it/articles/539734/",
+        "title": "История о том, как мы на 1С запилили продукт для интеграции с goods.ru и не смогли остановиться",
+        "author": "RDV-IT",
+        "date": "2021-01-28",
+        "time": "13:42",
+        "votes": "+11",
+        "comments": "2",
+        "bookmarks": "20",
+        "views": "11198"
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "url": "https://habr.com/ru/companies/quanttelecom/articles/947830/",
+        "title": "Спутниковые системы квантовой криптографии: безопасность из космоса",
+        "author": "quanttelecom_ru",
+        "date": "2025-09-17",
+        "time": "12:08",
+        "votes": "0",
+        "comments": "1",
+        "bookmarks": "10",
+        "views": "1639"
+    },
+    {
+        "url": "https://habr.com/ru/companies/quanttelecom/articles/916778/",
+        "title": "Автоматизация управления ключами и квантовые сети — неприступная крепость для конфиденциальной информации",
+        "author": "quanttelecom_ru",
+        "date": "2025-06-09",
+        "time": "07:23",
+        "votes": "0",
+        "comments": "0",
+        "bookmarks": "5",
+        "views": "687"
+    },
+    {
+        "url": "https://habr.com/ru/companies/quanttelecom/articles/878444/",
+        "title": "От чего зависит безопасность квантовой сети? Часть 2",
+        "author": "quanttelecom_ru",
+        "date": "2025-01-31",
+        "time": "16:45",
+        "votes": "+2",
+        "comments": "0",
+        "bookmarks": "7",
+        "views": "1157"
+    },
+    {
+        "url": "https://habr.com/ru/companies/quanttelecom/articles/867266/",
+        "title": "От чего зависит безопасность квантовой сети? Часть 1",
+        "author": "quanttelecom_ru",
+        "date": "2024-12-17",
+        "time": "10:03",
+        "votes": "0",
+        "comments": "0",
+        "bookmarks": "11",
+        "views": "1267"
+    },
+    {
+        "url": "https://habr.com/ru/companies/quanttelecom/articles/817799/",
+        "title": "Самые актуальные исследования в области квантовых коммуникаций: важные шаги и вызовы",
+        "author": "quanttelecom_ru",
+        "date": "2024-05-28",
+        "time": "15:36",
+        "votes": "+2",
+        "comments": "0",
+        "bookmarks": "5",
+        "views": "1475"
+    },
+    {
+        "url": "https://habr.com/ru/companies/quanttelecom/articles/811477/",
+        "title": "Миниатюризация систем квантового распределения ключей с помощью фотонных интегральных схем, часть 2: Сценарии применения",
+        "author": "quanttelecom_ru",
+        "date": "2024-04-30",
+        "time": "15:42",
+        "votes": "0",
+        "comments": "0",
+        "bookmarks": "13",
+        "views": "1052"
+    },
+    {
+        "url": "https://habr.com/ru/companies/quanttelecom/articles/800453/",
+        "title": "Как работают квантовые генераторы случайных бит",
+        "author": "quanttelecom_ru",
+        "date": "2024-03-15",
+        "time": "08:47",
+        "votes": "+9",
+        "comments": "31",
+        "bookmarks": "16",
+        "views": "4134"
+    },
+    {
+        "url": "https://habr.com/ru/companies/quanttelecom/articles/794296/",
+        "title": "Миниатюризация систем квантового распределения ключей с помощью фотонных интегральных схем, часть 1: Материалы",
+        "author": "quanttelecom_ru",
+        "date": "2024-02-16",
+        "time": "14:35",
+        "votes": "+4",
+        "comments": "0",
+        "bookmarks": "8",
+        "views": "1609"
+    },
+    {
+        "url": "https://habr.com/ru/companies/quanttelecom/articles/778640/",
+        "title": "Квантовое распределение ключей в оптических транспортных сетях",
+        "author": "quanttelecom_ru",
+        "date": "2023-12-05",
+        "time": "13:58",
+        "votes": "+4",
+        "comments": "9",
+        "bookmarks": "11",
+        "views": "2476"
+    },
+    {
+        "url": "https://habr.com/ru/companies/quanttelecom/articles/774436/",
+        "title": "Управление сетевыми устройствами: Orange Pi, OpenWRT и Python",
+        "author": "quanttelecom_ru",
+        "date": "2023-11-16",
+        "time": "15:14",
+        "votes": "+5",
+        "comments": "2",
+        "bookmarks": "61",
+        "views": "15732"
+    },
+    {
+        "url": "https://habr.com/ru/companies/quanttelecom/articles/770188/",
+        "title": "Установка OC Linux на плату Kintex 7 (KC705) от Xilinx с софт-процессором MicroBlaze часть 2",
+        "author": "quanttelecom_ru",
+        "date": "2023-10-31",
+        "time": "14:46",
+        "votes": "+2",
+        "comments": "0",
+        "bookmarks": "21",
+        "views": "3609"
+    },
+    {
+        "url": "https://habr.com/ru/companies/quanttelecom/articles/768308/",
+        "title": "Установка OC Linux на плату Kintex 7 (KC705) от Xilinx с софт-процессором MicroBlaze часть 1",
+        "author": "quanttelecom_ru",
+        "date": "2023-10-18",
+        "time": "12:34",
+        "votes": "+12",
+        "comments": "5",
+        "bookmarks": "25",
+        "views": "4893"
+    }
+]

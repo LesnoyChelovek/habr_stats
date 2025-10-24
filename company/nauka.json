@@ -1,0 +1,123 @@
+[
+    {
+        "url": "https://habr.com/ru/companies/nauka/articles/938970/",
+        "title": "SSO на базе Spring Authorization Server. Можно ли в прод?",
+        "author": "devolek",
+        "date": "2025-08-20",
+        "time": "13:02",
+        "votes": "+9",
+        "comments": "3",
+        "bookmarks": "40",
+        "views": "2583"
+    },
+    {
+        "url": "https://habr.com/ru/companies/nauka/articles/928432/",
+        "title": "Frontend и OpenAPI: генерация клиента, мокирование API и данных с помощью MSW",
+        "author": "ekniazev",
+        "date": "2025-07-16",
+        "time": "21:56",
+        "votes": "+3",
+        "comments": "2",
+        "bookmarks": "28",
+        "views": "3030"
+    },
+    {
+        "url": "https://habr.com/ru/companies/nauka/articles/919624/",
+        "title": "Мотивационная методика в маленьком колл-центре: от идеи до применения",
+        "author": "Elena2102",
+        "date": "2025-06-19",
+        "time": "08:36",
+        "votes": "0",
+        "comments": "0",
+        "bookmarks": "4",
+        "views": "393"
+    },
+    {
+        "url": "https://habr.com/ru/companies/nauka/articles/885448/",
+        "title": "Умелые ручки: собираем тест-кейсы как конструктор",
+        "author": "Nauka_Blog",
+        "date": "2025-02-26",
+        "time": "09:00",
+        "votes": "+1",
+        "comments": "0",
+        "bookmarks": "21",
+        "views": "2284"
+    },
+    {
+        "url": "https://habr.com/ru/companies/nauka/articles/874472/",
+        "title": "Введение в тестирование",
+        "author": "Nauka_Blog",
+        "date": "2025-01-20",
+        "time": "13:47",
+        "votes": "+3",
+        "comments": "2",
+        "bookmarks": "42",
+        "views": "4147"
+    },
+    {
+        "url": "https://habr.com/ru/companies/nauka/articles/869440/",
+        "title": "Безопасность в сети",
+        "author": "Nauka_Blog",
+        "date": "2024-12-24",
+        "time": "13:50",
+        "votes": "+6",
+        "comments": "1",
+        "bookmarks": "40",
+        "views": "8731"
+    },
+    {
+        "url": "https://habr.com/ru/companies/nauka/articles/865002/",
+        "title": "Функционирование сетей на транспортном уровне",
+        "author": "Nauka_Blog",
+        "date": "2024-12-09",
+        "time": "10:43",
+        "votes": "+5",
+        "comments": "9",
+        "bookmarks": "77",
+        "views": "8119"
+    },
+    {
+        "url": "https://habr.com/ru/companies/nauka/articles/858606/",
+        "title": "Протоколы внутренней маршрутизации",
+        "author": "Nauka_Blog",
+        "date": "2024-11-14",
+        "time": "11:41",
+        "votes": "+4",
+        "comments": "2",
+        "bookmarks": "65",
+        "views": "11699"
+    },
+    {
+        "url": "https://habr.com/ru/companies/nauka/articles/853950/",
+        "title": "Кратко о сетях. Продолжение",
+        "author": "Nauka_Blog",
+        "date": "2024-10-28",
+        "time": "08:56",
+        "votes": "+5",
+        "comments": "6",
+        "bookmarks": "61",
+        "views": "5745"
+    },
+    {
+        "url": "https://habr.com/ru/companies/nauka/articles/852620/",
+        "title": "Кратко о сетях",
+        "author": "Nauka_Blog",
+        "date": "2024-10-22",
+        "time": "16:14",
+        "votes": "+5",
+        "comments": "5",
+        "bookmarks": "130",
+        "views": "16876"
+    },
+    {
+        "url": "https://habr.com/ru/companies/nauka/articles/850724/",
+        "title": "Опыт разработки приложений java и оформления кода",
+        "author": "Nauka_Blog",
+        "date": "2024-10-15",
+        "time": "08:08",
+        "votes": "+5",
+        "comments": "3",
+        "bookmarks": "26",
+        "views": "2437"
+    }
+]

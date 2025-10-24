@@ -1,0 +1,200 @@
+[
+    {
+        "url": "https://habr.com/ru/companies/aenix/articles/918990/",
+        "title": "Cozypkg: как мы упростили локальную разработку с Helm + Flux",
+        "author": "kvaps",
+        "date": "2025-06-18",
+        "time": "17:41",
+        "votes": "+7",
+        "comments": "0",
+        "bookmarks": "8",
+        "views": "2379"
+    },
+    {
+        "url": "https://habr.com/ru/companies/aenix/articles/914198/",
+        "title": "Эволюция платформ виртуализации: как мы пришли к миру managed-сервисов и как сервис-провайдерам конкурировать с AWS",
+        "author": "kvaps",
+        "date": "2025-06-04",
+        "time": "08:03",
+        "votes": "+10",
+        "comments": "0",
+        "bookmarks": "9",
+        "views": "1887"
+    },
+    {
+        "url": "https://habr.com/ru/companies/aenix/articles/901100/",
+        "title": "Простой способ установки Talos Linux на любую машину и у любого провайдера",
+        "author": "kvaps",
+        "date": "2025-04-16",
+        "time": "06:28",
+        "votes": "+23",
+        "comments": "15",
+        "bookmarks": "29",
+        "views": "5060"
+    },
+    {
+        "url": "https://habr.com/ru/companies/aenix/articles/865238/",
+        "title": "Неизбежное будущее Kubernetes: почему оркестратор должен пойти по пути Linux Kernel",
+        "author": "TimurTukaev",
+        "date": "2024-12-10",
+        "time": "12:52",
+        "votes": "+24",
+        "comments": "25",
+        "bookmarks": "45",
+        "views": "12141"
+    },
+    {
+        "url": "https://habr.com/ru/companies/aenix/articles/862462/",
+        "title": "Азбука: FluxCD — перенастраиваем kubernetes с одного репозитория на другой",
+        "author": "gecube",
+        "date": "2024-11-29",
+        "time": "13:16",
+        "votes": "+16",
+        "comments": "3",
+        "bookmarks": "22",
+        "views": "5597"
+    },
+    {
+        "url": "https://habr.com/ru/companies/aenix/articles/832824/",
+        "title": "Как мы создавали динамический Kubernetes API server для API Aggregation Layer в Cozystack",
+        "author": "kvaps",
+        "date": "2024-11-26",
+        "time": "11:28",
+        "votes": "+10",
+        "comments": "1",
+        "bookmarks": "8",
+        "views": "2021"
+    },
+    {
+        "url": "https://habr.com/ru/companies/aenix/articles/834682/",
+        "title": "Погружение в облака: K8S по следам Ænix с gohost. Часть 1. Установка Kubernetes-кластера под управлением Cozystack",
+        "author": "karabass_off",
+        "date": "2024-08-08",
+        "time": "08:15",
+        "votes": "+8",
+        "comments": "11",
+        "bookmarks": "23",
+        "views": "4371"
+    },
+    {
+        "url": "https://habr.com/ru/companies/aenix/articles/832820/",
+        "title": "FreeIPA tips & tricks: перенос FreeIPA из LXC-контейнера CentOS 7 в Rocky Linux, дебаг и истекшие сертификаты",
+        "author": "kvaps",
+        "date": "2024-07-31",
+        "time": "12:13",
+        "votes": "+10",
+        "comments": "5",
+        "bookmarks": "26",
+        "views": "2993"
+    },
+    {
+        "url": "https://habr.com/ru/companies/aenix/articles/798567/",
+        "title": "DIY: Ваше собственное облако на базе Kubernetes (часть 3)",
+        "author": "kvaps",
+        "date": "2024-03-11",
+        "time": "04:02",
+        "votes": "+10",
+        "comments": "4",
+        "bookmarks": "72",
+        "views": "9415"
+    },
+    {
+        "url": "https://habr.com/ru/companies/aenix/articles/797323/",
+        "title": "DIY: Ваше собственное облако на базе Kubernetes (часть 2)",
+        "author": "kvaps",
+        "date": "2024-03-01",
+        "time": "12:50",
+        "votes": "+11",
+        "comments": "6",
+        "bookmarks": "85",
+        "views": "11500"
+    },
+    {
+        "url": "https://habr.com/ru/companies/aenix/articles/795791/",
+        "title": "DIY: Ваше собственное облако на базе Kubernetes (часть 1)",
+        "author": "kvaps",
+        "date": "2024-02-23",
+        "time": "12:32",
+        "votes": "+39",
+        "comments": "10",
+        "bookmarks": "186",
+        "views": "22540"
+    },
+    {
+        "url": "https://habr.com/ru/companies/aenix/articles/769622/",
+        "title": "Restic: эффективное резервное копирование из Stdin",
+        "author": "kvaps",
+        "date": "2023-10-24",
+        "time": "13:20",
+        "votes": "+10",
+        "comments": "4",
+        "bookmarks": "51",
+        "views": "13216"
+    },
+    {
+        "url": "https://habr.com/ru/companies/oleg-bunin/articles/558900/",
+        "title": "Kubernetes-in-Kubernetes и ферма серверов с загрузкой по PXE",
+        "author": "kvaps",
+        "date": "2021-05-25",
+        "time": "06:53",
+        "votes": "+17",
+        "comments": "3",
+        "bookmarks": "67",
+        "views": "10649"
+    },
+    {
+        "url": "https://habr.com/ru/companies/aenix/articles/544390/",
+        "title": "Ломаем и чиним etcd-кластер",
+        "author": "kvaps",
+        "date": "2021-03-01",
+        "time": "17:05",
+        "votes": "+11",
+        "comments": "6",
+        "bookmarks": "101",
+        "views": "63460"
+    },
+    {
+        "url": "https://habr.com/ru/companies/aenix/articles/541118/",
+        "title": "Ломаем и чиним Kubernetes",
+        "author": "kvaps",
+        "date": "2021-02-05",
+        "time": "15:44",
+        "votes": "+25",
+        "comments": "20",
+        "bookmarks": "208",
+        "views": "29681"
+    },
+    {
+        "url": "https://habr.com/ru/companies/aenix/articles/504152/",
+        "title": "Бэкап-хранилище для тысяч виртуальных машин свободными инструментами",
+        "author": "kvaps",
+        "date": "2020-05-27",
+        "time": "21:39",
+        "votes": "+14",
+        "comments": "20",
+        "bookmarks": "84",
+        "views": "19309"
+    },
+    {
+        "url": "https://habr.com/ru/companies/aenix/articles/501842/",
+        "title": "Тонкая настройка маршрутизации для MetalLB в режиме L2",
+        "author": "kvaps",
+        "date": "2020-05-13",
+        "time": "23:29",
+        "votes": "+6",
+        "comments": "45",
+        "bookmarks": "42",
+        "views": "11616"
+    },
+    {
+        "url": "https://habr.com/ru/companies/aenix/articles/493406/",
+        "title": "Как работает дисковая подсистема в OpenNebula",
+        "author": "kvaps",
+        "date": "2020-03-21",
+        "time": "15:07",
+        "votes": "+7",
+        "comments": "0",
+        "bookmarks": "40",
+        "views": "12641"
+    }
+]

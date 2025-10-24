@@ -1,0 +1,112 @@
+[
+    {
+        "url": "https://habr.com/ru/companies/etpgpb_vesna/articles/952856/",
+        "title": "Неужели нам правда нужно знать, как всё работает под капотом?",
+        "author": "basharinIv",
+        "date": "2025-10-03",
+        "time": "09:00",
+        "votes": "+5",
+        "comments": "13",
+        "bookmarks": "23",
+        "views": "3019"
+    },
+    {
+        "url": "https://habr.com/ru/companies/etpgpb_vesna/articles/949364/",
+        "title": "К чему нас приведет ИИ: закат цивилизации или новый рассвет",
+        "author": "basharinIv",
+        "date": "2025-09-23",
+        "time": "08:51",
+        "votes": "+10",
+        "comments": "15",
+        "bookmarks": "10",
+        "views": "1887"
+    },
+    {
+        "url": "https://habr.com/ru/companies/etpgpb_vesna/articles/946000/",
+        "title": "Мониторинг и анализ производительности бэкенда с помощью ClickHouse и Grafana. Часть 3",
+        "author": "chronoexp",
+        "date": "2025-09-11",
+        "time": "10:26",
+        "votes": "+8",
+        "comments": "0",
+        "bookmarks": "31",
+        "views": "2190"
+    },
+    {
+        "url": "https://habr.com/ru/companies/etpgpb_vesna/articles/944148/",
+        "title": "Мониторинг и анализ производительности бэкенда с помощью ClickHouse и Grafana. Часть 2",
+        "author": "chronoexp",
+        "date": "2025-09-05",
+        "time": "10:25",
+        "votes": "+18",
+        "comments": "2",
+        "bookmarks": "54",
+        "views": "4462"
+    },
+    {
+        "url": "https://habr.com/ru/companies/etpgpb_vesna/articles/939742/",
+        "title": "Мониторинг и анализ производительности бэкенда с помощью ClickHouse и Grafana. Часть 1",
+        "author": "chronoexp",
+        "date": "2025-08-22",
+        "time": "10:35",
+        "votes": "+11",
+        "comments": "4",
+        "bookmarks": "31",
+        "views": "2234"
+    },
+    {
+        "url": "https://habr.com/ru/companies/etpgpb_vesna/articles/919594/",
+        "title": "ЭТП ГПБ и VESNA: цифровая трансформация закупок и ИТ-решений",
+        "author": "etpgpb",
+        "date": "2025-06-19",
+        "time": "11:08",
+        "votes": "+1",
+        "comments": "0",
+        "bookmarks": "3",
+        "views": "694"
+    },
+    {
+        "url": "https://habr.com/ru/companies/etpgpb_vesna/articles/908600/",
+        "title": "Как мы создавали ИТ-школу с нуля: ошибки, инсайты и уроки, которые мы извлекли (часть 1)",
+        "author": "Kainir",
+        "date": "2025-05-12",
+        "time": "11:13",
+        "votes": "+3",
+        "comments": "6",
+        "bookmarks": "4",
+        "views": "962"
+    },
+    {
+        "url": "https://habr.com/ru/companies/etpgpb_vesna/articles/885642/",
+        "title": "Связность и связанность в современных системах",
+        "author": "basharinIv",
+        "date": "2025-02-25",
+        "time": "14:01",
+        "votes": "+2",
+        "comments": "2",
+        "bookmarks": "10",
+        "views": "2161"
+    },
+    {
+        "url": "https://habr.com/ru/companies/etpgpb_vesna/articles/864170/",
+        "title": "Процессы против ошибок",
+        "author": "basharinIv",
+        "date": "2024-12-05",
+        "time": "12:37",
+        "votes": "+5",
+        "comments": "1",
+        "bookmarks": "23",
+        "views": "1532"
+    },
+    {
+        "url": "https://habr.com/ru/companies/etpgpb_vesna/articles/860342/",
+        "title": "Единая Ментальная Модель разработчика: новые старые концепции процесса выпаса команды котов",
+        "author": "m-epishchev",
+        "date": "2024-11-21",
+        "time": "13:57",
+        "votes": "+12",
+        "comments": "2",
+        "bookmarks": "25",
+        "views": "1715"
+    }
+]

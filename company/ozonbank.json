@@ -1,0 +1,222 @@
+[
+    {
+        "url": "https://habr.com/ru/companies/ozonbank/articles/956834/",
+        "title": "DIY Observability для автотестов, используя Pytest, ClickHouse и Grafana",
+        "author": "andrey_nn",
+        "date": "2025-10-15",
+        "time": "13:18",
+        "votes": "+4",
+        "comments": "2",
+        "bookmarks": "17",
+        "views": "1329"
+    },
+    {
+        "url": "https://habr.com/ru/companies/ozonbank/articles/944882/",
+        "title": "Распределённая батчевая обработка данных: как мы решали проблему гонок в продакшене",
+        "author": "Jimiliani2",
+        "date": "2025-09-16",
+        "time": "11:56",
+        "votes": "+3",
+        "comments": "4",
+        "bookmarks": "17",
+        "views": "1518"
+    },
+    {
+        "url": "https://habr.com/ru/companies/ozonbank/articles/942742/",
+        "title": "Как мы серфим на финансовых волнах: кейс HR-мерча и стендов Ozon Банка на IT-конференциях 2025 года",
+        "author": "Shura_ivl",
+        "date": "2025-09-01",
+        "time": "10:55",
+        "votes": "+2",
+        "comments": "0",
+        "bookmarks": "2",
+        "views": "636"
+    },
+    {
+        "url": "https://habr.com/ru/companies/ozonbank/articles/918370/",
+        "title": "Не только про шрифт и цвет: 10 книг для коммуникационного дизайнера",
+        "author": "ekka3551",
+        "date": "2025-06-16",
+        "time": "11:09",
+        "votes": "+5",
+        "comments": "0",
+        "bookmarks": "15",
+        "views": "1092"
+    },
+    {
+        "url": "https://habr.com/ru/companies/ozonbank/articles/908978/",
+        "title": "Секреты дедлоков в Go",
+        "author": "Jimiliani2",
+        "date": "2025-05-13",
+        "time": "10:16",
+        "votes": "+5",
+        "comments": "2",
+        "bookmarks": "32",
+        "views": "3567"
+    },
+    {
+        "url": "https://habr.com/ru/companies/ozonbank/articles/900736/",
+        "title": "Книги для Team Lead DS: от менеджмента к стратегии",
+        "author": "mark-rtb",
+        "date": "2025-04-15",
+        "time": "07:30",
+        "votes": "+16",
+        "comments": "6",
+        "bookmarks": "68",
+        "views": "3450"
+    },
+    {
+        "url": "https://habr.com/ru/companies/ozonbank/articles/894572/",
+        "title": "От скриптов к сервисам: 10 книг для профессиональной разработки в Data Science",
+        "author": "mark-rtb",
+        "date": "2025-03-26",
+        "time": "11:29",
+        "votes": "+1",
+        "comments": "2",
+        "bookmarks": "92",
+        "views": "6619"
+    },
+    {
+        "url": "https://habr.com/ru/companies/ozonbank/articles/892618/",
+        "title": "Как стать продуктовым аналитиком в Ozon Банке?",
+        "author": "mvosorov",
+        "date": "2025-03-20",
+        "time": "09:00",
+        "votes": "+8",
+        "comments": "11",
+        "bookmarks": "83",
+        "views": "15026"
+    },
+    {
+        "url": "https://habr.com/ru/companies/ozonbank/articles/884310/",
+        "title": "Код устареет, принципы — останутся: подборка книг для мидлов и сеньоров в Data Science",
+        "author": "mark-rtb",
+        "date": "2025-02-20",
+        "time": "11:19",
+        "votes": "+16",
+        "comments": "2",
+        "bookmarks": "118",
+        "views": "7738"
+    },
+    {
+        "url": "https://habr.com/ru/companies/ozonbank/articles/879798/",
+        "title": "От комиксов до нейросетей: 5 книг, которые помогут начинающему Data Scientist'у",
+        "author": "mark-rtb",
+        "date": "2025-02-05",
+        "time": "14:22",
+        "votes": "+23",
+        "comments": "13",
+        "bookmarks": "137",
+        "views": "8830"
+    },
+    {
+        "url": "https://habr.com/ru/companies/ozonbank/articles/877242/",
+        "title": "Как рождаются, живут и умирают горутины",
+        "author": "Jimiliani2",
+        "date": "2025-01-29",
+        "time": "12:26",
+        "votes": "+9",
+        "comments": "1",
+        "bookmarks": "56",
+        "views": "3869"
+    },
+    {
+        "url": "https://habr.com/ru/companies/ozonbank/articles/858968/",
+        "title": "Как составлять анкеты для немодерируемых UX-тестов: пошаговое руководство",
+        "author": "mari_pavlenko",
+        "date": "2024-11-19",
+        "time": "05:00",
+        "votes": "+12",
+        "comments": "2",
+        "bookmarks": "27",
+        "views": "4305"
+    },
+    {
+        "url": "https://habr.com/ru/companies/ozonbank/articles/848064/",
+        "title": "Внешняя видеокарта backend-разработчика, или как заставить лучшего друга перестать тупить и начать помогать (часть 2)",
+        "author": "Nikolay_Pervukhin",
+        "date": "2024-10-07",
+        "time": "13:37",
+        "votes": "+37",
+        "comments": "28",
+        "bookmarks": "53",
+        "views": "12988"
+    },
+    {
+        "url": "https://habr.com/ru/companies/ozonbank/articles/848030/",
+        "title": "Внешняя видеокарта backend-разработчика, или как заставить лучшего друга перестать тупить и начать помогать (часть 1)",
+        "author": "Nikolay_Pervukhin",
+        "date": "2024-10-04",
+        "time": "11:18",
+        "votes": "+23",
+        "comments": "14",
+        "bookmarks": "66",
+        "views": "9924"
+    },
+    {
+        "url": "https://habr.com/ru/companies/ozonbank/articles/840892/",
+        "title": "Давайте работать с proto ошибками правильно :)",
+        "author": "ZergsLaw",
+        "date": "2024-09-04",
+        "time": "14:09",
+        "votes": "+19",
+        "comments": "2",
+        "bookmarks": "55",
+        "views": "9344"
+    },
+    {
+        "url": "https://habr.com/ru/companies/ozonbank/articles/838990/",
+        "title": "Obsidian — Notion свободного человека",
+        "author": "mikevetkin",
+        "date": "2024-08-27",
+        "time": "14:23",
+        "votes": "+126",
+        "comments": "266",
+        "bookmarks": "800",
+        "views": "125077"
+    },
+    {
+        "url": "https://habr.com/ru/companies/ozonbank/articles/832502/",
+        "title": "Как мы построили две версии CJM и синхронизировали всю команду Ozon Банка с продуктом",
+        "author": "vlotriton",
+        "date": "2024-07-30",
+        "time": "11:24",
+        "votes": "+15",
+        "comments": "2",
+        "bookmarks": "30",
+        "views": "5796"
+    },
+    {
+        "url": "https://habr.com/ru/companies/ozonbank/articles/817381/",
+        "title": "Откажитесь уже наконец от gin, echo и <иной ваш фреймворк>",
+        "author": "ZergsLaw",
+        "date": "2024-06-03",
+        "time": "15:00",
+        "votes": "+12",
+        "comments": "9",
+        "bookmarks": "72",
+        "views": "14452"
+    },
+    {
+        "url": "https://habr.com/ru/companies/oleg-bunin/articles/816631/",
+        "title": "Protobuf и buf: блеск, нищета и импортозамещение",
+        "author": "ZergsLaw",
+        "date": "2024-05-24",
+        "time": "15:00",
+        "votes": "+17",
+        "comments": "11",
+        "bookmarks": "66",
+        "views": "13099"
+    },
+    {
+        "url": "https://habr.com/ru/companies/ozonbank/articles/805011/",
+        "title": "Мониторинг Apache Airflow. Оценка «прожорливости» тасок",
+        "author": "david_khoperiya",
+        "date": "2024-04-03",
+        "time": "08:59",
+        "votes": "+16",
+        "comments": "10",
+        "bookmarks": "61",
+        "views": "6648"
+    }
+]

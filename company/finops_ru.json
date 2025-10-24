@@ -1,0 +1,200 @@
+[
+    {
+        "url": "https://habr.com/ru/companies/finops_ru/articles/958198/",
+        "title": "Что выгоднее и безопаснее для хранения фото, видео и других данных: облако или собственный NAS",
+        "author": "max_el777",
+        "date": "2025-10-20",
+        "time": "09:10",
+        "votes": "+6",
+        "comments": "70",
+        "bookmarks": "33",
+        "views": "20458"
+    },
+    {
+        "url": "https://habr.com/ru/companies/finops_ru/articles/955818/",
+        "title": "Time-to-Optimize – ключевая метрика для FinOps, которая реально помогает экономить на инфраструктуре. Вот что она дает",
+        "author": "vazhendima",
+        "date": "2025-10-13",
+        "time": "05:12",
+        "votes": "+13",
+        "comments": "0",
+        "bookmarks": "14",
+        "views": "1032"
+    },
+    {
+        "url": "https://habr.com/ru/companies/finops_ru/articles/954778/",
+        "title": "Нужен ли FinOps малому и среднему бизнесу. Честный разбор",
+        "author": "petrovcargoex",
+        "date": "2025-10-09",
+        "time": "05:21",
+        "votes": "+7",
+        "comments": "11",
+        "bookmarks": "15",
+        "views": "2187"
+    },
+    {
+        "url": "https://habr.com/ru/companies/finops_ru/articles/953698/",
+        "title": "Секреты мультиклауд-FinOps: Как не спускать миллионы рублей впустую при использовании нескольких облаков",
+        "author": "max_el777",
+        "date": "2025-10-06",
+        "time": "05:36",
+        "votes": "+8",
+        "comments": "0",
+        "bookmarks": "4",
+        "views": "540"
+    },
+    {
+        "url": "https://habr.com/ru/companies/finops_ru/articles/952624/",
+        "title": "Культура экономии в IT: как вовлечь команды в управление облачными расходами",
+        "author": "petrovcargoex",
+        "date": "2025-10-02",
+        "time": "05:53",
+        "votes": "+7",
+        "comments": "0",
+        "bookmarks": "3",
+        "views": "673"
+    },
+    {
+        "url": "https://habr.com/ru/companies/finops_ru/articles/951548/",
+        "title": "Топ-10 мифов о публичных облаках в корпоративном сегменте",
+        "author": "vazhendima",
+        "date": "2025-09-29",
+        "time": "07:06",
+        "votes": "+3",
+        "comments": "5",
+        "bookmarks": "6",
+        "views": "2208"
+    },
+    {
+        "url": "https://habr.com/ru/companies/finops_ru/articles/950396/",
+        "title": "Управление затратами в облаке: от общего бюджета до детализации по cost-центрам",
+        "author": "vazhendima",
+        "date": "2025-09-25",
+        "time": "06:58",
+        "votes": "+4",
+        "comments": "0",
+        "bookmarks": "1",
+        "views": "354"
+    },
+    {
+        "url": "https://habr.com/ru/companies/finops_ru/articles/949200/",
+        "title": "FinOps против классического финконтроля: почему CFO больше не может игнорировать облачные расходы",
+        "author": "max_el777",
+        "date": "2025-09-22",
+        "time": "05:45",
+        "votes": "+5",
+        "comments": "0",
+        "bookmarks": "1",
+        "views": "516"
+    },
+    {
+        "url": "https://habr.com/ru/companies/finops_ru/articles/948034/",
+        "title": "Облачный плюрализм: почему одни компании мигрируют в облака, а другие строят свои дата-центры",
+        "author": "vazhendima",
+        "date": "2025-09-18",
+        "time": "05:39",
+        "votes": "+5",
+        "comments": "2",
+        "bookmarks": "9",
+        "views": "2876"
+    },
+    {
+        "url": "https://habr.com/ru/companies/finops_ru/articles/946880/",
+        "title": "Как попробовать FinOps бесплатно и понять, что это даёт: изучаем платформу FinOps Radar",
+        "author": "petrovcargoex",
+        "date": "2025-09-15",
+        "time": "06:12",
+        "votes": "+9",
+        "comments": "0",
+        "bookmarks": "5",
+        "views": "664"
+    },
+    {
+        "url": "https://habr.com/ru/companies/finops_ru/articles/945882/",
+        "title": "Почему облачные расходы невозможно предугадать, и к чему это приводит",
+        "author": "max_el777",
+        "date": "2025-09-11",
+        "time": "05:54",
+        "votes": "+10",
+        "comments": "9",
+        "bookmarks": "9",
+        "views": "1831"
+    },
+    {
+        "url": "https://habr.com/ru/companies/finops_ru/articles/944800/",
+        "title": "Как приучить технарей не спускать бюджет на облако. Руководство по созданию культуры ответственного потребления",
+        "author": "max_el777",
+        "date": "2025-09-08",
+        "time": "05:35",
+        "votes": "+13",
+        "comments": "9",
+        "bookmarks": "14",
+        "views": "3037"
+    },
+    {
+        "url": "https://habr.com/ru/companies/finops_ru/articles/942596/",
+        "title": "Топ-10 облачных хранилищ, которые работают в России",
+        "author": "vazhendima",
+        "date": "2025-09-01",
+        "time": "05:31",
+        "votes": "+22",
+        "comments": "61",
+        "bookmarks": "49",
+        "views": "15876"
+    },
+    {
+        "url": "https://habr.com/ru/companies/finops_ru/articles/941440/",
+        "title": "Как оценить ROI от внедрения FinOps: метрики для бизнеса",
+        "author": "petrovcargoex",
+        "date": "2025-08-28",
+        "time": "05:18",
+        "votes": "+6",
+        "comments": "2",
+        "bookmarks": "3",
+        "views": "517"
+    },
+    {
+        "url": "https://habr.com/ru/companies/finops_ru/articles/940378/",
+        "title": "Крупному бизнесу в России запретят иностранные облака с 2027 года: причины, последствия и курс на суверенный FinOps",
+        "author": "petrovcargoex",
+        "date": "2025-08-25",
+        "time": "06:39",
+        "votes": "+13",
+        "comments": "8",
+        "bookmarks": "10",
+        "views": "3341"
+    },
+    {
+        "url": "https://habr.com/ru/companies/finops_ru/articles/939270/",
+        "title": "Когда Вселенная выставляет счёт: Как космическое расширение объясняет ваш cloud bill",
+        "author": "StringFrame",
+        "date": "2025-08-21",
+        "time": "08:08",
+        "votes": "+6",
+        "comments": "0",
+        "bookmarks": "6",
+        "views": "762"
+    },
+    {
+        "url": "https://habr.com/ru/companies/finops_ru/articles/938066/",
+        "title": "Cloud Financial Management: 7 ключевых метрик, которые должен отслеживать каждый технический специалист",
+        "author": "vazhendima",
+        "date": "2025-08-18",
+        "time": "06:37",
+        "votes": "+13",
+        "comments": "2",
+        "bookmarks": "16",
+        "views": "1310"
+    },
+    {
+        "url": "https://habr.com/ru/companies/finops_ru/articles/936768/",
+        "title": "Что такое FinOps, зачем он нужен в 2025 году и с чем его едят",
+        "author": "vazhendima",
+        "date": "2025-08-14",
+        "time": "05:20",
+        "votes": "+23",
+        "comments": "34",
+        "bookmarks": "20",
+        "views": "3387"
+    }
+]

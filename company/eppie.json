@@ -1,0 +1,101 @@
+[
+    {
+        "url": "https://habr.com/ru/companies/eppie/articles/947850/",
+        "title": "Пишем письма с Gmail на Bitcoin",
+        "author": "BaJlepa",
+        "date": "2025-09-25",
+        "time": "06:33",
+        "votes": "+10",
+        "comments": "17",
+        "bookmarks": "14",
+        "views": "2299"
+    },
+    {
+        "url": "https://habr.com/ru/companies/eppie/articles/920060/",
+        "title": "Письмо на публичный ключ: переизобретаем систему адресов в электронной почте",
+        "author": "BaJlepa",
+        "date": "2025-07-02",
+        "time": "07:04",
+        "votes": "+19",
+        "comments": "75",
+        "bookmarks": "20",
+        "views": "2511"
+    },
+    {
+        "url": "https://habr.com/ru/companies/eppie/articles/896586/",
+        "title": "Локальный AI-ассистент в почте: инструкция по применению",
+        "author": "BaJlepa",
+        "date": "2025-04-03",
+        "time": "07:05",
+        "votes": "+3",
+        "comments": "2",
+        "bookmarks": "14",
+        "views": "2336"
+    },
+    {
+        "url": "https://habr.com/ru/companies/eppie/articles/833936/",
+        "title": "Eppie — P2P почта, теперь с графическим интерфейсом",
+        "author": "BaJlepa",
+        "date": "2024-08-05",
+        "time": "13:35",
+        "votes": "+7",
+        "comments": "33",
+        "bookmarks": "36",
+        "views": "6368"
+    },
+    {
+        "url": "https://habr.com/ru/companies/eppie/articles/824480/",
+        "title": "Proton Mail в командной строке: пошаговая инструкция",
+        "author": "BaJlepa",
+        "date": "2024-06-25",
+        "time": "14:24",
+        "votes": "+3",
+        "comments": "4",
+        "bookmarks": "18",
+        "views": "2693"
+    },
+    {
+        "url": "https://habr.com/ru/companies/eppie/articles/815659/",
+        "title": "CLI для Eppie — p2p почта в командной строке",
+        "author": "BaJlepa",
+        "date": "2024-05-23",
+        "time": "07:02",
+        "votes": "+4",
+        "comments": "9",
+        "bookmarks": "5",
+        "views": "1499"
+    },
+    {
+        "url": "https://habr.com/ru/companies/eppie/articles/769884/",
+        "title": "Что общего у приватности и феодализма",
+        "author": "BaJlepa",
+        "date": "2023-10-26",
+        "time": "09:02",
+        "votes": "+7",
+        "comments": "61",
+        "bookmarks": "20",
+        "views": "3494"
+    },
+    {
+        "url": "https://habr.com/ru/companies/eppie/articles/717456/",
+        "title": "Доказательство с нулевым разглашением на примере реализации SRP в ProtonMail",
+        "author": "BaJlepa",
+        "date": "2023-02-22",
+        "time": "06:14",
+        "votes": "+16",
+        "comments": "19",
+        "bookmarks": "47",
+        "views": "4046"
+    },
+    {
+        "url": "https://habr.com/ru/companies/eppie/articles/679196/",
+        "title": "Eppie: чего не хватает новому интернету?",
+        "author": "BaJlepa",
+        "date": "2022-08-27",
+        "time": "07:00",
+        "votes": "+21",
+        "comments": "54",
+        "bookmarks": "21",
+        "views": "4937"
+    }
+]

@@ -1,0 +1,145 @@
+[
+    {
+        "url": "https://habr.com/ru/companies/mipt_digital/articles/925984/",
+        "title": "Что случается с медицинскими данными без стандартов отчетности: кейс менингита и survival-анализа в R",
+        "author": "mipt_digital",
+        "date": "2025-09-17",
+        "time": "09:00",
+        "votes": "+9",
+        "comments": "2",
+        "bookmarks": "0",
+        "views": "429"
+    },
+    {
+        "url": "https://habr.com/ru/companies/mipt_digital/articles/932970/",
+        "title": "Строим корпоративную GenAI-платформу: от концепции до ROI. Часть 5. Внедрение GenAI и измерение эффекта",
+        "author": "mipt_digital",
+        "date": "2025-08-28",
+        "time": "09:00",
+        "votes": "+1",
+        "comments": "2",
+        "bookmarks": "6",
+        "views": "3732"
+    },
+    {
+        "url": "https://habr.com/ru/companies/mipt_digital/articles/932964/",
+        "title": "Строим корпоративную GenAI-платформу: от концепции до ROI. Часть 4. Безопасность и ограничения (guardrails)",
+        "author": "mipt_digital",
+        "date": "2025-08-27",
+        "time": "09:00",
+        "votes": "+2",
+        "comments": "0",
+        "bookmarks": "18",
+        "views": "4876"
+    },
+    {
+        "url": "https://habr.com/ru/companies/mipt_digital/articles/932962/",
+        "title": "Строим корпоративную GenAI-платформу: от концепции до ROI. Часть 3. Retrieval-Augmented Generation (RAG) на службе GenAI",
+        "author": "mipt_digital",
+        "date": "2025-08-25",
+        "time": "09:01",
+        "votes": "+6",
+        "comments": "16",
+        "bookmarks": "27",
+        "views": "6262"
+    },
+    {
+        "url": "https://habr.com/ru/companies/mipt_digital/articles/932954/",
+        "title": "Строим корпоративную GenAI-платформу: от концепции до ROI. Часть 2. Архитектура корпоративной GenAI платформы",
+        "author": "mipt_digital",
+        "date": "2025-08-22",
+        "time": "09:00",
+        "votes": "+6",
+        "comments": "0",
+        "bookmarks": "15",
+        "views": "5198"
+    },
+    {
+        "url": "https://habr.com/ru/companies/mipt_digital/articles/932936/",
+        "title": "Строим корпоративную GenAI-платформу: от концепции до ROI. Часть 1. Зачем генеративному ИИ нужна особая архитектура",
+        "author": "mipt_digital",
+        "date": "2025-08-20",
+        "time": "09:00",
+        "votes": "+6",
+        "comments": "0",
+        "bookmarks": "28",
+        "views": "5687"
+    },
+    {
+        "url": "https://habr.com/ru/companies/mipt_digital/articles/926002/",
+        "title": "Интеллектуальные технологии в биомедицине. Как AI и Data Science решают задачи науки",
+        "author": "mipt_digital",
+        "date": "2025-08-06",
+        "time": "11:00",
+        "votes": "+3",
+        "comments": "0",
+        "bookmarks": "8",
+        "views": "1005"
+    },
+    {
+        "url": "https://habr.com/ru/companies/mipt_digital/articles/921054/",
+        "title": "Matrix Reloaded: зачем дата-сайентисту линейная алгебра",
+        "author": "mipt_digital",
+        "date": "2025-07-16",
+        "time": "09:00",
+        "votes": "+12",
+        "comments": "4",
+        "bookmarks": "56",
+        "views": "4456"
+    },
+    {
+        "url": "https://habr.com/ru/companies/mipt_digital/articles/921762/",
+        "title": "Машинное обучение в решении задач медицинской метагеномики",
+        "author": "mipt_digital",
+        "date": "2025-06-26",
+        "time": "13:26",
+        "votes": "+4",
+        "comments": "0",
+        "bookmarks": "5",
+        "views": "844"
+    },
+    {
+        "url": "https://habr.com/ru/companies/mipt_digital/articles/917084/",
+        "title": "Как запустить студенческий стартап в онлайн-магистратуре МФТИ: рассказываем на примере сервиса ZNATNO",
+        "author": "mipt_digital",
+        "date": "2025-06-18",
+        "time": "13:00",
+        "votes": "+1",
+        "comments": "0",
+        "bookmarks": "4",
+        "views": "1751"
+    },
+    {
+        "url": "https://habr.com/ru/companies/mipt_digital/articles/909328/",
+        "title": "Обнаружение новых небесных объектов с помощью ML: стартап СТРАЖ для астрономов",
+        "author": "mipt_digital",
+        "date": "2025-06-11",
+        "time": "09:00",
+        "votes": "+1",
+        "comments": "1",
+        "bookmarks": "4",
+        "views": "1463"
+    },
+    {
+        "url": "https://habr.com/ru/companies/mipt_digital/articles/914930/",
+        "title": "От задачи до решения: LLM с RAG-конфигурацией и ROC-AUC. Эксперимент на 121 прогоне за 40 часов с помощью ИИ",
+        "author": "mipt_digital",
+        "date": "2025-06-04",
+        "time": "09:00",
+        "votes": "+6",
+        "comments": "2",
+        "bookmarks": "26",
+        "views": "2847"
+    },
+    {
+        "url": "https://habr.com/ru/companies/mipt_digital/articles/913214/",
+        "title": "Языковые модели для бизнеса: сравниваем малые (SLM) и большие (LLM) модели",
+        "author": "mipt_digital",
+        "date": "2025-05-28",
+        "time": "12:37",
+        "votes": "+6",
+        "comments": "4",
+        "bookmarks": "28",
+        "views": "3761"
+    }
+]

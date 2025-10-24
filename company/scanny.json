@@ -1,0 +1,46 @@
+[
+    {
+        "url": "https://habr.com/ru/companies/scanny/articles/925092/",
+        "title": "Настраиваем CI/CD Android-проекта, часть 3. Автоматизация публикации версий в Play Store",
+        "author": "kirlozavr",
+        "date": "2025-07-04",
+        "time": "15:32",
+        "votes": "+6",
+        "comments": "4",
+        "bookmarks": "34",
+        "views": "1896"
+    },
+    {
+        "url": "https://habr.com/ru/companies/scanny/articles/922066/",
+        "title": "Настраиваем CI/CD Android-проекта, часть 2. Запуск Android-тестов",
+        "author": "kirlozavr",
+        "date": "2025-06-26",
+        "time": "09:36",
+        "votes": "+6",
+        "comments": "0",
+        "bookmarks": "29",
+        "views": "1537"
+    },
+    {
+        "url": "https://habr.com/ru/companies/scanny/articles/918364/",
+        "title": "Настраиваем CI/CD Android-проекта, часть 1. Начало",
+        "author": "kirlozavr",
+        "date": "2025-06-14",
+        "time": "15:47",
+        "votes": "+6",
+        "comments": "5",
+        "bookmarks": "67",
+        "views": "4317"
+    },
+    {
+        "url": "https://habr.com/ru/companies/scanny/articles/883398/",
+        "title": "Как мы ускорили работу с базой данных в Android-приложении",
+        "author": "kirlozavr",
+        "date": "2025-03-04",
+        "time": "02:48",
+        "votes": "+9",
+        "comments": "3",
+        "bookmarks": "25",
+        "views": "3189"
+    }
+]

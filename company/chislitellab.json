@@ -1,0 +1,134 @@
+[
+    {
+        "url": "https://habr.com/ru/companies/oleg-bunin/articles/948108/",
+        "title": "От DevOps к платформе: как улучшить взаимодействие команд",
+        "author": "AlpineSlowpoke",
+        "date": "2025-10-06",
+        "time": "09:00",
+        "votes": "+16",
+        "comments": "10",
+        "bookmarks": "32",
+        "views": "3248"
+    },
+    {
+        "url": "https://habr.com/ru/companies/chislitellab/articles/942670/",
+        "title": "Российский аналог Grafana, или «Графиня» де ля Форк: что же там под «платьем»",
+        "author": "ChislitelLab",
+        "date": "2025-09-01",
+        "time": "09:41",
+        "votes": "+26",
+        "comments": "21",
+        "bookmarks": "26",
+        "views": "10535"
+    },
+    {
+        "url": "https://habr.com/ru/companies/chislitellab/articles/937424/",
+        "title": "Kubernetes Community Day: ключевые выступления про кубер",
+        "author": "kuber_community",
+        "date": "2025-08-15",
+        "time": "07:48",
+        "votes": "+14",
+        "comments": "0",
+        "bookmarks": "15",
+        "views": "1979"
+    },
+    {
+        "url": "https://habr.com/ru/companies/chislitellab/articles/934526/",
+        "title": "etcd в Kubernetes: разбираемся с задержками",
+        "author": "ChislitelLab",
+        "date": "2025-08-06",
+        "time": "11:05",
+        "votes": "+13",
+        "comments": "0",
+        "bookmarks": "55",
+        "views": "4045"
+    },
+    {
+        "url": "https://habr.com/ru/companies/chislitellab/articles/925708/",
+        "title": "Мультитенантность в Kubernetes: возможные подходы и инструменты",
+        "author": "ChislitelLab",
+        "date": "2025-07-08",
+        "time": "08:48",
+        "votes": "+11",
+        "comments": "0",
+        "bookmarks": "38",
+        "views": "3885"
+    },
+    {
+        "url": "https://habr.com/ru/companies/chislitellab/articles/913946/",
+        "title": "Как я перестал страдать и полюбил CoreDNS: три истории",
+        "author": "ChislitelLab",
+        "date": "2025-05-29",
+        "time": "12:07",
+        "votes": "+17",
+        "comments": "0",
+        "bookmarks": "45",
+        "views": "4264"
+    },
+    {
+        "url": "https://habr.com/ru/companies/chislitellab/articles/896214/",
+        "title": "Kubernetes для всех: поймет даже гуманитарий",
+        "author": "ChislitelLab",
+        "date": "2025-04-07",
+        "time": "13:37",
+        "votes": "+21",
+        "comments": "10",
+        "bookmarks": "286",
+        "views": "40830"
+    },
+    {
+        "url": "https://habr.com/ru/companies/chislitellab/articles/885982/",
+        "title": "«Ванильный» Kubernetes больше не нужен? Нужен только «Штурвал»?",
+        "author": "ChislitelLab",
+        "date": "2025-02-26",
+        "time": "13:56",
+        "votes": "+26",
+        "comments": "30",
+        "bookmarks": "63",
+        "views": "17743"
+    },
+    {
+        "url": "https://habr.com/ru/companies/chislitellab/articles/863224/",
+        "title": "Просто о сложном: зачем нужны Kube-Audit логи и как с ними подружиться",
+        "author": "ChislitelLab",
+        "date": "2024-12-05",
+        "time": "08:59",
+        "votes": "+13",
+        "comments": "0",
+        "bookmarks": "19",
+        "views": "2045"
+    },
+    {
+        "url": "https://habr.com/ru/companies/chislitellab/articles/854964/",
+        "title": "Обходим ограничение доступа Github к базе уязвимостей Trivy. Быстрый фикс вам в помощь",
+        "author": "ChislitelLab",
+        "date": "2024-10-31",
+        "time": "13:05",
+        "votes": "+21",
+        "comments": "4",
+        "bookmarks": "13",
+        "views": "1967"
+    },
+    {
+        "url": "https://habr.com/ru/companies/chislitellab/articles/819027/",
+        "title": "Разбираемся, как настроить алертинг из OpenSearch по email",
+        "author": "ChislitelLab",
+        "date": "2024-06-03",
+        "time": "09:28",
+        "votes": "+4",
+        "comments": "2",
+        "bookmarks": "6",
+        "views": "2443"
+    },
+    {
+        "url": "https://habr.com/ru/companies/oleg-bunin/articles/753256/",
+        "title": "Декларативное управление конфигурацией узлов Kubernetes в масштабе",
+        "author": "ChislitelLab",
+        "date": "2023-08-08",
+        "time": "09:57",
+        "votes": "+10",
+        "comments": "0",
+        "bookmarks": "25",
+        "views": "3309"
+    }
+]

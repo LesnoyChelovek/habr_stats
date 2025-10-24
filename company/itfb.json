@@ -1,0 +1,211 @@
+[
+    {
+        "url": "https://habr.com/ru/companies/itfb/articles/951806/",
+        "title": "Прощай, рутина: как наша команда QA в 3 раза ускорила работу с помощью собственного ИИ-агента",
+        "author": "ITFB_Group",
+        "date": "2025-09-29",
+        "time": "15:45",
+        "votes": "+2",
+        "comments": "9",
+        "bookmarks": "35",
+        "views": "9603"
+    },
+    {
+        "url": "https://habr.com/ru/companies/itfb/articles/943482/",
+        "title": "Когда дело не в коде: как мы ловили мистические пропажи запросов на сетевом уровне",
+        "author": "ITFB_Group",
+        "date": "2025-09-03",
+        "time": "09:48",
+        "votes": "+15",
+        "comments": "6",
+        "bookmarks": "20",
+        "views": "2079"
+    },
+    {
+        "url": "https://habr.com/ru/companies/itfb/articles/915506/",
+        "title": "AI-ассистенты для кодинга в 2025: сравниваем GigaChat, Claude, GPT-4o и DeepSeek на реальных задачах",
+        "author": "ITFB_Group",
+        "date": "2025-06-04",
+        "time": "09:13",
+        "votes": "+6",
+        "comments": "11",
+        "bookmarks": "41",
+        "views": "9860"
+    },
+    {
+        "url": "https://habr.com/ru/companies/itfb/articles/911760/",
+        "title": "Тестирование без инцидентов в проде. Утопия или реальность?",
+        "author": "ITFB_Group",
+        "date": "2025-05-22",
+        "time": "09:19",
+        "votes": "0",
+        "comments": "2",
+        "bookmarks": "14",
+        "views": "1228"
+    },
+    {
+        "url": "https://habr.com/ru/companies/itfb/articles/901660/",
+        "title": "Оптимизация UI-тестов с помощью API. Как избавиться от боли и ускорить автотесты в разы",
+        "author": "ITFB_Group",
+        "date": "2025-04-17",
+        "time": "07:57",
+        "votes": "0",
+        "comments": "1",
+        "bookmarks": "7",
+        "views": "1205"
+    },
+    {
+        "url": "https://habr.com/ru/companies/itfb/articles/875356/",
+        "title": "Как писать баг-репорты, которые помогут всей команде",
+        "author": "ITFB_Group",
+        "date": "2025-01-21",
+        "time": "13:08",
+        "votes": "+7",
+        "comments": "2",
+        "bookmarks": "30",
+        "views": "5321"
+    },
+    {
+        "url": "https://habr.com/ru/companies/itfb/articles/858794/",
+        "title": "Распределённое обучение нейронных сетей. Часть I",
+        "author": "ITFB_Group",
+        "date": "2024-11-20",
+        "time": "10:43",
+        "votes": "+3",
+        "comments": "2",
+        "bookmarks": "26",
+        "views": "2112"
+    },
+    {
+        "url": "https://habr.com/ru/companies/itfb/articles/853086/",
+        "title": "Типичные ошибки при создании Frontend приложений",
+        "author": "ITFB_Group",
+        "date": "2024-10-24",
+        "time": "10:00",
+        "votes": "0",
+        "comments": "0",
+        "bookmarks": "24",
+        "views": "2496"
+    },
+    {
+        "url": "https://habr.com/ru/companies/itfb/articles/844380/",
+        "title": "Методы предпроцессинга в IDP-системе ITFB EasyDoc",
+        "author": "ITFB_Group",
+        "date": "2024-09-19",
+        "time": "13:31",
+        "votes": "+12",
+        "comments": "0",
+        "bookmarks": "8",
+        "views": "948"
+    },
+    {
+        "url": "https://habr.com/ru/companies/itfb/articles/825406/",
+        "title": "Как расширить JPA для работы с PostgreSQL",
+        "author": "ITFB_Group",
+        "date": "2024-06-28",
+        "time": "15:03",
+        "votes": "+7",
+        "comments": "8",
+        "bookmarks": "68",
+        "views": "6728"
+    },
+    {
+        "url": "https://habr.com/ru/companies/itfb/articles/819779/",
+        "title": "Как лиду тестирования войти в проект",
+        "author": "ITFB_Group",
+        "date": "2024-06-07",
+        "time": "09:40",
+        "votes": "+6",
+        "comments": "5",
+        "bookmarks": "18",
+        "views": "4047"
+    },
+    {
+        "url": "https://habr.com/ru/companies/itfb/articles/817727/",
+        "title": "Развитие сотрудников в IT-компании",
+        "author": "ITFB_Group",
+        "date": "2024-05-29",
+        "time": "10:03",
+        "votes": "0",
+        "comments": "5",
+        "bookmarks": "24",
+        "views": "4387"
+    },
+    {
+        "url": "https://habr.com/ru/companies/itfb/articles/812157/",
+        "title": "Переезд с Jira",
+        "author": "ITFB_Group",
+        "date": "2024-05-06",
+        "time": "10:30",
+        "votes": "+7",
+        "comments": "3",
+        "bookmarks": "21",
+        "views": "9584"
+    },
+    {
+        "url": "https://habr.com/ru/companies/itfb/articles/802975/",
+        "title": "История об одном экзамене",
+        "author": "ITFB_Group",
+        "date": "2024-03-26",
+        "time": "12:25",
+        "votes": "+12",
+        "comments": "2",
+        "bookmarks": "17",
+        "views": "2893"
+    },
+    {
+        "url": "https://habr.com/ru/companies/itfb/articles/797429/",
+        "title": "Микрофронтенд с использованием Module Federation. Соединяем компоненты между системами на разных фреймворках",
+        "author": "ITFB_Group",
+        "date": "2024-03-01",
+        "time": "11:09",
+        "votes": "+7",
+        "comments": "2",
+        "bookmarks": "48",
+        "views": "8622"
+    },
+    {
+        "url": "https://habr.com/ru/companies/itfb/articles/793408/",
+        "title": "BPMN — белый световой меч аналитика",
+        "author": "ITFB_Group",
+        "date": "2024-02-13",
+        "time": "12:22",
+        "votes": "+8",
+        "comments": "13",
+        "bookmarks": "60",
+        "views": "11270"
+    },
+    {
+        "url": "https://habr.com/ru/companies/itfb/articles/790932/",
+        "title": "Несколько советов начинающим инженерам и не только",
+        "author": "ITFB_Group",
+        "date": "2024-02-02",
+        "time": "12:45",
+        "votes": "+33",
+        "comments": "8",
+        "bookmarks": "122",
+        "views": "15865"
+    },
+    {
+        "url": "https://habr.com/ru/companies/itfb/articles/769840/",
+        "title": "Как мы переложили на ChatGPT рутину в тестировании",
+        "author": "ITFB_Group",
+        "date": "2023-11-09",
+        "time": "07:37",
+        "votes": "+11",
+        "comments": "10",
+        "bookmarks": "99",
+        "views": "22810"
+    },
+    {
+        "url": "https://habr.com/ru/companies/itfb/articles/763272/",
+        "title": "Как я перешёл из ручного тестирования в автоматизированное",
+        "author": "ITFB_Group",
+        "date": "2023-09-25",
+        "time": "11:00",
+        "votes": "+12",
+        "comments": "4",
+        "bookmarks": "47",
+        "views": "11227"
+    }
+]

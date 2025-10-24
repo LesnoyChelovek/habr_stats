@@ -1,0 +1,156 @@
+[
+    {
+        "url": "https://habr.com/ru/companies/it_sense/articles/954646/",
+        "title": "Пятница — новый выходной? Как страны тестируют четырёхдневку",
+        "author": "NeonNova",
+        "date": "2025-10-08",
+        "time": "13:59",
+        "votes": "+6",
+        "comments": "68",
+        "bookmarks": "11",
+        "views": "4871"
+    },
+    {
+        "url": "https://habr.com/ru/companies/it_sense/articles/951552/",
+        "title": "псИИхоз: когда чат-боты доводят людей до грани",
+        "author": "NeonNova",
+        "date": "2025-09-29",
+        "time": "11:17",
+        "votes": "+5",
+        "comments": "19",
+        "bookmarks": "9",
+        "views": "1602"
+    },
+    {
+        "url": "https://habr.com/ru/companies/it_sense/articles/948182/",
+        "title": "34 минуты до взлома: почему миру всегда будут нужны ИБ специалисты",
+        "author": "NMotyazhov571",
+        "date": "2025-09-18",
+        "time": "09:56",
+        "votes": "+7",
+        "comments": "14",
+        "bookmarks": "30",
+        "views": "5142"
+    },
+    {
+        "url": "https://habr.com/ru/companies/it_sense/articles/938600/",
+        "title": "Гайд по использованию Spring GraphQL. Часть 3",
+        "author": "Richterdg92",
+        "date": "2025-08-19",
+        "time": "11:01",
+        "votes": "+3",
+        "comments": "0",
+        "bookmarks": "20",
+        "views": "1470"
+    },
+    {
+        "url": "https://habr.com/ru/companies/it_sense/articles/937128/",
+        "title": "Гайд по использованию Spring GraphQL. Часть 2",
+        "author": "Richterdg92",
+        "date": "2025-08-14",
+        "time": "10:00",
+        "votes": "+5",
+        "comments": "0",
+        "bookmarks": "23",
+        "views": "1855"
+    },
+    {
+        "url": "https://habr.com/ru/companies/it_sense/articles/935378/",
+        "title": "Поймай меня, если сможешь: как вычислить ИТ-волка, пока он не развалил вам прод",
+        "author": "fedulovAlex",
+        "date": "2025-08-08",
+        "time": "12:09",
+        "votes": "+8",
+        "comments": "75",
+        "bookmarks": "13",
+        "views": "5534"
+    },
+    {
+        "url": "https://habr.com/ru/companies/it_sense/articles/932054/",
+        "title": "Гайд по использованию Spring GraphQL. Часть 1",
+        "author": "Richterdg92",
+        "date": "2025-07-29",
+        "time": "11:22",
+        "votes": "+5",
+        "comments": "2",
+        "bookmarks": "33",
+        "views": "2990"
+    },
+    {
+        "url": "https://habr.com/ru/companies/it_sense/articles/929500/",
+        "title": "Джун за неделю или как инфоцыгане ломают найм в IT HR",
+        "author": "NeonNova",
+        "date": "2025-07-21",
+        "time": "09:15",
+        "votes": "+52",
+        "comments": "153",
+        "bookmarks": "67",
+        "views": "46885"
+    },
+    {
+        "url": "https://habr.com/ru/companies/it_sense/articles/928594/",
+        "title": "Как мы за 60 секунд избавились от шаблонов и упростили управление инфраструктурой с CUE",
+        "author": "1am43x",
+        "date": "2025-07-17",
+        "time": "09:36",
+        "votes": "0",
+        "comments": "3",
+        "bookmarks": "3",
+        "views": "1056"
+    },
+    {
+        "url": "https://habr.com/ru/companies/it_sense/articles/926602/",
+        "title": "Как заставить вашу базу данных летать, а не ползать. Часть 3 – ещё три способа шардирования",
+        "author": "Kmamish",
+        "date": "2025-07-11",
+        "time": "09:14",
+        "votes": "+8",
+        "comments": "6",
+        "bookmarks": "123",
+        "views": "10246"
+    },
+    {
+        "url": "https://habr.com/ru/companies/it_sense/articles/920344/",
+        "title": "Как заставить вашу базу данных летать, а не ползать. Часть 2 – когда репликации недостаточно и пора использовать шардинг",
+        "author": "Kmamish",
+        "date": "2025-06-23",
+        "time": "15:23",
+        "votes": "+7",
+        "comments": "3",
+        "bookmarks": "100",
+        "views": "7593"
+    },
+    {
+        "url": "https://habr.com/ru/companies/it_sense/articles/916176/",
+        "title": "«Разработчик – легенда»: анатомия волчистости в IT",
+        "author": "DevSokol",
+        "date": "2025-06-06",
+        "time": "08:31",
+        "votes": "+28",
+        "comments": "143",
+        "bookmarks": "50",
+        "views": "26238"
+    },
+    {
+        "url": "https://habr.com/ru/companies/it_sense/articles/879048/",
+        "title": "FEDOT, да не тот",
+        "author": "Ermak_Marina",
+        "date": "2025-06-04",
+        "time": "08:00",
+        "votes": "+1",
+        "comments": "2",
+        "bookmarks": "9",
+        "views": "1297"
+    },
+    {
+        "url": "https://habr.com/ru/companies/it_sense/articles/910632/",
+        "title": "Как заставить вашу базу данных летать, а не ползать. Часть 1 масштабирование и репликация",
+        "author": "Kmamish",
+        "date": "2025-05-19",
+        "time": "13:27",
+        "votes": "+11",
+        "comments": "20",
+        "bookmarks": "167",
+        "views": "14038"
+    }
+]

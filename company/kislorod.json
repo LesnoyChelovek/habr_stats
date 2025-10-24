@@ -1,0 +1,178 @@
+[
+    {
+        "url": "https://habr.com/ru/companies/kislorod/articles/955434/",
+        "title": "Как скрестить ужа с ежом: соединить Laravel и Битрикс в одном проде и не умереть (часть 1)",
+        "author": "AliceInCodeLand",
+        "date": "2025-10-13",
+        "time": "08:38",
+        "votes": "+10",
+        "comments": "8",
+        "bookmarks": "20",
+        "views": "2534"
+    },
+    {
+        "url": "https://habr.com/ru/companies/kislorod/articles/945570/",
+        "title": "Post-PHP эра: куда движется веб-разработка?",
+        "author": "AliceInCodeLand",
+        "date": "2025-09-10",
+        "time": "08:11",
+        "votes": "+71",
+        "comments": "90",
+        "bookmarks": "72",
+        "views": "20827"
+    },
+    {
+        "url": "https://habr.com/ru/companies/kislorod/articles/941952/",
+        "title": "Bitrix, Magento и Ensi: как выбрать платформу для eCom, чтобы не пожалеть через год",
+        "author": "Skriptor",
+        "date": "2025-09-01",
+        "time": "07:34",
+        "votes": "+7",
+        "comments": "11",
+        "bookmarks": "12",
+        "views": "1416"
+    },
+    {
+        "url": "https://habr.com/ru/companies/kislorod/articles/938758/",
+        "title": "Больше никакой ручной сортировки: как мы настроили автоимпорт резюме из hh.ru в Битрикс24",
+        "author": "DevBitrix",
+        "date": "2025-08-25",
+        "time": "10:15",
+        "votes": "+4",
+        "comments": "3",
+        "bookmarks": "18",
+        "views": "2503"
+    },
+    {
+        "url": "https://habr.com/ru/companies/kislorod/articles/935914/",
+        "title": "Глаза Битрикса боятся, а руки делают — как кастомизировать сделки с нуля",
+        "author": "SergioLead",
+        "date": "2025-08-12",
+        "time": "08:17",
+        "votes": "+7",
+        "comments": "1",
+        "bookmarks": "15",
+        "views": "1720"
+    },
+    {
+        "url": "https://habr.com/ru/companies/kislorod/articles/924184/",
+        "title": "Как мы собираем NPS обратную связь на трех уровнях менеджмента — и что делаем с фидбэком",
+        "author": "KateAM",
+        "date": "2025-07-02",
+        "time": "08:27",
+        "votes": "+10",
+        "comments": "0",
+        "bookmarks": "16",
+        "views": "1203"
+    },
+    {
+        "url": "https://habr.com/ru/companies/kislorod/articles/920224/",
+        "title": "Headless и API-First: как ускорить e-commerce и не утонуть в монолите",
+        "author": "AliceInCodeLand",
+        "date": "2025-06-24",
+        "time": "08:13",
+        "votes": "+8",
+        "comments": "4",
+        "bookmarks": "25",
+        "views": "2093"
+    },
+    {
+        "url": "https://habr.com/ru/companies/kislorod/articles/912208/",
+        "title": "Как не слить бюджет в CPA-сетях? Интеграция с ADMITAD через Postback — формируем отчет для сверки",
+        "author": "Skriptor",
+        "date": "2025-05-26",
+        "time": "07:49",
+        "votes": "+8",
+        "comments": "2",
+        "bookmarks": "9",
+        "views": "599"
+    },
+    {
+        "url": "https://habr.com/ru/companies/kislorod/articles/904166/",
+        "title": "Не так страшен Битрикс24, как о нем говорят: практический опыт модульной доработки для бизнеса",
+        "author": "SergioLead",
+        "date": "2025-04-28",
+        "time": "09:00",
+        "votes": "+7",
+        "comments": "3",
+        "bookmarks": "8",
+        "views": "1264"
+    },
+    {
+        "url": "https://habr.com/ru/companies/kislorod/articles/900970/",
+        "title": "Вкалывают роботы, а не человек: как мы разработали ТГ-бота, который в 4 раза ускорил проведение маркетинговых акций",
+        "author": "AliceInCodeLand",
+        "date": "2025-04-17",
+        "time": "09:18",
+        "votes": "+8",
+        "comments": "1",
+        "bookmarks": "10",
+        "views": "2059"
+    },
+    {
+        "url": "https://habr.com/ru/companies/kislorod/articles/879992/",
+        "title": "Как использовать собственный опыт и успешные наработки для ускорения разработки",
+        "author": "DevBitrix",
+        "date": "2025-02-06",
+        "time": "09:27",
+        "votes": "0",
+        "comments": "6",
+        "bookmarks": "16",
+        "views": "1311"
+    },
+    {
+        "url": "https://habr.com/ru/companies/kislorod/articles/846576/",
+        "title": "Так ли плох Битрикс на самом деле? Разбираем возможные причины технических проблем и низкой скорости интернет-магазина",
+        "author": "DevBitrix",
+        "date": "2024-09-27",
+        "time": "13:35",
+        "votes": "-6",
+        "comments": "14",
+        "bookmarks": "10",
+        "views": "5457"
+    },
+    {
+        "url": "https://habr.com/ru/companies/kislorod/articles/844724/",
+        "title": "Разработка архитектуры хранения данных для сайта на «Битрикс»",
+        "author": "DevBitrix",
+        "date": "2024-09-19",
+        "time": "20:57",
+        "votes": "+13",
+        "comments": "6",
+        "bookmarks": "16",
+        "views": "2595"
+    },
+    {
+        "url": "https://habr.com/ru/companies/kislorod/articles/834824/",
+        "title": "5 способов избежать сбоев в работе интернет-магазина и перестать считать упущенную прибыль",
+        "author": "max_zhukov",
+        "date": "2024-08-13",
+        "time": "14:06",
+        "votes": "+2",
+        "comments": "0",
+        "bookmarks": "9",
+        "views": "1009"
+    },
+    {
+        "url": "https://habr.com/ru/companies/kislorod/articles/828434/",
+        "title": "Создание интернет-магазина на компонентах: новый подход для быстрого выхода на рынок екома",
+        "author": "max_zhukov",
+        "date": "2024-07-15",
+        "time": "14:58",
+        "votes": "+1",
+        "comments": "16",
+        "bookmarks": "15",
+        "views": "3414"
+    },
+    {
+        "url": "https://habr.com/ru/companies/kislorod/articles/761470/",
+        "title": "Как оцифровать и автоматизировать разработку, чтобы увеличить пропускную способность и ресурсоемкость производства",
+        "author": "max_zhukov",
+        "date": "2023-09-16",
+        "time": "10:35",
+        "votes": "+6",
+        "comments": "0",
+        "bookmarks": "23",
+        "views": "2623"
+    }
+]

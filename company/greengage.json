@@ -1,0 +1,35 @@
+[
+    {
+        "url": "https://habr.com/ru/companies/greengage/articles/929684/",
+        "title": "Оценка подхода lock-free списков",
+        "author": "reskin",
+        "date": "2025-07-29",
+        "time": "13:45",
+        "votes": "+22",
+        "comments": "12",
+        "bookmarks": "17",
+        "views": "2373"
+    },
+    {
+        "url": "https://habr.com/ru/companies/greengage/articles/920584/",
+        "title": "Удаление брошенных файлов в Greengage DB",
+        "author": "a_savitskiy",
+        "date": "2025-06-23",
+        "time": "15:55",
+        "votes": "+9",
+        "comments": "0",
+        "bookmarks": "9",
+        "views": "920"
+    },
+    {
+        "url": "https://habr.com/ru/companies/greengage/articles/913292/",
+        "title": "Резервирование кластера Greengage DB (на базе Greenplum OSS)",
+        "author": "dimoffon",
+        "date": "2025-05-28",
+        "time": "10:28",
+        "votes": "+18",
+        "comments": "0",
+        "bookmarks": "10",
+        "views": "1451"
+    }
+]

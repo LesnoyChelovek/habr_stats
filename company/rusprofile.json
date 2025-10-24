@@ -1,0 +1,57 @@
+[
+    {
+        "url": "https://habr.com/ru/companies/rusprofile/articles/958786/",
+        "title": "Сколько можно терпеть ошибки автозаполнения в браузере",
+        "author": "GraY_i3",
+        "date": "2025-10-22",
+        "time": "07:00",
+        "votes": "+5",
+        "comments": "2",
+        "bookmarks": "7",
+        "views": "500"
+    },
+    {
+        "url": "https://habr.com/ru/companies/rusprofile/articles/950428/",
+        "title": "Bash-скрипт на максималках: как работает менеджер задач для управления 300 скриптами",
+        "author": "R01T",
+        "date": "2025-09-25",
+        "time": "08:16",
+        "votes": "+9",
+        "comments": "16",
+        "bookmarks": "39",
+        "views": "5653"
+    },
+    {
+        "url": "https://habr.com/ru/companies/rusprofile/articles/943444/",
+        "title": "Обработка исключений на JS – неудобная, но не безнадежная",
+        "author": "VvorobeiS",
+        "date": "2025-09-04",
+        "time": "10:00",
+        "votes": "+12",
+        "comments": "3",
+        "bookmarks": "45",
+        "views": "4572"
+    },
+    {
+        "url": "https://habr.com/ru/companies/rusprofile/articles/649257/",
+        "title": "Статический анализ и уже выросший проект: внедрять нельзя откладывать",
+        "author": "m03r",
+        "date": "2022-02-03",
+        "time": "13:30",
+        "votes": "+32",
+        "comments": "9",
+        "bookmarks": "40",
+        "views": "7502"
+    },
+    {
+        "url": "https://habr.com/ru/companies/rusprofile/articles/585516/",
+        "title": "Открытые данные: всё, что может пойти не так, идёт не так",
+        "author": "m03r",
+        "date": "2021-10-27",
+        "time": "05:55",
+        "votes": "+21",
+        "comments": "22",
+        "bookmarks": "29",
+        "views": "9210"
+    }
+]

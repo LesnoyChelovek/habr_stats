@@ -1,0 +1,200 @@
+[
+    {
+        "url": "https://habr.com/ru/companies/idx/articles/954114/",
+        "title": "Революция доверия: как Self-Sovereign Identity меняет правила игры. Разбираемся. Часть 2",
+        "author": "DedaVova",
+        "date": "2025-10-07",
+        "time": "14:58",
+        "votes": "+2",
+        "comments": "4",
+        "bookmarks": "7",
+        "views": "727"
+    },
+    {
+        "url": "https://habr.com/ru/companies/idx/articles/954106/",
+        "title": "Революция доверия: как Self-Sovereign Identity меняет правила игры. Разбираемся. Часть 1",
+        "author": "DedaVova",
+        "date": "2025-10-07",
+        "time": "14:58",
+        "votes": "+5",
+        "comments": "0",
+        "bookmarks": "8",
+        "views": "665"
+    },
+    {
+        "url": "https://habr.com/ru/companies/idx/articles/941906/",
+        "title": "Лицо, голос и тело по-датски",
+        "author": "DedaVova",
+        "date": "2025-08-29",
+        "time": "07:24",
+        "votes": "+2",
+        "comments": "2",
+        "bookmarks": "5",
+        "views": "707"
+    },
+    {
+        "url": "https://habr.com/ru/companies/idx/articles/932274/",
+        "title": "Zero Trust Architecture и персональные данные",
+        "author": "DedaVova",
+        "date": "2025-07-30",
+        "time": "06:21",
+        "votes": "+4",
+        "comments": "2",
+        "bookmarks": "10",
+        "views": "985"
+    },
+    {
+        "url": "https://habr.com/ru/companies/idx/articles/927522/",
+        "title": "ИИ-агенты и удостоверение персональных данных",
+        "author": "DedaVova",
+        "date": "2025-07-14",
+        "time": "10:28",
+        "votes": "+2",
+        "comments": "0",
+        "bookmarks": "12",
+        "views": "1079"
+    },
+    {
+        "url": "https://habr.com/ru/companies/idx/articles/919466/",
+        "title": "ИИ агенты и хлопобуды",
+        "author": "DedaVova",
+        "date": "2025-06-18",
+        "time": "08:16",
+        "votes": "+6",
+        "comments": "7",
+        "bookmarks": "11",
+        "views": "1246"
+    },
+    {
+        "url": "https://habr.com/ru/companies/idx/articles/912214/",
+        "title": "ПОСТРОЕНИЕ ДОВЕРИЯ К ИИ: как блокчейн повышает целостность, безопасность и конфиденциальность данных",
+        "author": "DedaVova",
+        "date": "2025-05-23",
+        "time": "11:05",
+        "votes": "0",
+        "comments": "3",
+        "bookmarks": "4",
+        "views": "1985"
+    },
+    {
+        "url": "https://habr.com/ru/companies/idx/articles/892704/",
+        "title": "Глобальный ущерб от ковида равен десяти триллионам долларов. Можете представить ущерб от кибер-пандемии?",
+        "author": "DedaVova",
+        "date": "2025-03-20",
+        "time": "10:55",
+        "votes": "+2",
+        "comments": "4",
+        "bookmarks": "9",
+        "views": "776"
+    },
+    {
+        "url": "https://habr.com/ru/companies/idx/articles/889370/",
+        "title": "Место и роль ID-сервисов в борьбе с киберпреступлениями",
+        "author": "DedaVova",
+        "date": "2025-03-10",
+        "time": "09:00",
+        "votes": "+1",
+        "comments": "0",
+        "bookmarks": "4",
+        "views": "527"
+    },
+    {
+        "url": "https://habr.com/ru/companies/idx/articles/881314/",
+        "title": "Так ли страшен DeepSeek, как его малюет Cerebras?",
+        "author": "DedaVova",
+        "date": "2025-02-11",
+        "time": "09:35",
+        "votes": "0",
+        "comments": "2",
+        "bookmarks": "11",
+        "views": "2387"
+    },
+    {
+        "url": "https://habr.com/ru/companies/idx/articles/871090/",
+        "title": "Ещё раз о великой границе между материей и сознанием",
+        "author": "DedaVova",
+        "date": "2024-12-31",
+        "time": "13:06",
+        "votes": "+5",
+        "comments": "20",
+        "bookmarks": "19",
+        "views": "3097"
+    },
+    {
+        "url": "https://habr.com/ru/companies/idx/articles/868934/",
+        "title": "OSINT. Теперь о чем шум?",
+        "author": "DedaVova",
+        "date": "2024-12-23",
+        "time": "13:22",
+        "votes": "+5",
+        "comments": "2",
+        "bookmarks": "32",
+        "views": "5518"
+    },
+    {
+        "url": "https://habr.com/ru/companies/idx/articles/866684/",
+        "title": "«Элемент впаривания». Интервью со специалистом по интернет-рекламе",
+        "author": "DedaVova",
+        "date": "2024-12-15",
+        "time": "08:22",
+        "votes": "+5",
+        "comments": "0",
+        "bookmarks": "14",
+        "views": "1832"
+    },
+    {
+        "url": "https://habr.com/ru/companies/idx/articles/862370/",
+        "title": "Как понять нейронные сети? Часть 2",
+        "author": "DedaVova",
+        "date": "2024-11-29",
+        "time": "09:37",
+        "votes": "+4",
+        "comments": "3",
+        "bookmarks": "39",
+        "views": "2387"
+    },
+    {
+        "url": "https://habr.com/ru/companies/idx/articles/862332/",
+        "title": "Как понять нейронные сети? Часть 1",
+        "author": "DedaVova",
+        "date": "2024-11-29",
+        "time": "08:48",
+        "votes": "+12",
+        "comments": "0",
+        "bookmarks": "76",
+        "views": "6581"
+    },
+    {
+        "url": "https://habr.com/ru/companies/idx/articles/846182/",
+        "title": "О кожуре гиперапельсина",
+        "author": "DedaVova",
+        "date": "2024-11-17",
+        "time": "10:27",
+        "votes": "+13",
+        "comments": "6",
+        "bookmarks": "14",
+        "views": "2888"
+    },
+    {
+        "url": "https://habr.com/ru/companies/idx/articles/854358/",
+        "title": "Почему надувается пузырь персональных данных",
+        "author": "DedaVova",
+        "date": "2024-10-29",
+        "time": "13:40",
+        "votes": "+16",
+        "comments": "39",
+        "bookmarks": "32",
+        "views": "11779"
+    },
+    {
+        "url": "https://habr.com/ru/companies/idx/articles/844812/",
+        "title": "Угрозы информационной безопасности через оптику Звездных Войн",
+        "author": "DedaVova",
+        "date": "2024-09-23",
+        "time": "07:20",
+        "votes": "+11",
+        "comments": "10",
+        "bookmarks": "22",
+        "views": "2869"
+    }
+]

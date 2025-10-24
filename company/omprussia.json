@@ -1,0 +1,68 @@
+[
+    {
+        "url": "https://habr.com/ru/companies/omprussia/articles/696574/",
+        "title": "ОС Аврора 4.0.2 для разработчиков: обзор и примеры исходного кода",
+        "author": "omprussia",
+        "date": "2022-10-31",
+        "time": "14:59",
+        "votes": "+8",
+        "comments": "13",
+        "bookmarks": "37",
+        "views": "26829"
+    },
+    {
+        "url": "https://habr.com/ru/companies/omprussia/articles/578250/",
+        "title": "Распознаем речь в Авроре",
+        "author": "omprussia",
+        "date": "2021-09-16",
+        "time": "09:31",
+        "votes": "+8",
+        "comments": "3",
+        "bookmarks": "17",
+        "views": "3716"
+    },
+    {
+        "url": "https://habr.com/ru/companies/omprussia/articles/568704/",
+        "title": "Linux на мобилках, PDFium и как рендерить PDF в 2 раза быстрее",
+        "author": "omprussia",
+        "date": "2021-07-21",
+        "time": "09:20",
+        "votes": "+3",
+        "comments": "6",
+        "bookmarks": "29",
+        "views": "6768"
+    },
+    {
+        "url": "https://habr.com/ru/companies/omprussia/articles/558690/",
+        "title": "Как писать кодогенераторы в Go",
+        "author": "omprussia",
+        "date": "2021-06-03",
+        "time": "13:00",
+        "votes": "+7",
+        "comments": "6",
+        "bookmarks": "94",
+        "views": "19169"
+    },
+    {
+        "url": "https://habr.com/ru/companies/omprussia/articles/555238/",
+        "title": "Создаём плагин Qt GeoServices на примере ОС Аврора, OpenStreetMap и Sight Safari",
+        "author": "omprussia",
+        "date": "2021-05-04",
+        "time": "07:49",
+        "votes": "+2",
+        "comments": "0",
+        "bookmarks": "20",
+        "views": "7228"
+    },
+    {
+        "url": "https://habr.com/ru/companies/omprussia/articles/540222/",
+        "title": "Защита ядра Linux из ARM Trustzone: как усилить Linux Kernel Runtime Guard и предотвращать последствия zero-day",
+        "author": "aalbova",
+        "date": "2021-02-02",
+        "time": "06:51",
+        "votes": "+11",
+        "comments": "24",
+        "bookmarks": "36",
+        "views": "7144"
+    }
+]

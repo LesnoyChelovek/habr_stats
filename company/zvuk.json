@@ -1,0 +1,200 @@
+[
+    {
+        "url": "https://habr.com/ru/companies/zvuk/articles/951658/",
+        "title": "Способы стабилизации автотестов на backend: опыт сервиса Звук",
+        "author": "Burt25",
+        "date": "2025-09-29",
+        "time": "10:15",
+        "votes": "+8",
+        "comments": "0",
+        "bookmarks": "13",
+        "views": "1149"
+    },
+    {
+        "url": "https://habr.com/ru/companies/oleg-bunin/articles/930280/",
+        "title": "Развитие инженеров от Senior до Principal с точки зрения руководителя",
+        "author": "evseich",
+        "date": "2025-07-24",
+        "time": "09:00",
+        "votes": "+24",
+        "comments": "5",
+        "bookmarks": "49",
+        "views": "6606"
+    },
+    {
+        "url": "https://habr.com/ru/companies/zvuk/articles/869664/",
+        "title": "Опыт Звука: как реализовать рекомендательную систему аудиокниг с использованием больших языковых моделей (LLM)",
+        "author": "Dmitry_Berestnev",
+        "date": "2024-12-26",
+        "time": "10:48",
+        "votes": "+6",
+        "comments": "2",
+        "bookmarks": "21",
+        "views": "1653"
+    },
+    {
+        "url": "https://habr.com/ru/companies/zvuk/articles/864166/",
+        "title": "Как собрать и внедрить высоконагруженный модуль. Опыт Звука",
+        "author": "ReilganInt",
+        "date": "2024-12-10",
+        "time": "10:24",
+        "votes": "+8",
+        "comments": "2",
+        "bookmarks": "17",
+        "views": "2312"
+    },
+    {
+        "url": "https://habr.com/ru/companies/zvuk/articles/858272/",
+        "title": "Как создать архитектуру фронтенд-приложения, если ее нет от слова «совсем»",
+        "author": "VadimOnix",
+        "date": "2024-11-14",
+        "time": "10:17",
+        "votes": "+10",
+        "comments": "3",
+        "bookmarks": "40",
+        "views": "2850"
+    },
+    {
+        "url": "https://habr.com/ru/companies/zvuk/articles/854902/",
+        "title": "Борьба с багами, или как мы провели внутренний эксперимент с командой QA",
+        "author": "talya_youth",
+        "date": "2024-10-31",
+        "time": "13:01",
+        "votes": "+12",
+        "comments": "12",
+        "bookmarks": "21",
+        "views": "3447"
+    },
+    {
+        "url": "https://habr.com/ru/companies/zvuk/articles/846274/",
+        "title": "Кластеризация для души или как порадовать пользователя музыкального стриминга на старте",
+        "author": "aeterna_nox_0997",
+        "date": "2024-09-27",
+        "time": "12:05",
+        "votes": "+7",
+        "comments": "1",
+        "bookmarks": "7",
+        "views": "995"
+    },
+    {
+        "url": "https://habr.com/ru/companies/zvuk/articles/838870/",
+        "title": "Лирика в IT, или как мы научились вытаскивать тексты из песен. Опыт Звука",
+        "author": "Dmitry_Berestnev",
+        "date": "2024-08-30",
+        "time": "06:01",
+        "votes": "+8",
+        "comments": "1",
+        "bookmarks": "11",
+        "views": "1559"
+    },
+    {
+        "url": "https://habr.com/ru/companies/zvuk/articles/831458/",
+        "title": "Как мы перешли с оффсетной пагинации на курсорную, или о проблемах динамической фильтрации",
+        "author": "jeroyle",
+        "date": "2024-07-30",
+        "time": "06:04",
+        "votes": "+3",
+        "comments": "14",
+        "bookmarks": "32",
+        "views": "5532"
+    },
+    {
+        "url": "https://habr.com/ru/companies/zvuk/articles/798251/",
+        "title": "Джуны — бесплатны. И ещё 7 заблуждений тимлидов о начинающих специалистах",
+        "author": "Antonio-banderas",
+        "date": "2024-07-10",
+        "time": "09:11",
+        "votes": "+26",
+        "comments": "27",
+        "bookmarks": "33",
+        "views": "11680"
+    },
+    {
+        "url": "https://habr.com/ru/companies/zvuk/articles/824430/",
+        "title": "Логирование во фронтенд-приложениях. Опыт Звука",
+        "author": "Roolman",
+        "date": "2024-06-26",
+        "time": "09:35",
+        "votes": "+4",
+        "comments": "9",
+        "bookmarks": "50",
+        "views": "5851"
+    },
+    {
+        "url": "https://habr.com/ru/companies/zvuk/articles/820665/",
+        "title": "Как создать аудиоплеер. Часть 3. Настройка приложения с аудиоплеером и обработка звука",
+        "author": "GARFILD1000",
+        "date": "2024-06-10",
+        "time": "13:56",
+        "votes": "+3",
+        "comments": "1",
+        "bookmarks": "23",
+        "views": "3138"
+    },
+    {
+        "url": "https://habr.com/ru/companies/zvuk/articles/816671/",
+        "title": "Как создать аудиоплеер. Часть 2. Использование ExoPlayer",
+        "author": "GARFILD1000",
+        "date": "2024-06-03",
+        "time": "06:00",
+        "votes": "+5",
+        "comments": "1",
+        "bookmarks": "20",
+        "views": "3922"
+    },
+    {
+        "url": "https://habr.com/ru/companies/zvuk/articles/814017/",
+        "title": "Как создать аудиоплеер. Часть 1. Что под капотом",
+        "author": "GARFILD1000",
+        "date": "2024-05-20",
+        "time": "09:41",
+        "votes": "+12",
+        "comments": "7",
+        "bookmarks": "55",
+        "views": "9068"
+    },
+    {
+        "url": "https://habr.com/ru/companies/zvuk/articles/810529/",
+        "title": "Как мы создавали дизайн-систему: опыт компании Звук",
+        "author": "mariia_bazhina",
+        "date": "2024-04-26",
+        "time": "10:22",
+        "votes": "+9",
+        "comments": "4",
+        "bookmarks": "19",
+        "views": "2367"
+    },
+    {
+        "url": "https://habr.com/ru/companies/zvuk/articles/808799/",
+        "title": "Найти отличия, или внедряем Snapshot-тесты для web. Опыт Звука",
+        "author": "Natali8Dani",
+        "date": "2024-04-19",
+        "time": "06:05",
+        "votes": "+14",
+        "comments": "2",
+        "bookmarks": "17",
+        "views": "2381"
+    },
+    {
+        "url": "https://habr.com/ru/companies/zvuk/articles/804199/",
+        "title": "Как обойтись без UX-редактора и сделать текст в интерфейсе понятным?",
+        "author": "13th_i",
+        "date": "2024-03-31",
+        "time": "08:30",
+        "votes": "+29",
+        "comments": "14",
+        "bookmarks": "59",
+        "views": "6642"
+    },
+    {
+        "url": "https://habr.com/ru/companies/zvuk/articles/698352/",
+        "title": "Как упростить жизнь за 312 коротких шагов: проектируем GraphQL API в микросервисной архитектуре",
+        "author": "NizhnikovEvgeny",
+        "date": "2022-11-09",
+        "time": "11:47",
+        "votes": "+27",
+        "comments": "36",
+        "bookmarks": "120",
+        "views": "13015"
+    }
+]
